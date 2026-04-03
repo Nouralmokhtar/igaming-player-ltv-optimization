@@ -1,0 +1,2001 @@
+player_id,registration_date,country,segment,status,preferred_game,deposit_method,last_login,kyc_verified
+P00001,2023-01-26,Cyprus,Regular,Self-Excluded,Live Casino,Credit Card,2023-10-03,Yes
+P00002,2023-03-31,UK,VIP,Active,Slots,E-Wallet,2024-12-17,Yes
+P00003,2024-07-28,Finland,Regular,Active,Sports Betting,E-Wallet,2024-12-27,Yes
+P00004,2023-01-07,Canada,Casual,Dormant,Table Games,Bank Transfer,2023-06-19,Yes
+P00005,2023-12-11,Germany,Whale,Active,Table Games,Bank Transfer,2024-12-23,Yes
+P00006,2024-04-15,Canada,VIP,Active,Slots,Bank Transfer,2024-12-31,No
+P00007,2024-01-06,UK,Regular,Inactive,Live Casino,Bank Transfer,2024-02-10,No
+P00008,2023-04-14,India,VIP,Active,Live Casino,Bank Transfer,2024-12-24,Yes
+P00009,2024-12-19,Germany,Regular,Dormant,Poker,E-Wallet,2024-12-19,Yes
+P00010,2024-04-18,Finland,Casual,Inactive,Live Casino,Bank Transfer,2024-09-28,No
+P00011,2023-08-23,Canada,Regular,Dormant,Table Games,Credit Card,2024-01-31,Yes
+P00012,2023-11-19,Canada,VIP,Active,Sports Betting,E-Wallet,2024-12-24,Yes
+P00013,2024-07-28,Nigeria,Casual,Inactive,Sports Betting,Crypto,2024-10-31,Yes
+P00014,2023-05-22,UK,Whale,Active,Slots,E-Wallet,2024-12-18,Yes
+P00015,2024-03-08,Canada,Regular,Inactive,Poker,Crypto,2024-09-21,Yes
+P00016,2023-01-12,Finland,Whale,Inactive,Table Games,Bank Transfer,2023-05-09,Yes
+P00017,2024-04-09,Brazil,Casual,Active,Poker,E-Wallet,2024-12-28,Yes
+P00018,2024-10-02,Finland,Casual,Active,Poker,E-Wallet,2024-12-27,Yes
+P00019,2024-07-06,UK,Regular,Dormant,Poker,Bank Transfer,2024-09-11,Yes
+P00020,2024-01-07,Cyprus,Casual,Dormant,Slots,E-Wallet,2024-06-12,No
+P00021,2023-03-29,Finland,VIP,Inactive,Live Casino,E-Wallet,2023-06-07,Yes
+P00022,2023-06-19,Nigeria,VIP,Active,Sports Betting,E-Wallet,2024-12-30,No
+P00023,2024-12-07,Canada,Regular,Active,Table Games,Crypto,2024-12-21,No
+P00024,2023-09-11,UK,Casual,Active,Poker,E-Wallet,2024-12-22,Yes
+P00025,2024-12-25,Cyprus,Casual,Inactive,Slots,Credit Card,2024-12-25,No
+P00026,2023-09-01,Cyprus,Casual,Active,Poker,E-Wallet,2024-12-24,Yes
+P00027,2024-08-13,Sweden,VIP,Active,Sports Betting,E-Wallet,2024-12-29,Yes
+P00028,2023-12-29,UK,Regular,Inactive,Slots,Credit Card,2024-08-24,Yes
+P00029,2023-04-22,Finland,Casual,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P00030,2023-09-13,Sweden,Casual,Dormant,Poker,Credit Card,2023-10-21,Yes
+P00031,2023-01-16,Malta,Whale,Dormant,Sports Betting,Crypto,2023-09-15,Yes
+P00032,2023-03-02,Canada,VIP,Active,Table Games,Crypto,2024-12-17,Yes
+P00033,2024-07-23,Malta,Regular,Self-Excluded,Live Casino,Bank Transfer,2024-11-24,Yes
+P00034,2024-07-09,UK,Casual,Active,Slots,Crypto,2024-12-22,Yes
+P00035,2023-06-11,Germany,VIP,Active,Live Casino,Credit Card,2024-12-25,Yes
+P00036,2023-08-29,Nigeria,Regular,Inactive,Live Casino,Credit Card,2024-11-26,Yes
+P00037,2024-08-20,Brazil,Casual,Inactive,Live Casino,Bank Transfer,2024-09-29,Yes
+P00038,2024-11-18,India,Casual,Inactive,Slots,Credit Card,2024-11-25,Yes
+P00039,2023-04-13,Finland,Whale,Active,Table Games,E-Wallet,2024-12-20,No
+P00040,2023-09-08,Sweden,VIP,Active,Poker,Bank Transfer,2024-12-19,Yes
+P00041,2024-10-31,Finland,Whale,Active,Table Games,Credit Card,2024-12-27,No
+P00042,2023-04-29,Brazil,Casual,Dormant,Table Games,E-Wallet,2023-10-05,Yes
+P00043,2024-10-11,Finland,Casual,Dormant,Sports Betting,Bank Transfer,2024-10-11,No
+P00044,2023-04-05,UK,VIP,Inactive,Slots,Bank Transfer,2024-01-13,No
+P00045,2023-09-26,Finland,Regular,Active,Sports Betting,Credit Card,2024-12-24,Yes
+P00046,2024-12-08,Finland,VIP,Dormant,Slots,Bank Transfer,2024-12-08,Yes
+P00047,2023-05-11,UK,Casual,Active,Table Games,E-Wallet,2024-12-22,Yes
+P00048,2023-12-29,Nigeria,Regular,Dormant,Live Casino,E-Wallet,2024-07-24,No
+P00049,2023-07-01,Malta,Whale,Dormant,Table Games,Crypto,2023-07-13,No
+P00050,2023-09-12,Germany,VIP,Active,Sports Betting,Credit Card,2024-12-29,No
+P00051,2024-04-16,Cyprus,Casual,Active,Live Casino,Credit Card,2024-12-30,Yes
+P00052,2023-10-13,India,Casual,Dormant,Poker,Crypto,2024-03-03,Yes
+P00053,2023-12-06,Brazil,VIP,Dormant,Live Casino,Bank Transfer,2024-02-03,Yes
+P00054,2023-12-20,Canada,Regular,Self-Excluded,Poker,Credit Card,2024-05-28,Yes
+P00055,2023-09-18,UK,Regular,Active,Poker,E-Wallet,2024-12-23,Yes
+P00056,2024-11-11,Nigeria,Casual,Dormant,Table Games,Credit Card,2024-11-11,Yes
+P00057,2023-11-13,Canada,Casual,Self-Excluded,Table Games,E-Wallet,2024-04-28,Yes
+P00058,2024-01-24,Nigeria,Regular,Self-Excluded,Poker,Bank Transfer,2024-04-22,Yes
+P00059,2023-11-08,Nigeria,VIP,Active,Poker,Bank Transfer,2024-12-23,Yes
+P00060,2023-08-07,Malta,Casual,Inactive,Slots,Bank Transfer,2024-09-16,Yes
+P00061,2023-12-10,Cyprus,Regular,Active,Table Games,E-Wallet,2024-12-29,No
+P00062,2023-02-17,Nigeria,Casual,Active,Slots,Crypto,2024-12-24,Yes
+P00063,2023-07-19,Sweden,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-01-31,Yes
+P00064,2023-04-20,Malta,Regular,Dormant,Poker,Crypto,2023-11-30,Yes
+P00065,2023-05-05,Finland,Casual,Inactive,Poker,Bank Transfer,2024-08-22,No
+P00066,2024-09-19,Canada,VIP,Self-Excluded,Poker,Crypto,2024-11-22,No
+P00067,2024-05-01,Cyprus,Regular,Inactive,Table Games,Crypto,2024-11-09,Yes
+P00068,2023-03-21,Brazil,Casual,Self-Excluded,Table Games,Bank Transfer,2023-11-16,No
+P00069,2023-06-04,Malta,Casual,Active,Live Casino,Credit Card,2024-12-28,Yes
+P00070,2024-04-22,Canada,Casual,Inactive,Sports Betting,Credit Card,2024-06-13,No
+P00071,2024-01-25,Brazil,Regular,Inactive,Sports Betting,Crypto,2024-07-23,Yes
+P00072,2024-09-09,Cyprus,Regular,Dormant,Table Games,Crypto,2024-09-24,Yes
+P00073,2024-11-15,Malta,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-11-27,No
+P00074,2024-02-08,Germany,Regular,Inactive,Sports Betting,E-Wallet,2024-02-21,No
+P00075,2023-09-24,Sweden,Casual,Inactive,Table Games,Bank Transfer,2024-01-10,No
+P00076,2024-03-07,Sweden,Casual,Active,Slots,Credit Card,2024-12-18,No
+P00077,2024-10-27,UK,Casual,Active,Slots,E-Wallet,2024-12-27,Yes
+P00078,2023-06-06,Germany,Casual,Active,Poker,E-Wallet,2024-12-24,Yes
+P00079,2024-01-13,Germany,Casual,Active,Live Casino,Bank Transfer,2024-12-26,Yes
+P00080,2023-11-16,Canada,Casual,Inactive,Live Casino,Credit Card,2024-05-26,Yes
+P00081,2023-09-06,Brazil,VIP,Active,Poker,Credit Card,2024-12-29,No
+P00082,2023-02-12,India,Regular,Active,Slots,Bank Transfer,2024-12-23,Yes
+P00083,2024-05-16,Sweden,Casual,Active,Live Casino,Crypto,2024-12-22,Yes
+P00084,2024-10-28,Finland,Regular,Active,Sports Betting,Crypto,2024-12-29,Yes
+P00085,2023-10-02,Germany,Regular,Active,Table Games,Crypto,2024-12-20,Yes
+P00086,2024-09-16,UK,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-10-29,Yes
+P00087,2023-09-22,Nigeria,Casual,Active,Table Games,Credit Card,2024-12-31,Yes
+P00088,2023-09-05,Finland,Casual,Self-Excluded,Live Casino,Crypto,2024-05-12,Yes
+P00089,2023-01-18,Canada,Casual,Active,Live Casino,Bank Transfer,2024-12-20,Yes
+P00090,2024-07-20,Finland,Casual,Inactive,Table Games,Bank Transfer,2024-11-05,Yes
+P00091,2023-09-15,Cyprus,Casual,Active,Table Games,Credit Card,2024-12-28,Yes
+P00092,2024-12-07,Sweden,Whale,Active,Table Games,Bank Transfer,2024-12-20,No
+P00093,2023-10-31,Brazil,VIP,Active,Slots,E-Wallet,2024-12-19,Yes
+P00094,2024-07-20,Sweden,Whale,Active,Slots,Credit Card,2024-12-19,Yes
+P00095,2024-03-27,Brazil,Casual,Active,Sports Betting,Credit Card,2024-12-17,No
+P00096,2023-03-17,Malta,Casual,Inactive,Live Casino,Bank Transfer,2023-05-10,Yes
+P00097,2024-07-25,Finland,Casual,Dormant,Sports Betting,Crypto,2024-08-22,No
+P00098,2024-08-25,Nigeria,Casual,Dormant,Poker,Credit Card,2024-09-13,Yes
+P00099,2023-08-01,Germany,Regular,Inactive,Live Casino,E-Wallet,2023-12-14,Yes
+P00100,2023-01-03,Sweden,Casual,Inactive,Table Games,Credit Card,2024-09-02,Yes
+P00101,2024-12-20,Germany,Regular,Dormant,Live Casino,Bank Transfer,2024-12-20,No
+P00102,2024-11-08,Cyprus,Regular,Dormant,Sports Betting,Credit Card,2024-11-08,Yes
+P00103,2023-09-30,UK,Regular,Dormant,Live Casino,Bank Transfer,2023-11-05,Yes
+P00104,2023-10-23,Brazil,VIP,Active,Sports Betting,Bank Transfer,2024-12-24,Yes
+P00105,2023-03-24,India,Casual,Inactive,Poker,Bank Transfer,2024-06-08,Yes
+P00106,2024-11-21,Nigeria,Casual,Dormant,Poker,Credit Card,2024-11-21,No
+P00107,2023-10-03,Malta,Regular,Inactive,Sports Betting,Crypto,2024-10-27,No
+P00108,2024-08-22,Germany,Casual,Inactive,Sports Betting,Bank Transfer,2024-10-23,Yes
+P00109,2023-04-18,Canada,Casual,Dormant,Sports Betting,Bank Transfer,2024-03-20,Yes
+P00110,2024-07-17,India,Casual,Active,Table Games,Bank Transfer,2024-12-18,Yes
+P00111,2024-06-10,Finland,Regular,Dormant,Sports Betting,Crypto,2024-06-10,Yes
+P00112,2024-09-29,UK,Regular,Dormant,Live Casino,Bank Transfer,2024-10-02,Yes
+P00113,2024-03-24,Germany,VIP,Dormant,Slots,E-Wallet,2024-07-26,Yes
+P00114,2023-01-15,Cyprus,Casual,Inactive,Slots,Crypto,2023-04-20,No
+P00115,2023-06-07,Finland,Regular,Inactive,Table Games,Crypto,2024-03-31,No
+P00116,2023-09-07,Canada,Whale,Active,Live Casino,E-Wallet,2024-12-19,No
+P00117,2024-02-29,Finland,Casual,Active,Table Games,Credit Card,2024-12-29,Yes
+P00118,2024-08-24,Sweden,Casual,Inactive,Live Casino,Crypto,2024-11-16,Yes
+P00119,2024-07-19,Sweden,Casual,Dormant,Table Games,E-Wallet,2024-09-05,No
+P00120,2024-01-28,Canada,Casual,Active,Slots,Bank Transfer,2024-12-29,Yes
+P00121,2024-01-26,Sweden,Regular,Inactive,Slots,E-Wallet,2024-04-12,Yes
+P00122,2023-04-13,Germany,Regular,Dormant,Poker,Crypto,2024-07-06,Yes
+P00123,2024-11-01,Germany,Casual,Dormant,Sports Betting,Bank Transfer,2024-11-01,Yes
+P00124,2024-10-27,Finland,Regular,Active,Sports Betting,Bank Transfer,2024-12-22,Yes
+P00125,2024-05-14,Nigeria,VIP,Dormant,Slots,E-Wallet,2024-05-23,Yes
+P00126,2023-08-21,Germany,VIP,Inactive,Slots,Crypto,2024-03-30,Yes
+P00127,2023-01-30,UK,Casual,Active,Table Games,Bank Transfer,2024-12-29,Yes
+P00128,2024-06-27,Malta,Casual,Inactive,Live Casino,Credit Card,2024-08-12,Yes
+P00129,2024-11-30,Nigeria,Casual,Active,Live Casino,E-Wallet,2024-12-31,Yes
+P00130,2023-09-19,Sweden,Casual,Self-Excluded,Table Games,E-Wallet,2024-11-03,Yes
+P00131,2024-08-24,Brazil,VIP,Active,Sports Betting,Bank Transfer,2024-12-23,Yes
+P00132,2024-05-09,Nigeria,Casual,Active,Table Games,Bank Transfer,2024-12-23,No
+P00133,2024-11-05,Nigeria,Casual,Inactive,Slots,Crypto,2024-11-05,No
+P00134,2023-08-24,Cyprus,VIP,Inactive,Live Casino,Bank Transfer,2024-02-20,Yes
+P00135,2024-11-06,Germany,Regular,Self-Excluded,Slots,Bank Transfer,2024-11-10,No
+P00136,2024-01-09,Brazil,Casual,Self-Excluded,Table Games,Crypto,2024-02-24,Yes
+P00137,2024-07-06,Finland,Casual,Dormant,Poker,Bank Transfer,2024-08-21,No
+P00138,2024-05-08,India,Casual,Dormant,Slots,Crypto,2024-07-22,No
+P00139,2023-08-20,Canada,Casual,Dormant,Poker,Bank Transfer,2024-08-24,Yes
+P00140,2023-09-28,India,Casual,Inactive,Table Games,Crypto,2024-05-17,No
+P00141,2023-04-21,UK,VIP,Inactive,Poker,Bank Transfer,2024-08-15,No
+P00142,2023-03-06,Brazil,Casual,Inactive,Sports Betting,Credit Card,2024-06-23,Yes
+P00143,2023-11-08,Germany,VIP,Dormant,Live Casino,E-Wallet,2024-01-06,Yes
+P00144,2024-12-14,Canada,Casual,Dormant,Poker,E-Wallet,2024-12-14,No
+P00145,2024-05-16,UK,Regular,Inactive,Table Games,E-Wallet,2024-07-26,Yes
+P00146,2024-01-07,India,Whale,Active,Poker,Bank Transfer,2024-12-27,Yes
+P00147,2023-05-06,Germany,Casual,Dormant,Live Casino,Credit Card,2024-08-13,Yes
+P00148,2023-05-09,Germany,Casual,Dormant,Poker,E-Wallet,2023-12-05,Yes
+P00149,2023-08-27,Nigeria,VIP,Active,Slots,Bank Transfer,2024-12-19,No
+P00150,2023-05-14,Germany,Casual,Inactive,Slots,E-Wallet,2023-11-08,Yes
+P00151,2023-09-01,Malta,Regular,Inactive,Table Games,Credit Card,2023-09-09,Yes
+P00152,2023-04-27,Sweden,Casual,Self-Excluded,Table Games,Credit Card,2024-08-26,Yes
+P00153,2024-09-21,Finland,Casual,Active,Table Games,Crypto,2024-12-29,Yes
+P00154,2024-05-05,Germany,Casual,Dormant,Sports Betting,Crypto,2024-08-22,Yes
+P00155,2024-09-14,Brazil,Casual,Active,Poker,Bank Transfer,2024-12-19,Yes
+P00156,2023-10-29,Canada,Regular,Inactive,Slots,Credit Card,2024-09-02,No
+P00157,2024-07-18,Canada,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-09-11,Yes
+P00158,2024-02-13,India,VIP,Active,Sports Betting,Bank Transfer,2024-12-18,Yes
+P00159,2023-06-06,Germany,Casual,Self-Excluded,Slots,Credit Card,2024-10-03,Yes
+P00160,2024-01-17,Nigeria,Casual,Dormant,Poker,Bank Transfer,2024-02-16,Yes
+P00161,2024-11-12,Canada,Casual,Dormant,Slots,Bank Transfer,2024-11-12,Yes
+P00162,2024-08-14,Sweden,Casual,Inactive,Live Casino,Credit Card,2024-09-02,Yes
+P00163,2023-04-28,Canada,Regular,Dormant,Poker,Credit Card,2023-12-15,Yes
+P00164,2024-12-11,Brazil,Regular,Active,Table Games,Bank Transfer,2024-12-19,Yes
+P00165,2023-05-27,Germany,Casual,Inactive,Live Casino,Credit Card,2024-07-10,Yes
+P00166,2024-01-21,Malta,Regular,Inactive,Table Games,Bank Transfer,2024-07-13,Yes
+P00167,2024-08-04,UK,Regular,Inactive,Live Casino,E-Wallet,2024-11-25,No
+P00168,2023-03-25,Canada,Casual,Active,Sports Betting,Crypto,2024-12-27,Yes
+P00169,2024-06-08,Germany,Casual,Active,Table Games,Crypto,2024-12-23,Yes
+P00170,2023-08-14,UK,Casual,Inactive,Slots,E-Wallet,2024-06-15,Yes
+P00171,2023-05-21,India,Casual,Dormant,Slots,Credit Card,2023-10-16,Yes
+P00172,2023-05-13,Finland,Casual,Inactive,Poker,Bank Transfer,2024-01-03,Yes
+P00173,2023-02-13,Germany,VIP,Active,Table Games,Crypto,2024-12-24,Yes
+P00174,2024-03-03,UK,Regular,Active,Table Games,E-Wallet,2024-12-23,No
+P00175,2024-12-07,Germany,Regular,Dormant,Sports Betting,Credit Card,2024-12-07,Yes
+P00176,2024-06-20,Brazil,Regular,Active,Table Games,E-Wallet,2024-12-30,Yes
+P00177,2024-06-06,Finland,Casual,Inactive,Live Casino,Bank Transfer,2024-10-19,Yes
+P00178,2024-10-22,Germany,Whale,Self-Excluded,Live Casino,Bank Transfer,2024-11-06,Yes
+P00179,2024-11-02,Sweden,Regular,Active,Sports Betting,Crypto,2024-12-29,Yes
+P00180,2024-10-20,India,VIP,Inactive,Table Games,E-Wallet,2024-11-28,Yes
+P00181,2024-10-08,Nigeria,Casual,Active,Slots,Bank Transfer,2024-12-21,Yes
+P00182,2024-04-07,Brazil,Casual,Active,Slots,Credit Card,2024-12-22,Yes
+P00183,2024-04-18,UK,Regular,Inactive,Sports Betting,E-Wallet,2024-11-06,Yes
+P00184,2023-06-04,Germany,Casual,Dormant,Table Games,Credit Card,2024-01-20,Yes
+P00185,2023-09-11,Finland,Casual,Self-Excluded,Poker,E-Wallet,2024-04-22,Yes
+P00186,2024-02-01,Nigeria,VIP,Active,Slots,Bank Transfer,2024-12-22,Yes
+P00187,2024-11-25,Nigeria,Casual,Inactive,Live Casino,Bank Transfer,2024-11-27,Yes
+P00188,2023-12-25,Canada,Regular,Active,Live Casino,Credit Card,2024-12-27,Yes
+P00189,2023-12-03,Germany,Casual,Dormant,Sports Betting,Bank Transfer,2024-08-28,Yes
+P00190,2023-08-08,Sweden,Casual,Active,Live Casino,E-Wallet,2024-12-29,No
+P00191,2023-10-30,Finland,Casual,Dormant,Poker,Credit Card,2023-12-20,Yes
+P00192,2024-09-24,Malta,VIP,Active,Live Casino,E-Wallet,2024-12-23,No
+P00193,2023-06-19,Canada,Regular,Self-Excluded,Table Games,E-Wallet,2023-08-02,No
+P00194,2024-04-04,Brazil,Regular,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P00195,2024-03-27,Canada,VIP,Active,Poker,Crypto,2024-12-21,No
+P00196,2024-09-11,UK,VIP,Active,Sports Betting,Bank Transfer,2024-12-21,Yes
+P00197,2024-06-12,Germany,Casual,Dormant,Live Casino,Bank Transfer,2024-07-18,Yes
+P00198,2024-03-23,Cyprus,Regular,Active,Sports Betting,Bank Transfer,2024-12-31,No
+P00199,2024-02-10,Canada,Casual,Inactive,Slots,Bank Transfer,2024-06-09,Yes
+P00200,2023-04-12,Malta,Casual,Dormant,Live Casino,Credit Card,2024-03-20,Yes
+P00201,2024-12-13,Sweden,VIP,Self-Excluded,Sports Betting,Credit Card,2024-12-13,No
+P00202,2023-08-09,Nigeria,Casual,Dormant,Poker,Crypto,2024-05-15,Yes
+P00203,2023-11-05,Canada,Casual,Active,Poker,Crypto,2024-12-20,Yes
+P00204,2024-05-26,Finland,VIP,Active,Poker,E-Wallet,2024-12-17,Yes
+P00205,2023-01-02,Nigeria,Casual,Inactive,Sports Betting,E-Wallet,2023-09-05,Yes
+P00206,2024-01-05,Finland,Casual,Active,Poker,Credit Card,2024-12-25,Yes
+P00207,2024-10-12,Brazil,Casual,Inactive,Slots,Bank Transfer,2024-11-04,No
+P00208,2024-11-03,Nigeria,Casual,Inactive,Table Games,E-Wallet,2024-11-27,Yes
+P00209,2024-10-20,Sweden,Regular,Active,Sports Betting,E-Wallet,2024-12-29,No
+P00210,2024-04-13,UK,Casual,Active,Live Casino,Credit Card,2024-12-20,Yes
+P00211,2024-02-12,Sweden,Casual,Dormant,Table Games,Credit Card,2024-06-30,No
+P00212,2024-01-01,India,Casual,Dormant,Table Games,Credit Card,2024-01-25,No
+P00213,2024-02-14,India,Casual,Self-Excluded,Live Casino,Crypto,2024-08-29,Yes
+P00214,2024-06-15,Canada,Casual,Active,Slots,Crypto,2024-12-18,Yes
+P00215,2024-07-12,Germany,VIP,Active,Table Games,Bank Transfer,2024-12-18,Yes
+P00216,2024-03-12,India,Regular,Active,Sports Betting,Credit Card,2024-12-24,Yes
+P00217,2024-09-21,UK,VIP,Dormant,Slots,Crypto,2024-09-25,Yes
+P00218,2024-11-26,Malta,VIP,Active,Poker,Crypto,2024-12-17,Yes
+P00219,2024-10-22,Nigeria,Casual,Inactive,Slots,E-Wallet,2024-11-15,Yes
+P00220,2024-01-16,Nigeria,VIP,Active,Live Casino,Bank Transfer,2024-12-18,Yes
+P00221,2023-09-13,Malta,Regular,Dormant,Sports Betting,Crypto,2023-09-26,No
+P00222,2023-09-24,Nigeria,Casual,Self-Excluded,Table Games,Crypto,2024-01-11,Yes
+P00223,2023-03-17,Germany,Casual,Inactive,Table Games,Bank Transfer,2024-06-14,Yes
+P00224,2023-10-25,Malta,Regular,Dormant,Table Games,E-Wallet,2024-01-13,Yes
+P00225,2023-05-23,UK,Casual,Active,Table Games,Bank Transfer,2024-12-24,Yes
+P00226,2023-05-13,Germany,Whale,Inactive,Table Games,Crypto,2023-08-09,No
+P00227,2024-06-22,Nigeria,Regular,Inactive,Slots,E-Wallet,2024-10-04,No
+P00228,2024-04-05,India,Regular,Inactive,Live Casino,E-Wallet,2024-08-15,No
+P00229,2024-05-29,Germany,Casual,Dormant,Poker,E-Wallet,2024-06-05,Yes
+P00230,2024-12-27,Brazil,Casual,Active,Slots,Bank Transfer,2024-12-25,Yes
+P00231,2023-10-09,Nigeria,Whale,Active,Poker,Credit Card,2024-12-21,Yes
+P00232,2024-08-17,Nigeria,Casual,Active,Poker,Bank Transfer,2024-12-27,No
+P00233,2023-01-30,Nigeria,Regular,Active,Table Games,E-Wallet,2024-12-27,No
+P00234,2024-10-16,Finland,Casual,Active,Table Games,Bank Transfer,2024-12-31,Yes
+P00235,2024-12-02,Germany,VIP,Active,Slots,E-Wallet,2024-12-24,Yes
+P00236,2023-07-28,India,Casual,Active,Table Games,Bank Transfer,2024-12-19,No
+P00237,2024-01-15,India,Casual,Inactive,Live Casino,Crypto,2024-03-09,Yes
+P00238,2023-05-25,Canada,Casual,Active,Poker,Crypto,2024-12-21,Yes
+P00239,2023-06-13,Cyprus,VIP,Self-Excluded,Live Casino,Crypto,2024-04-28,No
+P00240,2023-11-12,Canada,Casual,Inactive,Poker,Crypto,2023-12-28,No
+P00241,2023-12-28,Sweden,Casual,Active,Poker,Crypto,2024-12-21,Yes
+P00242,2023-04-21,India,Casual,Inactive,Sports Betting,Bank Transfer,2024-01-16,Yes
+P00243,2024-07-29,Brazil,Casual,Active,Slots,Crypto,2024-12-25,Yes
+P00244,2023-10-14,Nigeria,Regular,Dormant,Slots,E-Wallet,2024-08-28,No
+P00245,2023-12-14,Malta,Casual,Inactive,Live Casino,Crypto,2024-06-18,Yes
+P00246,2023-05-21,Finland,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-09-17,Yes
+P00247,2023-12-02,Malta,Regular,Dormant,Sports Betting,Bank Transfer,2024-05-13,Yes
+P00248,2024-06-05,Brazil,Regular,Inactive,Sports Betting,Credit Card,2024-10-27,Yes
+P00249,2024-03-02,Nigeria,Regular,Inactive,Sports Betting,Bank Transfer,2024-03-15,No
+P00250,2024-08-15,UK,Regular,Inactive,Poker,Crypto,2024-11-15,Yes
+P00251,2024-09-26,Malta,Regular,Dormant,Live Casino,Credit Card,2024-09-29,Yes
+P00252,2023-07-15,Canada,Regular,Active,Live Casino,Crypto,2024-12-22,Yes
+P00253,2024-09-18,UK,Casual,Dormant,Live Casino,E-Wallet,2024-10-01,Yes
+P00254,2024-05-04,Malta,Whale,Active,Sports Betting,Bank Transfer,2024-12-22,Yes
+P00255,2024-11-28,Nigeria,Regular,Inactive,Sports Betting,E-Wallet,2024-11-30,No
+P00256,2023-11-02,Brazil,Casual,Active,Live Casino,Crypto,2024-12-21,Yes
+P00257,2023-10-08,Finland,Casual,Active,Sports Betting,Crypto,2024-12-26,No
+P00258,2023-05-30,Germany,Whale,Active,Table Games,Crypto,2024-12-21,Yes
+P00259,2023-08-08,Brazil,Regular,Active,Poker,Bank Transfer,2024-12-25,Yes
+P00260,2024-08-23,Finland,Regular,Active,Live Casino,E-Wallet,2024-12-17,Yes
+P00261,2024-04-28,Malta,Casual,Active,Slots,E-Wallet,2024-12-29,Yes
+P00262,2024-05-02,Brazil,VIP,Active,Table Games,Bank Transfer,2024-12-20,Yes
+P00263,2023-04-02,Finland,VIP,Inactive,Slots,E-Wallet,2023-11-25,Yes
+P00264,2023-02-07,Sweden,VIP,Dormant,Live Casino,Bank Transfer,2024-03-19,No
+P00265,2024-08-04,India,Casual,Inactive,Table Games,Crypto,2024-11-30,No
+P00266,2024-05-20,Finland,Regular,Dormant,Sports Betting,Bank Transfer,2024-06-23,Yes
+P00267,2023-06-16,Malta,Casual,Self-Excluded,Slots,Bank Transfer,2024-03-05,No
+P00268,2023-07-17,Canada,Regular,Active,Sports Betting,Bank Transfer,2024-12-30,Yes
+P00269,2023-07-09,India,Regular,Dormant,Live Casino,Credit Card,2024-03-09,Yes
+P00270,2023-10-01,Nigeria,Casual,Dormant,Poker,Credit Card,2024-03-03,Yes
+P00271,2023-08-30,Sweden,Casual,Active,Table Games,E-Wallet,2024-12-18,Yes
+P00272,2024-12-21,Germany,Regular,Dormant,Table Games,Bank Transfer,2024-12-21,Yes
+P00273,2023-05-17,Nigeria,Casual,Inactive,Table Games,Crypto,2024-08-24,Yes
+P00274,2024-07-04,Cyprus,VIP,Self-Excluded,Poker,Credit Card,2024-08-28,Yes
+P00275,2024-01-06,Germany,Regular,Active,Slots,E-Wallet,2024-12-26,Yes
+P00276,2023-12-02,Germany,Casual,Dormant,Live Casino,Crypto,2024-07-15,Yes
+P00277,2023-02-26,Canada,Regular,Inactive,Sports Betting,Credit Card,2024-08-04,Yes
+P00278,2023-11-12,Brazil,Regular,Self-Excluded,Slots,E-Wallet,2024-06-01,Yes
+P00279,2023-12-19,UK,Casual,Self-Excluded,Slots,Crypto,2024-09-21,Yes
+P00280,2023-05-19,Canada,Casual,Dormant,Table Games,Crypto,2024-09-30,Yes
+P00281,2024-01-22,Finland,VIP,Active,Live Casino,Bank Transfer,2024-12-27,Yes
+P00282,2024-02-07,Cyprus,Whale,Active,Slots,Credit Card,2024-12-28,No
+P00283,2024-07-11,Cyprus,Casual,Inactive,Live Casino,Crypto,2024-10-16,Yes
+P00284,2023-04-26,Canada,Casual,Active,Poker,Credit Card,2024-12-27,Yes
+P00285,2024-08-31,UK,Casual,Active,Live Casino,Credit Card,2024-12-26,Yes
+P00286,2023-08-11,UK,Casual,Dormant,Live Casino,Bank Transfer,2024-09-11,Yes
+P00287,2024-08-12,India,VIP,Active,Live Casino,Bank Transfer,2024-12-26,No
+P00288,2024-06-17,Brazil,Whale,Active,Slots,E-Wallet,2024-12-21,Yes
+P00289,2024-05-22,Canada,Casual,Active,Poker,Bank Transfer,2024-12-22,Yes
+P00290,2023-11-04,Finland,Casual,Inactive,Sports Betting,E-Wallet,2024-11-24,No
+P00291,2024-12-25,UK,Casual,Active,Poker,Crypto,2024-12-24,No
+P00292,2023-05-18,Cyprus,Regular,Inactive,Table Games,Credit Card,2024-02-03,No
+P00293,2023-04-05,Cyprus,VIP,Active,Slots,Bank Transfer,2024-12-30,Yes
+P00294,2023-02-10,Nigeria,Regular,Dormant,Poker,E-Wallet,2023-08-21,Yes
+P00295,2023-12-07,UK,VIP,Active,Live Casino,E-Wallet,2024-12-31,No
+P00296,2024-05-05,Canada,Casual,Dormant,Live Casino,Bank Transfer,2024-06-26,No
+P00297,2024-06-30,Brazil,Casual,Inactive,Table Games,Crypto,2024-09-16,Yes
+P00298,2024-04-25,Cyprus,VIP,Inactive,Table Games,Bank Transfer,2024-07-15,Yes
+P00299,2023-08-15,Brazil,Regular,Self-Excluded,Poker,Crypto,2023-08-23,Yes
+P00300,2023-08-24,Cyprus,Casual,Inactive,Sports Betting,Bank Transfer,2024-10-23,Yes
+P00301,2024-10-19,Malta,VIP,Inactive,Table Games,E-Wallet,2024-11-17,Yes
+P00302,2023-07-08,UK,Regular,Dormant,Poker,Credit Card,2024-04-10,No
+P00303,2024-11-15,Canada,Casual,Active,Live Casino,E-Wallet,2024-12-17,Yes
+P00304,2023-08-12,UK,Casual,Inactive,Poker,Crypto,2024-02-19,Yes
+P00305,2024-06-28,UK,Casual,Inactive,Poker,Bank Transfer,2024-07-01,Yes
+P00306,2024-05-29,Canada,Casual,Dormant,Live Casino,Credit Card,2024-08-23,No
+P00307,2023-09-04,Brazil,Regular,Active,Table Games,Bank Transfer,2024-12-25,No
+P00308,2024-02-20,Cyprus,Casual,Inactive,Table Games,Credit Card,2024-06-23,Yes
+P00309,2023-02-02,Canada,VIP,Active,Poker,Crypto,2024-12-23,Yes
+P00310,2023-06-25,Canada,Casual,Active,Table Games,Credit Card,2024-12-30,No
+P00311,2023-08-24,Nigeria,VIP,Active,Sports Betting,Bank Transfer,2024-12-30,Yes
+P00312,2023-10-15,UK,Casual,Dormant,Live Casino,Bank Transfer,2024-07-29,Yes
+P00313,2023-05-28,Canada,Casual,Dormant,Slots,Bank Transfer,2024-05-26,Yes
+P00314,2024-02-03,India,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-11-05,No
+P00315,2023-03-22,UK,Regular,Inactive,Slots,Crypto,2024-03-10,Yes
+P00316,2024-09-11,Canada,Casual,Dormant,Table Games,Credit Card,2024-09-30,Yes
+P00317,2024-04-06,Finland,Regular,Inactive,Sports Betting,Crypto,2024-07-06,Yes
+P00318,2024-01-25,Brazil,Regular,Active,Live Casino,Credit Card,2024-12-26,Yes
+P00319,2024-12-29,Malta,Casual,Dormant,Sports Betting,Bank Transfer,2024-12-29,Yes
+P00320,2023-11-12,Germany,Casual,Inactive,Live Casino,Credit Card,2024-03-29,Yes
+P00321,2024-07-22,UK,Casual,Inactive,Slots,Bank Transfer,2024-08-17,Yes
+P00322,2023-11-29,Brazil,Regular,Dormant,Sports Betting,Crypto,2023-12-05,No
+P00323,2024-07-26,Nigeria,Regular,Dormant,Poker,E-Wallet,2024-08-26,Yes
+P00324,2023-10-03,Malta,Casual,Active,Slots,E-Wallet,2024-12-24,Yes
+P00325,2024-05-10,Brazil,Casual,Dormant,Live Casino,Crypto,2024-08-10,Yes
+P00326,2023-04-20,Canada,Casual,Active,Table Games,Crypto,2024-12-17,No
+P00327,2023-12-09,Nigeria,Casual,Inactive,Live Casino,Bank Transfer,2024-11-06,Yes
+P00328,2023-07-25,Canada,VIP,Active,Table Games,Bank Transfer,2024-12-19,Yes
+P00329,2024-08-12,Canada,Regular,Dormant,Table Games,Crypto,2024-09-01,Yes
+P00330,2023-07-24,Malta,VIP,Active,Poker,Credit Card,2024-12-25,No
+P00331,2024-12-26,Brazil,Casual,Active,Slots,Crypto,2024-12-29,Yes
+P00332,2023-11-07,Malta,Casual,Active,Sports Betting,Crypto,2024-12-27,Yes
+P00333,2024-05-05,Finland,Whale,Active,Sports Betting,Credit Card,2024-12-25,No
+P00334,2024-07-03,Germany,Casual,Inactive,Live Casino,Bank Transfer,2024-07-24,Yes
+P00335,2024-07-30,India,Regular,Dormant,Sports Betting,Credit Card,2024-09-19,Yes
+P00336,2024-06-06,Nigeria,Casual,Self-Excluded,Poker,E-Wallet,2024-10-26,Yes
+P00337,2024-11-26,Malta,Casual,Inactive,Table Games,Credit Card,2024-11-30,Yes
+P00338,2023-03-29,Malta,Casual,Active,Table Games,Bank Transfer,2024-12-28,Yes
+P00339,2024-06-17,Germany,Regular,Inactive,Sports Betting,Crypto,2024-10-16,Yes
+P00340,2024-12-28,India,Casual,Active,Slots,E-Wallet,2024-12-30,No
+P00341,2024-06-12,India,Regular,Active,Poker,Crypto,2024-12-19,No
+P00342,2024-02-19,Canada,Casual,Inactive,Sports Betting,Credit Card,2024-05-24,Yes
+P00343,2024-04-05,UK,VIP,Active,Live Casino,E-Wallet,2024-12-23,Yes
+P00344,2023-03-06,Malta,Regular,Inactive,Table Games,Bank Transfer,2024-09-05,Yes
+P00345,2024-11-17,Finland,Casual,Dormant,Table Games,Crypto,2024-11-17,Yes
+P00346,2023-12-23,Nigeria,Regular,Inactive,Live Casino,Bank Transfer,2024-08-13,No
+P00347,2024-11-19,Cyprus,Regular,Active,Table Games,Credit Card,2024-12-18,Yes
+P00348,2024-06-07,Malta,Regular,Inactive,Poker,Crypto,2024-11-06,Yes
+P00349,2024-07-04,Finland,Casual,Self-Excluded,Live Casino,Crypto,2024-08-17,Yes
+P00350,2024-04-06,India,Casual,Inactive,Slots,Crypto,2024-11-13,Yes
+P00351,2024-07-29,Canada,VIP,Active,Sports Betting,Crypto,2024-12-24,Yes
+P00352,2023-06-21,Cyprus,Casual,Active,Table Games,Credit Card,2024-12-17,Yes
+P00353,2023-06-22,Sweden,Regular,Dormant,Poker,Credit Card,2024-04-06,Yes
+P00354,2024-07-10,Finland,Casual,Dormant,Slots,Crypto,2024-08-25,Yes
+P00355,2023-04-15,Brazil,Whale,Inactive,Slots,Crypto,2023-12-24,Yes
+P00356,2023-03-31,Cyprus,VIP,Active,Live Casino,Bank Transfer,2024-12-18,No
+P00357,2024-03-14,Cyprus,Regular,Active,Live Casino,Credit Card,2024-12-19,Yes
+P00358,2024-09-03,Brazil,Regular,Inactive,Table Games,Bank Transfer,2024-10-14,No
+P00359,2024-11-26,Malta,Regular,Dormant,Sports Betting,Credit Card,2024-11-26,No
+P00360,2023-05-10,Cyprus,VIP,Inactive,Live Casino,Bank Transfer,2023-09-22,No
+P00361,2024-11-23,Nigeria,Regular,Inactive,Table Games,Crypto,2024-11-25,Yes
+P00362,2023-04-06,India,Casual,Inactive,Sports Betting,Crypto,2024-01-15,Yes
+P00363,2023-04-06,India,Casual,Self-Excluded,Slots,Crypto,2024-07-18,Yes
+P00364,2023-08-05,Brazil,Casual,Inactive,Table Games,E-Wallet,2024-01-17,Yes
+P00365,2023-12-18,UK,Casual,Dormant,Slots,Crypto,2024-01-11,Yes
+P00366,2023-06-11,Canada,VIP,Active,Live Casino,E-Wallet,2024-12-17,No
+P00367,2023-10-08,Brazil,Casual,Active,Slots,Bank Transfer,2024-12-22,Yes
+P00368,2023-02-23,Cyprus,Regular,Inactive,Sports Betting,Credit Card,2024-01-01,Yes
+P00369,2024-05-03,Cyprus,Casual,Active,Poker,Crypto,2024-12-26,Yes
+P00370,2023-05-04,Malta,Regular,Dormant,Sports Betting,Credit Card,2024-07-09,Yes
+P00371,2023-04-15,Brazil,Casual,Active,Live Casino,Crypto,2024-12-22,No
+P00372,2023-05-17,Germany,Regular,Inactive,Poker,Credit Card,2023-10-10,Yes
+P00373,2023-12-26,Malta,Casual,Self-Excluded,Sports Betting,Crypto,2024-11-11,No
+P00374,2023-04-13,Nigeria,Casual,Active,Sports Betting,Bank Transfer,2024-12-18,No
+P00375,2023-05-24,Germany,Casual,Active,Live Casino,Bank Transfer,2024-12-27,No
+P00376,2024-11-05,Cyprus,Regular,Dormant,Poker,E-Wallet,2024-11-05,Yes
+P00377,2023-02-25,Sweden,Casual,Dormant,Sports Betting,Credit Card,2023-10-28,Yes
+P00378,2023-03-14,India,Regular,Inactive,Table Games,E-Wallet,2023-03-26,Yes
+P00379,2024-03-06,Malta,VIP,Active,Sports Betting,Credit Card,2024-12-27,Yes
+P00380,2023-09-26,UK,Casual,Active,Sports Betting,Bank Transfer,2024-12-31,Yes
+P00381,2024-03-01,Germany,Regular,Inactive,Poker,E-Wallet,2024-09-22,Yes
+P00382,2024-06-07,Malta,Casual,Dormant,Poker,Bank Transfer,2024-09-18,Yes
+P00383,2024-10-27,Brazil,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-10-31,Yes
+P00384,2024-03-20,Nigeria,Casual,Active,Slots,Bank Transfer,2024-12-26,Yes
+P00385,2023-06-29,Malta,Regular,Active,Slots,E-Wallet,2024-12-28,Yes
+P00386,2024-06-13,Brazil,Casual,Dormant,Live Casino,Bank Transfer,2024-09-13,Yes
+P00387,2023-10-03,UK,Regular,Self-Excluded,Table Games,Crypto,2023-12-02,Yes
+P00388,2024-12-30,Germany,Casual,Dormant,Sports Betting,Crypto,2024-12-30,Yes
+P00389,2024-08-03,Brazil,Casual,Active,Slots,Credit Card,2024-12-19,Yes
+P00390,2023-02-15,Cyprus,Regular,Dormant,Slots,Crypto,2023-02-27,Yes
+P00391,2023-07-03,UK,VIP,Dormant,Poker,Crypto,2024-09-14,Yes
+P00392,2023-11-24,Nigeria,Casual,Active,Table Games,Credit Card,2024-12-18,Yes
+P00393,2023-07-03,UK,VIP,Active,Sports Betting,Credit Card,2024-12-25,No
+P00394,2023-11-15,Sweden,VIP,Active,Slots,Bank Transfer,2024-12-25,Yes
+P00395,2023-11-08,Sweden,Regular,Self-Excluded,Table Games,Crypto,2024-03-11,No
+P00396,2024-07-13,Malta,Regular,Dormant,Slots,Crypto,2024-08-13,Yes
+P00397,2024-10-13,UK,Regular,Dormant,Table Games,Credit Card,2024-10-13,No
+P00398,2023-11-11,Cyprus,Casual,Active,Sports Betting,Crypto,2024-12-25,No
+P00399,2023-05-26,UK,Whale,Inactive,Live Casino,Crypto,2023-08-29,Yes
+P00400,2023-03-28,Malta,Casual,Inactive,Sports Betting,Credit Card,2024-08-26,Yes
+P00401,2024-11-09,Cyprus,Casual,Dormant,Table Games,Bank Transfer,2024-11-09,No
+P00402,2024-02-07,India,VIP,Inactive,Sports Betting,Bank Transfer,2024-07-23,Yes
+P00403,2023-05-20,Malta,VIP,Inactive,Slots,E-Wallet,2023-09-08,Yes
+P00404,2023-05-04,Sweden,Casual,Inactive,Table Games,Crypto,2023-12-02,Yes
+P00405,2023-06-11,Nigeria,Casual,Dormant,Slots,E-Wallet,2023-11-13,No
+P00406,2023-04-04,Canada,Casual,Self-Excluded,Poker,Credit Card,2024-04-02,Yes
+P00407,2023-06-28,Sweden,Casual,Active,Poker,E-Wallet,2024-12-23,Yes
+P00408,2023-05-24,Cyprus,Casual,Active,Live Casino,E-Wallet,2024-12-17,No
+P00409,2024-10-07,Germany,Casual,Dormant,Poker,Bank Transfer,2024-10-07,No
+P00410,2023-03-08,Sweden,Casual,Active,Live Casino,Credit Card,2024-12-27,No
+P00411,2023-12-06,UK,VIP,Active,Live Casino,Crypto,2024-12-24,No
+P00412,2023-01-31,Malta,Casual,Inactive,Table Games,E-Wallet,2024-04-11,No
+P00413,2024-04-01,Nigeria,Casual,Dormant,Poker,E-Wallet,2024-04-09,Yes
+P00414,2024-07-17,Brazil,Casual,Inactive,Sports Betting,E-Wallet,2024-08-08,Yes
+P00415,2024-06-22,Finland,Regular,Active,Slots,Crypto,2024-12-29,No
+P00416,2024-07-11,Nigeria,Casual,Dormant,Poker,Bank Transfer,2024-08-24,Yes
+P00417,2023-11-23,Brazil,Casual,Inactive,Slots,Crypto,2023-12-08,Yes
+P00418,2023-08-27,Cyprus,Regular,Dormant,Live Casino,Bank Transfer,2023-10-17,Yes
+P00419,2023-02-27,Nigeria,Regular,Dormant,Sports Betting,Bank Transfer,2023-10-09,No
+P00420,2023-06-27,India,Whale,Active,Table Games,Credit Card,2024-12-26,Yes
+P00421,2024-08-04,Cyprus,Casual,Inactive,Sports Betting,Bank Transfer,2024-10-15,Yes
+P00422,2023-02-27,UK,Casual,Active,Poker,Crypto,2024-12-20,Yes
+P00423,2023-07-26,Malta,VIP,Self-Excluded,Table Games,Credit Card,2024-01-16,Yes
+P00424,2023-05-26,Finland,Regular,Dormant,Table Games,Credit Card,2024-08-01,Yes
+P00425,2024-02-10,Brazil,VIP,Active,Table Games,E-Wallet,2024-12-22,No
+P00426,2024-03-23,India,Regular,Dormant,Live Casino,Bank Transfer,2024-07-25,Yes
+P00427,2023-06-29,Malta,Regular,Inactive,Live Casino,Credit Card,2024-04-25,No
+P00428,2024-02-05,Nigeria,VIP,Dormant,Slots,E-Wallet,2024-08-20,Yes
+P00429,2024-09-18,Germany,VIP,Active,Sports Betting,E-Wallet,2024-12-26,Yes
+P00430,2023-12-22,Germany,Casual,Dormant,Table Games,Crypto,2024-03-16,Yes
+P00431,2024-12-10,Germany,Casual,Active,Slots,Credit Card,2024-12-21,Yes
+P00432,2023-06-20,Canada,Regular,Dormant,Table Games,Crypto,2024-02-27,Yes
+P00433,2024-08-14,Cyprus,Casual,Self-Excluded,Live Casino,Crypto,2024-11-09,Yes
+P00434,2023-10-29,Germany,VIP,Active,Slots,Bank Transfer,2024-12-21,Yes
+P00435,2023-03-18,India,Casual,Inactive,Poker,Crypto,2023-06-21,Yes
+P00436,2024-10-31,Canada,Casual,Active,Live Casino,Credit Card,2024-12-31,Yes
+P00437,2023-07-14,Finland,Casual,Inactive,Table Games,Bank Transfer,2024-04-22,Yes
+P00438,2024-02-07,Malta,Casual,Inactive,Slots,Bank Transfer,2024-10-15,Yes
+P00439,2024-11-08,Cyprus,Casual,Inactive,Slots,Credit Card,2024-11-23,Yes
+P00440,2023-03-25,Brazil,Regular,Inactive,Sports Betting,Crypto,2023-07-21,Yes
+P00441,2023-04-04,Malta,Regular,Inactive,Table Games,Crypto,2024-05-04,Yes
+P00442,2023-09-27,Cyprus,Casual,Inactive,Table Games,Credit Card,2024-02-08,Yes
+P00443,2023-04-10,Finland,Regular,Active,Sports Betting,E-Wallet,2024-12-22,Yes
+P00444,2024-06-19,Sweden,VIP,Active,Poker,E-Wallet,2024-12-25,Yes
+P00445,2023-02-05,Nigeria,Casual,Inactive,Poker,E-Wallet,2024-07-18,Yes
+P00446,2023-06-27,Cyprus,Regular,Dormant,Live Casino,E-Wallet,2023-09-20,Yes
+P00447,2024-11-30,Nigeria,Casual,Inactive,Table Games,Bank Transfer,2024-11-30,No
+P00448,2023-03-10,Canada,VIP,Active,Poker,Bank Transfer,2024-12-25,No
+P00449,2023-01-13,Finland,Regular,Dormant,Sports Betting,Credit Card,2024-09-05,Yes
+P00450,2024-08-25,Germany,Casual,Inactive,Poker,Credit Card,2024-09-06,No
+P00451,2023-12-19,Canada,VIP,Dormant,Sports Betting,Crypto,2024-05-02,Yes
+P00452,2023-05-28,UK,Casual,Inactive,Sports Betting,Bank Transfer,2024-07-12,Yes
+P00453,2024-05-01,UK,Casual,Dormant,Table Games,Bank Transfer,2024-08-04,Yes
+P00454,2024-12-13,Cyprus,VIP,Inactive,Live Casino,Bank Transfer,2024-12-13,No
+P00455,2023-11-25,Nigeria,Casual,Active,Slots,E-Wallet,2024-12-23,Yes
+P00456,2024-02-21,India,VIP,Inactive,Slots,E-Wallet,2024-11-11,Yes
+P00457,2024-02-18,Finland,Regular,Active,Poker,Credit Card,2024-12-30,Yes
+P00458,2023-07-25,UK,VIP,Self-Excluded,Sports Betting,Credit Card,2023-11-29,No
+P00459,2023-10-08,Finland,Regular,Inactive,Sports Betting,Credit Card,2024-06-01,Yes
+P00460,2024-05-15,Sweden,Casual,Inactive,Poker,Bank Transfer,2024-06-29,Yes
+P00461,2023-09-22,Germany,VIP,Inactive,Table Games,Credit Card,2024-09-08,Yes
+P00462,2024-08-08,Cyprus,Casual,Dormant,Live Casino,E-Wallet,2024-08-21,Yes
+P00463,2023-01-21,Sweden,Casual,Dormant,Live Casino,E-Wallet,2023-01-30,Yes
+P00464,2023-09-16,Brazil,Casual,Inactive,Sports Betting,Crypto,2024-02-19,No
+P00465,2023-08-12,Finland,Casual,Inactive,Poker,Crypto,2024-07-23,Yes
+P00466,2024-11-09,India,Casual,Dormant,Poker,Bank Transfer,2024-11-09,Yes
+P00467,2023-03-07,India,Casual,Active,Table Games,Bank Transfer,2024-12-21,Yes
+P00468,2024-10-29,Finland,Whale,Active,Live Casino,Credit Card,2024-12-19,No
+P00469,2024-09-06,Malta,VIP,Active,Slots,Crypto,2024-12-22,No
+P00470,2024-03-04,Nigeria,Casual,Inactive,Poker,E-Wallet,2024-03-22,Yes
+P00471,2024-12-03,Sweden,Regular,Inactive,Table Games,Bank Transfer,2024-12-03,No
+P00472,2024-07-25,Sweden,VIP,Active,Live Casino,Bank Transfer,2024-12-18,Yes
+P00473,2023-07-07,Germany,Regular,Dormant,Live Casino,Bank Transfer,2023-12-25,Yes
+P00474,2024-03-06,India,VIP,Inactive,Table Games,Bank Transfer,2024-08-22,Yes
+P00475,2023-02-24,Sweden,Casual,Dormant,Live Casino,Credit Card,2023-05-07,No
+P00476,2023-11-02,Malta,Casual,Inactive,Live Casino,Bank Transfer,2024-01-18,Yes
+P00477,2024-04-13,Malta,Regular,Active,Slots,Crypto,2024-12-30,Yes
+P00478,2023-11-17,Sweden,Whale,Inactive,Table Games,E-Wallet,2023-11-19,No
+P00479,2023-06-12,Malta,Casual,Inactive,Poker,Crypto,2023-09-10,Yes
+P00480,2024-05-03,Finland,Casual,Inactive,Live Casino,Bank Transfer,2024-05-12,No
+P00481,2024-06-27,UK,VIP,Active,Live Casino,E-Wallet,2024-12-27,Yes
+P00482,2023-05-13,Nigeria,Casual,Active,Table Games,E-Wallet,2024-12-25,Yes
+P00483,2023-10-25,Nigeria,Casual,Inactive,Poker,Bank Transfer,2024-07-17,Yes
+P00484,2023-05-18,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-31,Yes
+P00485,2024-02-18,Malta,VIP,Active,Live Casino,Credit Card,2024-12-20,Yes
+P00486,2024-01-11,Canada,Casual,Self-Excluded,Table Games,Credit Card,2024-01-30,Yes
+P00487,2023-04-21,UK,Casual,Self-Excluded,Slots,Crypto,2023-05-11,Yes
+P00488,2023-09-16,Cyprus,Casual,Inactive,Slots,Bank Transfer,2023-12-03,Yes
+P00489,2024-06-16,Malta,Casual,Active,Sports Betting,Credit Card,2024-12-26,Yes
+P00490,2023-10-17,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-18,No
+P00491,2023-07-26,Brazil,VIP,Active,Live Casino,Credit Card,2024-12-23,Yes
+P00492,2024-12-05,India,VIP,Dormant,Live Casino,Credit Card,2024-12-05,Yes
+P00493,2023-04-24,Malta,Casual,Dormant,Slots,Credit Card,2024-09-10,Yes
+P00494,2023-09-20,Brazil,Casual,Inactive,Table Games,Crypto,2024-05-10,Yes
+P00495,2023-02-10,India,VIP,Dormant,Sports Betting,Credit Card,2024-02-13,Yes
+P00496,2023-02-16,Malta,Regular,Active,Table Games,Bank Transfer,2024-12-19,No
+P00497,2023-10-02,India,Whale,Dormant,Table Games,E-Wallet,2023-11-18,Yes
+P00498,2024-04-12,Sweden,Casual,Active,Sports Betting,E-Wallet,2024-12-23,Yes
+P00499,2023-03-02,Germany,Regular,Dormant,Sports Betting,Crypto,2023-08-12,No
+P00500,2023-07-05,Nigeria,Regular,Inactive,Slots,E-Wallet,2024-07-06,Yes
+P00501,2024-02-26,Brazil,Casual,Inactive,Table Games,Credit Card,2024-03-29,Yes
+P00502,2024-08-13,India,Regular,Self-Excluded,Poker,Credit Card,2024-09-10,Yes
+P00503,2024-05-08,Canada,Regular,Active,Live Casino,Credit Card,2024-12-27,Yes
+P00504,2024-06-01,Malta,VIP,Self-Excluded,Slots,Crypto,2024-10-05,Yes
+P00505,2023-10-12,Finland,Casual,Active,Sports Betting,Crypto,2024-12-20,No
+P00506,2024-03-30,Germany,Casual,Dormant,Sports Betting,Crypto,2024-07-22,Yes
+P00507,2024-10-31,Canada,Whale,Active,Slots,Credit Card,2024-12-23,No
+P00508,2024-09-25,Finland,Regular,Inactive,Live Casino,Crypto,2024-11-29,No
+P00509,2023-02-25,India,Casual,Dormant,Poker,Crypto,2024-06-04,Yes
+P00510,2024-04-08,Cyprus,Casual,Active,Slots,Bank Transfer,2024-12-29,Yes
+P00511,2023-10-26,Germany,Regular,Inactive,Slots,E-Wallet,2024-05-04,Yes
+P00512,2024-02-24,Cyprus,VIP,Active,Live Casino,Credit Card,2024-12-26,No
+P00513,2024-04-13,India,Casual,Dormant,Slots,Crypto,2024-05-31,Yes
+P00514,2024-11-19,Sweden,Regular,Inactive,Sports Betting,E-Wallet,2024-12-01,No
+P00515,2023-02-19,Nigeria,Casual,Inactive,Sports Betting,E-Wallet,2024-05-07,Yes
+P00516,2023-05-12,Nigeria,Casual,Active,Poker,Bank Transfer,2024-12-27,Yes
+P00517,2024-09-15,Brazil,Casual,Dormant,Sports Betting,Bank Transfer,2024-09-22,No
+P00518,2023-05-17,Finland,Casual,Active,Table Games,Bank Transfer,2024-12-26,Yes
+P00519,2024-10-09,Nigeria,VIP,Active,Table Games,Bank Transfer,2024-12-20,No
+P00520,2024-12-28,Malta,Casual,Self-Excluded,Poker,Bank Transfer,2024-12-28,Yes
+P00521,2024-07-29,Canada,Regular,Inactive,Poker,Bank Transfer,2024-10-10,No
+P00522,2023-01-14,Canada,Casual,Inactive,Live Casino,Credit Card,2023-02-08,Yes
+P00523,2023-06-14,Brazil,Casual,Dormant,Live Casino,Credit Card,2024-05-28,Yes
+P00524,2024-07-08,Sweden,Casual,Active,Slots,E-Wallet,2024-12-30,Yes
+P00525,2023-09-01,Brazil,Regular,Inactive,Slots,Crypto,2024-10-12,Yes
+P00526,2024-12-02,UK,Whale,Active,Slots,Bank Transfer,2024-12-25,Yes
+P00527,2024-03-29,India,VIP,Self-Excluded,Poker,E-Wallet,2024-11-17,No
+P00528,2023-10-29,Germany,Whale,Active,Live Casino,E-Wallet,2024-12-27,Yes
+P00529,2023-02-11,Brazil,Casual,Inactive,Live Casino,E-Wallet,2024-09-02,Yes
+P00530,2023-12-05,UK,Casual,Inactive,Live Casino,Bank Transfer,2024-02-22,Yes
+P00531,2024-10-02,Brazil,Regular,Inactive,Sports Betting,Bank Transfer,2024-11-13,Yes
+P00532,2024-06-22,Finland,Regular,Active,Slots,E-Wallet,2024-12-19,Yes
+P00533,2023-04-05,Cyprus,Regular,Active,Table Games,Bank Transfer,2024-12-31,Yes
+P00534,2024-09-25,Germany,Casual,Inactive,Table Games,Crypto,2024-09-26,Yes
+P00535,2024-09-28,India,Regular,Active,Sports Betting,Credit Card,2024-12-17,Yes
+P00536,2023-10-17,India,Regular,Active,Poker,Crypto,2024-12-25,Yes
+P00537,2024-10-29,Germany,Casual,Active,Slots,E-Wallet,2024-12-25,No
+P00538,2024-06-30,Cyprus,Regular,Active,Live Casino,Crypto,2024-12-18,No
+P00539,2024-12-20,Canada,Casual,Dormant,Slots,E-Wallet,2024-12-20,Yes
+P00540,2023-02-08,Malta,Regular,Active,Table Games,Credit Card,2024-12-17,Yes
+P00541,2023-09-22,Canada,Casual,Inactive,Sports Betting,Bank Transfer,2024-05-09,Yes
+P00542,2024-07-01,Nigeria,Regular,Active,Slots,Credit Card,2024-12-28,Yes
+P00543,2024-05-29,Brazil,Casual,Active,Poker,Credit Card,2024-12-29,Yes
+P00544,2024-01-26,UK,VIP,Active,Sports Betting,E-Wallet,2024-12-27,Yes
+P00545,2024-02-05,Finland,Casual,Dormant,Table Games,E-Wallet,2024-09-09,Yes
+P00546,2024-10-25,Finland,VIP,Active,Poker,E-Wallet,2024-12-17,Yes
+P00547,2024-09-02,Germany,Casual,Inactive,Table Games,E-Wallet,2024-11-11,Yes
+P00548,2023-12-19,Finland,VIP,Active,Live Casino,E-Wallet,2024-12-31,Yes
+P00549,2023-09-16,Nigeria,Regular,Active,Slots,Crypto,2024-12-19,Yes
+P00550,2024-11-18,Cyprus,Casual,Active,Poker,Crypto,2024-12-18,No
+P00551,2024-11-18,Brazil,Casual,Self-Excluded,Poker,Credit Card,2024-11-19,No
+P00552,2024-04-06,Brazil,Casual,Active,Poker,E-Wallet,2024-12-27,Yes
+P00553,2023-11-20,UK,Casual,Dormant,Table Games,E-Wallet,2024-02-14,No
+P00554,2024-10-18,Malta,Regular,Inactive,Table Games,Crypto,2024-11-10,Yes
+P00555,2023-11-09,Malta,Casual,Inactive,Poker,Credit Card,2024-01-03,No
+P00556,2023-05-24,Brazil,VIP,Dormant,Slots,Credit Card,2023-09-01,No
+P00557,2024-10-08,Nigeria,VIP,Active,Sports Betting,E-Wallet,2024-12-26,No
+P00558,2024-07-10,Sweden,Regular,Dormant,Live Casino,Bank Transfer,2024-09-17,Yes
+P00559,2024-08-26,Malta,VIP,Inactive,Sports Betting,Credit Card,2024-10-02,Yes
+P00560,2024-11-09,Nigeria,Regular,Active,Live Casino,E-Wallet,2024-12-29,Yes
+P00561,2024-08-02,Sweden,Casual,Self-Excluded,Table Games,Credit Card,2024-08-20,Yes
+P00562,2023-03-06,UK,Casual,Active,Live Casino,Bank Transfer,2024-12-20,Yes
+P00563,2023-02-17,India,VIP,Active,Slots,Bank Transfer,2024-12-27,No
+P00564,2024-07-11,Canada,Casual,Inactive,Table Games,Credit Card,2024-10-15,Yes
+P00565,2023-08-17,India,Casual,Inactive,Sports Betting,Crypto,2024-02-13,No
+P00566,2023-05-23,Germany,Casual,Inactive,Poker,Bank Transfer,2024-01-13,Yes
+P00567,2024-01-06,Cyprus,Casual,Inactive,Sports Betting,Bank Transfer,2024-03-06,Yes
+P00568,2024-05-05,Malta,Casual,Inactive,Sports Betting,Credit Card,2024-10-03,Yes
+P00569,2024-08-29,Finland,Casual,Active,Slots,E-Wallet,2024-12-27,Yes
+P00570,2023-07-04,Nigeria,Casual,Inactive,Poker,Credit Card,2024-08-22,No
+P00571,2023-10-18,Sweden,Regular,Dormant,Poker,Crypto,2024-02-05,No
+P00572,2024-02-25,Nigeria,Casual,Inactive,Poker,Bank Transfer,2024-05-28,Yes
+P00573,2024-04-09,Cyprus,Regular,Inactive,Sports Betting,Crypto,2024-04-26,Yes
+P00574,2024-06-19,Canada,Casual,Dormant,Live Casino,Credit Card,2024-08-22,Yes
+P00575,2024-09-06,Finland,VIP,Active,Poker,Credit Card,2024-12-29,Yes
+P00576,2024-09-09,Canada,Regular,Inactive,Poker,Crypto,2024-09-09,Yes
+P00577,2024-06-26,Canada,Casual,Inactive,Table Games,Credit Card,2024-10-27,Yes
+P00578,2023-08-27,Brazil,Casual,Dormant,Poker,Crypto,2023-10-08,Yes
+P00579,2023-01-08,Finland,Casual,Inactive,Slots,Crypto,2023-05-08,Yes
+P00580,2023-11-20,Malta,Regular,Inactive,Sports Betting,Bank Transfer,2024-01-13,Yes
+P00581,2024-08-01,Canada,Regular,Inactive,Live Casino,Crypto,2024-09-05,Yes
+P00582,2023-07-03,Brazil,Regular,Inactive,Table Games,Bank Transfer,2024-11-09,No
+P00583,2023-05-22,Germany,Casual,Dormant,Live Casino,Crypto,2024-04-23,No
+P00584,2023-04-13,India,VIP,Active,Poker,Credit Card,2024-12-23,Yes
+P00585,2023-01-06,Sweden,Whale,Self-Excluded,Poker,Crypto,2023-06-03,Yes
+P00586,2024-01-15,Canada,Casual,Active,Sports Betting,Bank Transfer,2024-12-17,Yes
+P00587,2023-06-29,UK,Regular,Inactive,Live Casino,Bank Transfer,2024-09-20,Yes
+P00588,2024-06-06,Nigeria,Regular,Inactive,Live Casino,Credit Card,2024-08-04,Yes
+P00589,2023-06-11,Canada,Regular,Active,Table Games,Crypto,2024-12-21,Yes
+P00590,2023-01-16,Germany,Casual,Self-Excluded,Poker,Bank Transfer,2023-03-27,Yes
+P00591,2024-08-19,Brazil,Regular,Active,Live Casino,E-Wallet,2024-12-30,Yes
+P00592,2023-01-05,Finland,Casual,Active,Slots,Credit Card,2024-12-23,Yes
+P00593,2023-04-30,Finland,Casual,Dormant,Poker,Bank Transfer,2024-01-18,Yes
+P00594,2024-07-30,India,Whale,Active,Sports Betting,Crypto,2024-12-20,No
+P00595,2024-05-08,Canada,VIP,Active,Live Casino,E-Wallet,2024-12-18,No
+P00596,2023-12-28,Brazil,Casual,Inactive,Live Casino,Bank Transfer,2024-01-01,Yes
+P00597,2023-12-17,Malta,Regular,Active,Sports Betting,Bank Transfer,2024-12-31,Yes
+P00598,2023-10-03,Cyprus,VIP,Active,Sports Betting,E-Wallet,2024-12-28,Yes
+P00599,2023-09-29,Cyprus,Casual,Active,Poker,Bank Transfer,2024-12-20,Yes
+P00600,2023-03-22,Nigeria,Casual,Self-Excluded,Slots,Credit Card,2024-08-07,No
+P00601,2023-11-19,Brazil,Casual,Inactive,Sports Betting,E-Wallet,2024-09-08,No
+P00602,2023-10-14,Nigeria,VIP,Active,Live Casino,Credit Card,2024-12-29,Yes
+P00603,2024-07-07,Canada,Casual,Active,Live Casino,Crypto,2024-12-22,No
+P00604,2024-04-16,UK,Regular,Active,Live Casino,Crypto,2024-12-17,Yes
+P00605,2024-09-19,Finland,Casual,Dormant,Table Games,E-Wallet,2024-09-21,Yes
+P00606,2023-12-18,Canada,Whale,Active,Live Casino,Crypto,2024-12-24,Yes
+P00607,2024-02-15,Nigeria,Casual,Active,Live Casino,E-Wallet,2024-12-19,No
+P00608,2023-08-30,Canada,Regular,Inactive,Live Casino,E-Wallet,2024-11-10,No
+P00609,2024-04-29,Canada,Regular,Dormant,Sports Betting,E-Wallet,2024-06-13,No
+P00610,2024-06-13,Sweden,VIP,Active,Table Games,Bank Transfer,2024-12-22,Yes
+P00611,2024-02-12,UK,Regular,Active,Live Casino,Bank Transfer,2024-12-19,Yes
+P00612,2024-04-05,India,Regular,Self-Excluded,Table Games,Bank Transfer,2024-06-10,Yes
+P00613,2023-12-26,Nigeria,Casual,Dormant,Poker,E-Wallet,2024-04-05,No
+P00614,2023-11-29,Sweden,Casual,Self-Excluded,Slots,Crypto,2024-08-04,Yes
+P00615,2023-05-29,India,Casual,Dormant,Sports Betting,Crypto,2024-04-20,No
+P00616,2023-06-15,India,Casual,Active,Table Games,Bank Transfer,2024-12-22,Yes
+P00617,2024-03-31,Nigeria,Casual,Dormant,Poker,Crypto,2024-07-01,Yes
+P00618,2023-01-24,Brazil,Casual,Active,Slots,E-Wallet,2024-12-20,Yes
+P00619,2023-03-07,Finland,Casual,Dormant,Slots,Credit Card,2024-07-03,No
+P00620,2023-03-27,Malta,Regular,Active,Slots,Crypto,2024-12-26,Yes
+P00621,2023-10-18,Malta,Casual,Inactive,Poker,E-Wallet,2023-12-21,Yes
+P00622,2023-11-30,Finland,Regular,Dormant,Table Games,Crypto,2024-07-26,Yes
+P00623,2024-07-06,Sweden,VIP,Active,Poker,Crypto,2024-12-26,Yes
+P00624,2023-11-14,Finland,Regular,Dormant,Live Casino,Credit Card,2024-07-17,Yes
+P00625,2023-09-24,UK,Casual,Active,Poker,E-Wallet,2024-12-17,Yes
+P00626,2023-01-09,Sweden,Casual,Self-Excluded,Table Games,Credit Card,2024-05-26,No
+P00627,2024-09-03,Finland,Regular,Active,Table Games,E-Wallet,2024-12-17,Yes
+P00628,2024-02-09,Canada,Regular,Active,Sports Betting,E-Wallet,2024-12-28,Yes
+P00629,2023-09-03,Nigeria,Casual,Inactive,Table Games,Bank Transfer,2024-10-16,Yes
+P00630,2023-10-03,Malta,Regular,Inactive,Live Casino,Bank Transfer,2023-11-07,Yes
+P00631,2024-04-08,Sweden,Casual,Active,Live Casino,Bank Transfer,2024-12-26,Yes
+P00632,2024-07-01,Brazil,Casual,Active,Table Games,E-Wallet,2024-12-18,Yes
+P00633,2023-08-27,Sweden,Regular,Active,Live Casino,Bank Transfer,2024-12-17,Yes
+P00634,2024-05-25,UK,Regular,Dormant,Table Games,Credit Card,2024-09-20,No
+P00635,2023-02-27,Germany,Whale,Active,Poker,Crypto,2024-12-23,Yes
+P00636,2023-09-14,UK,VIP,Self-Excluded,Slots,E-Wallet,2024-11-11,Yes
+P00637,2023-09-11,Cyprus,Whale,Inactive,Sports Betting,Credit Card,2023-09-28,Yes
+P00638,2024-04-29,India,Whale,Active,Live Casino,Credit Card,2024-12-21,Yes
+P00639,2023-05-06,Brazil,Regular,Active,Live Casino,Bank Transfer,2024-12-27,No
+P00640,2023-08-12,Canada,VIP,Dormant,Table Games,Credit Card,2023-12-10,Yes
+P00641,2023-05-03,UK,Casual,Inactive,Slots,Crypto,2024-01-06,Yes
+P00642,2023-04-02,Germany,Casual,Active,Poker,Bank Transfer,2024-12-24,No
+P00643,2024-10-02,Malta,Whale,Active,Poker,Credit Card,2024-12-22,Yes
+P00644,2024-07-25,Sweden,Casual,Dormant,Live Casino,Credit Card,2024-09-07,Yes
+P00645,2023-05-18,Sweden,Casual,Active,Sports Betting,Bank Transfer,2024-12-17,Yes
+P00646,2024-08-03,India,Casual,Active,Sports Betting,Bank Transfer,2024-12-22,No
+P00647,2024-07-21,Malta,Regular,Active,Sports Betting,Bank Transfer,2024-12-25,No
+P00648,2024-04-09,Finland,Regular,Active,Sports Betting,E-Wallet,2024-12-27,No
+P00649,2024-01-08,India,Regular,Dormant,Slots,Crypto,2024-05-09,Yes
+P00650,2024-07-18,India,Regular,Active,Sports Betting,Bank Transfer,2024-12-21,Yes
+P00651,2023-03-10,Malta,Regular,Active,Slots,E-Wallet,2024-12-19,Yes
+P00652,2023-02-02,Sweden,Casual,Inactive,Poker,Bank Transfer,2024-03-05,Yes
+P00653,2023-03-14,Cyprus,Casual,Active,Sports Betting,Credit Card,2024-12-31,Yes
+P00654,2024-01-05,India,Regular,Inactive,Slots,Bank Transfer,2024-08-04,Yes
+P00655,2023-11-08,Finland,Regular,Active,Slots,Credit Card,2024-12-20,Yes
+P00656,2023-07-14,Cyprus,Regular,Active,Poker,E-Wallet,2024-12-27,Yes
+P00657,2023-04-19,Sweden,Regular,Dormant,Sports Betting,Credit Card,2024-04-19,Yes
+P00658,2024-02-16,Finland,Casual,Inactive,Poker,Crypto,2024-05-06,No
+P00659,2024-07-17,India,VIP,Dormant,Sports Betting,Crypto,2024-08-27,No
+P00660,2023-09-04,Canada,Casual,Inactive,Poker,Bank Transfer,2023-12-22,Yes
+P00661,2024-02-11,Brazil,Casual,Active,Poker,Credit Card,2024-12-17,Yes
+P00662,2023-11-06,Cyprus,Whale,Active,Table Games,Credit Card,2024-12-20,No
+P00663,2023-10-10,Finland,VIP,Dormant,Poker,E-Wallet,2024-06-27,Yes
+P00664,2023-06-09,Nigeria,Casual,Active,Live Casino,E-Wallet,2024-12-22,Yes
+P00665,2024-08-07,Germany,Casual,Inactive,Table Games,Crypto,2024-09-03,Yes
+P00666,2024-12-07,Germany,VIP,Inactive,Poker,Bank Transfer,2024-12-07,Yes
+P00667,2024-01-26,India,VIP,Active,Table Games,Crypto,2024-12-17,Yes
+P00668,2023-08-21,Nigeria,VIP,Inactive,Slots,Crypto,2024-10-28,Yes
+P00669,2023-11-23,India,Regular,Inactive,Poker,E-Wallet,2024-02-07,Yes
+P00670,2024-02-07,Nigeria,Regular,Dormant,Poker,Credit Card,2024-08-17,Yes
+P00671,2024-02-08,Germany,Casual,Active,Sports Betting,Credit Card,2024-12-22,Yes
+P00672,2024-02-13,Malta,Casual,Inactive,Sports Betting,E-Wallet,2024-04-19,Yes
+P00673,2023-07-20,Finland,Regular,Inactive,Live Casino,E-Wallet,2024-07-30,Yes
+P00674,2023-11-28,Germany,Regular,Self-Excluded,Slots,Crypto,2024-09-17,Yes
+P00675,2023-11-25,UK,Casual,Active,Table Games,E-Wallet,2024-12-27,No
+P00676,2024-03-28,UK,Regular,Inactive,Live Casino,E-Wallet,2024-07-18,Yes
+P00677,2023-03-29,Cyprus,Casual,Active,Poker,E-Wallet,2024-12-17,No
+P00678,2023-01-15,Germany,VIP,Active,Table Games,Crypto,2024-12-29,Yes
+P00679,2024-07-04,Finland,Casual,Active,Table Games,Crypto,2024-12-25,Yes
+P00680,2024-12-12,UK,Whale,Inactive,Sports Betting,Credit Card,2024-12-12,Yes
+P00681,2023-07-25,Brazil,Casual,Dormant,Slots,Crypto,2024-06-05,Yes
+P00682,2024-02-02,Germany,Casual,Self-Excluded,Slots,Bank Transfer,2024-08-04,No
+P00683,2023-08-25,Germany,Regular,Dormant,Table Games,Crypto,2024-05-11,No
+P00684,2023-07-10,Finland,Regular,Active,Slots,Credit Card,2024-12-24,Yes
+P00685,2023-12-08,UK,Regular,Inactive,Table Games,Bank Transfer,2024-02-26,Yes
+P00686,2024-05-28,Brazil,Casual,Active,Sports Betting,Credit Card,2024-12-17,No
+P00687,2023-08-19,Canada,VIP,Active,Live Casino,Credit Card,2024-12-31,Yes
+P00688,2024-11-25,Cyprus,Regular,Inactive,Sports Betting,E-Wallet,2024-11-30,Yes
+P00689,2023-11-16,Sweden,Casual,Dormant,Poker,E-Wallet,2024-05-02,Yes
+P00690,2024-07-08,Malta,Casual,Self-Excluded,Table Games,E-Wallet,2024-08-28,Yes
+P00691,2023-05-29,India,VIP,Inactive,Slots,Credit Card,2023-11-06,Yes
+P00692,2023-05-30,Canada,VIP,Inactive,Sports Betting,Bank Transfer,2024-04-20,Yes
+P00693,2024-10-14,Brazil,VIP,Dormant,Live Casino,E-Wallet,2024-10-14,Yes
+P00694,2024-09-18,Nigeria,Casual,Inactive,Live Casino,E-Wallet,2024-11-29,Yes
+P00695,2023-03-23,Malta,Casual,Self-Excluded,Poker,Crypto,2024-07-23,Yes
+P00696,2024-02-01,Malta,Casual,Inactive,Live Casino,E-Wallet,2024-04-11,Yes
+P00697,2023-01-16,Cyprus,Regular,Dormant,Live Casino,E-Wallet,2024-03-13,Yes
+P00698,2024-03-25,India,VIP,Dormant,Sports Betting,E-Wallet,2024-07-28,Yes
+P00699,2024-09-14,India,Regular,Self-Excluded,Sports Betting,Credit Card,2024-11-01,Yes
+P00700,2023-02-13,Finland,Casual,Dormant,Poker,Crypto,2023-10-22,No
+P00701,2024-02-01,Cyprus,Casual,Inactive,Table Games,Crypto,2024-02-26,Yes
+P00702,2023-10-20,Brazil,Casual,Inactive,Poker,Credit Card,2024-05-23,Yes
+P00703,2024-04-19,Germany,VIP,Self-Excluded,Poker,Credit Card,2024-08-12,Yes
+P00704,2024-12-13,Canada,Regular,Inactive,Sports Betting,Bank Transfer,2024-12-13,Yes
+P00705,2024-08-27,Sweden,Casual,Dormant,Slots,Bank Transfer,2024-09-08,Yes
+P00706,2024-12-29,Germany,Regular,Dormant,Slots,Credit Card,2024-12-29,Yes
+P00707,2023-03-29,Finland,Regular,Inactive,Poker,E-Wallet,2024-04-25,Yes
+P00708,2023-06-24,Malta,Casual,Dormant,Live Casino,E-Wallet,2024-04-08,Yes
+P00709,2024-03-05,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-28,Yes
+P00710,2023-07-27,Brazil,Casual,Active,Slots,Crypto,2024-12-29,Yes
+P00711,2023-01-06,Cyprus,Casual,Inactive,Live Casino,Crypto,2024-05-25,Yes
+P00712,2024-09-07,Finland,Casual,Inactive,Table Games,E-Wallet,2024-10-08,Yes
+P00713,2024-10-30,UK,Casual,Active,Poker,Bank Transfer,2024-12-19,Yes
+P00714,2023-04-22,Malta,Casual,Inactive,Table Games,E-Wallet,2023-10-21,No
+P00715,2024-01-04,Brazil,Regular,Dormant,Table Games,Bank Transfer,2024-02-20,No
+P00716,2024-03-13,Brazil,VIP,Self-Excluded,Sports Betting,E-Wallet,2024-04-15,Yes
+P00717,2023-12-04,Cyprus,VIP,Active,Live Casino,Credit Card,2024-12-25,Yes
+P00718,2024-10-06,Sweden,Regular,Inactive,Poker,Bank Transfer,2024-10-11,Yes
+P00719,2023-09-23,India,VIP,Active,Live Casino,Crypto,2024-12-26,Yes
+P00720,2024-05-19,Brazil,Regular,Dormant,Live Casino,Credit Card,2024-07-17,Yes
+P00721,2023-05-01,Nigeria,Casual,Self-Excluded,Sports Betting,Crypto,2023-11-29,Yes
+P00722,2024-10-14,Cyprus,Casual,Active,Table Games,Bank Transfer,2024-12-27,No
+P00723,2024-06-02,Germany,Casual,Inactive,Table Games,Bank Transfer,2024-06-03,Yes
+P00724,2023-01-30,India,Regular,Dormant,Table Games,Crypto,2023-08-16,No
+P00725,2024-10-23,Sweden,Regular,Active,Poker,Bank Transfer,2024-12-19,Yes
+P00726,2023-02-27,Nigeria,VIP,Self-Excluded,Table Games,Credit Card,2023-12-30,Yes
+P00727,2023-12-29,Brazil,Regular,Active,Slots,Bank Transfer,2024-12-19,No
+P00728,2023-06-19,Malta,Regular,Inactive,Poker,Credit Card,2024-07-21,No
+P00729,2024-12-23,UK,Regular,Dormant,Table Games,Crypto,2024-12-23,Yes
+P00730,2024-01-16,Cyprus,VIP,Active,Poker,Bank Transfer,2024-12-21,Yes
+P00731,2023-02-08,Sweden,Casual,Dormant,Poker,Credit Card,2023-05-13,No
+P00732,2023-06-07,Sweden,VIP,Active,Poker,Bank Transfer,2024-12-31,No
+P00733,2023-04-11,Malta,Casual,Dormant,Live Casino,Credit Card,2024-09-20,Yes
+P00734,2024-06-18,UK,Regular,Active,Poker,Credit Card,2024-12-21,Yes
+P00735,2023-04-16,Brazil,VIP,Active,Slots,Bank Transfer,2024-12-27,Yes
+P00736,2023-07-25,Finland,Casual,Active,Table Games,Crypto,2024-12-21,Yes
+P00737,2023-06-11,Nigeria,Casual,Active,Poker,Credit Card,2024-12-17,Yes
+P00738,2023-11-23,Brazil,Casual,Active,Poker,E-Wallet,2024-12-28,Yes
+P00739,2023-12-13,Malta,Casual,Inactive,Slots,Crypto,2024-01-07,No
+P00740,2024-01-28,Canada,Casual,Active,Live Casino,Crypto,2024-12-23,Yes
+P00741,2023-07-22,Finland,Casual,Self-Excluded,Slots,Crypto,2024-06-29,Yes
+P00742,2024-12-16,Sweden,Casual,Inactive,Table Games,Crypto,2024-12-16,Yes
+P00743,2023-05-28,Brazil,VIP,Dormant,Table Games,Crypto,2024-04-07,Yes
+P00744,2023-12-05,Sweden,VIP,Inactive,Sports Betting,Credit Card,2024-05-19,Yes
+P00745,2024-05-05,Brazil,Casual,Inactive,Table Games,E-Wallet,2024-06-17,Yes
+P00746,2023-04-20,Germany,Casual,Active,Table Games,Crypto,2024-12-27,Yes
+P00747,2024-09-27,Sweden,Casual,Active,Sports Betting,Credit Card,2024-12-19,Yes
+P00748,2024-08-28,Nigeria,VIP,Active,Table Games,E-Wallet,2024-12-23,Yes
+P00749,2024-12-29,Sweden,Regular,Inactive,Slots,Crypto,2024-12-29,Yes
+P00750,2024-03-31,Germany,Casual,Active,Poker,Credit Card,2024-12-23,Yes
+P00751,2024-01-24,UK,Regular,Active,Slots,E-Wallet,2024-12-27,No
+P00752,2024-10-13,Malta,VIP,Self-Excluded,Live Casino,Crypto,2024-11-30,Yes
+P00753,2024-08-14,India,Casual,Inactive,Table Games,Bank Transfer,2024-09-09,No
+P00754,2023-12-19,Nigeria,VIP,Dormant,Poker,Crypto,2023-12-23,No
+P00755,2023-03-05,UK,VIP,Active,Slots,Bank Transfer,2024-12-25,Yes
+P00756,2023-02-01,Nigeria,Casual,Active,Sports Betting,Bank Transfer,2024-12-28,Yes
+P00757,2024-03-21,Sweden,Casual,Inactive,Live Casino,E-Wallet,2024-06-17,Yes
+P00758,2024-01-04,Brazil,VIP,Self-Excluded,Live Casino,E-Wallet,2024-03-22,Yes
+P00759,2023-05-28,Canada,Regular,Self-Excluded,Live Casino,Credit Card,2024-10-07,Yes
+P00760,2024-04-11,Canada,VIP,Dormant,Poker,E-Wallet,2024-09-12,Yes
+P00761,2024-04-05,Malta,Casual,Inactive,Sports Betting,Credit Card,2024-06-01,Yes
+P00762,2023-08-31,Canada,VIP,Inactive,Poker,Bank Transfer,2024-01-15,Yes
+P00763,2024-05-09,Nigeria,Casual,Self-Excluded,Sports Betting,Credit Card,2024-06-06,Yes
+P00764,2023-10-14,Finland,Regular,Inactive,Poker,Credit Card,2023-11-23,Yes
+P00765,2024-11-10,Germany,Regular,Dormant,Poker,Bank Transfer,2024-11-10,Yes
+P00766,2024-07-01,Sweden,VIP,Inactive,Poker,Crypto,2024-10-29,Yes
+P00767,2023-12-28,Brazil,Casual,Dormant,Live Casino,Credit Card,2024-05-26,Yes
+P00768,2023-11-08,Brazil,Regular,Self-Excluded,Slots,Crypto,2024-08-22,Yes
+P00769,2024-11-03,Nigeria,Regular,Dormant,Slots,Bank Transfer,2024-11-03,Yes
+P00770,2023-03-20,Brazil,Casual,Dormant,Live Casino,Bank Transfer,2023-12-29,Yes
+P00771,2023-04-25,Sweden,Casual,Inactive,Table Games,E-Wallet,2023-09-26,Yes
+P00772,2024-05-11,UK,Regular,Active,Table Games,Credit Card,2024-12-25,No
+P00773,2023-06-07,Canada,Regular,Dormant,Sports Betting,E-Wallet,2024-06-26,Yes
+P00774,2023-06-21,India,Regular,Active,Slots,Bank Transfer,2024-12-28,No
+P00775,2023-06-21,Brazil,Casual,Inactive,Sports Betting,E-Wallet,2024-10-20,Yes
+P00776,2024-04-30,Canada,Regular,Active,Slots,Bank Transfer,2024-12-25,No
+P00777,2024-11-25,UK,Casual,Active,Slots,Bank Transfer,2024-12-25,No
+P00778,2024-10-29,India,Casual,Dormant,Table Games,Bank Transfer,2024-10-29,No
+P00779,2024-08-21,Cyprus,Casual,Inactive,Poker,E-Wallet,2024-11-27,Yes
+P00780,2023-07-04,UK,Regular,Active,Slots,Credit Card,2024-12-17,Yes
+P00781,2024-12-02,Cyprus,Regular,Inactive,Table Games,Bank Transfer,2024-12-02,Yes
+P00782,2023-04-05,Cyprus,Casual,Active,Poker,Credit Card,2024-12-26,Yes
+P00783,2024-09-11,Nigeria,Casual,Active,Live Casino,Credit Card,2024-12-27,Yes
+P00784,2024-04-23,Sweden,Casual,Self-Excluded,Table Games,Crypto,2024-05-12,Yes
+P00785,2023-11-28,Germany,Regular,Active,Table Games,Credit Card,2024-12-29,Yes
+P00786,2023-03-03,Brazil,Casual,Active,Live Casino,Crypto,2024-12-30,Yes
+P00787,2023-07-25,Sweden,Whale,Inactive,Slots,E-Wallet,2023-10-24,Yes
+P00788,2024-09-20,Brazil,Casual,Inactive,Slots,Credit Card,2024-11-15,Yes
+P00789,2023-09-14,Sweden,Regular,Dormant,Live Casino,Credit Card,2023-09-23,No
+P00790,2023-09-30,Canada,Regular,Active,Poker,Credit Card,2024-12-22,Yes
+P00791,2024-05-17,Germany,VIP,Active,Poker,E-Wallet,2024-12-23,Yes
+P00792,2024-05-08,India,Whale,Active,Table Games,Bank Transfer,2024-12-25,Yes
+P00793,2024-10-24,India,Regular,Active,Slots,Crypto,2024-12-25,No
+P00794,2023-07-27,Canada,Casual,Active,Live Casino,Bank Transfer,2024-12-17,Yes
+P00795,2024-10-07,Germany,VIP,Inactive,Sports Betting,E-Wallet,2024-11-07,Yes
+P00796,2024-08-30,Germany,Casual,Active,Poker,Bank Transfer,2024-12-23,Yes
+P00797,2024-04-05,UK,Whale,Dormant,Table Games,Credit Card,2024-04-09,Yes
+P00798,2024-02-20,Finland,Regular,Active,Sports Betting,E-Wallet,2024-12-29,Yes
+P00799,2023-03-15,Sweden,Casual,Active,Slots,Crypto,2024-12-19,No
+P00800,2023-09-06,UK,Regular,Self-Excluded,Live Casino,Credit Card,2023-11-11,No
+P00801,2023-04-10,Nigeria,VIP,Active,Slots,Credit Card,2024-12-19,Yes
+P00802,2024-09-22,Cyprus,Regular,Active,Sports Betting,Bank Transfer,2024-12-29,No
+P00803,2024-11-25,Nigeria,Whale,Active,Poker,E-Wallet,2024-12-18,Yes
+P00804,2023-08-07,Malta,Whale,Inactive,Table Games,Credit Card,2024-06-05,Yes
+P00805,2024-03-01,Finland,Casual,Active,Live Casino,Crypto,2024-12-22,Yes
+P00806,2023-05-17,Nigeria,Regular,Active,Sports Betting,E-Wallet,2024-12-30,Yes
+P00807,2023-01-07,Germany,Casual,Active,Poker,Bank Transfer,2024-12-31,Yes
+P00808,2024-05-02,Malta,VIP,Inactive,Table Games,Crypto,2024-06-23,Yes
+P00809,2024-09-17,Sweden,VIP,Inactive,Poker,Credit Card,2024-10-10,Yes
+P00810,2023-12-23,Cyprus,Regular,Inactive,Live Casino,Credit Card,2024-10-03,No
+P00811,2024-09-25,Finland,Whale,Active,Poker,E-Wallet,2024-12-29,Yes
+P00812,2023-08-02,Germany,Regular,Active,Live Casino,Crypto,2024-12-20,Yes
+P00813,2023-02-14,Brazil,Casual,Active,Live Casino,Crypto,2024-12-22,Yes
+P00814,2024-04-09,UK,Regular,Active,Poker,E-Wallet,2024-12-28,Yes
+P00815,2024-06-11,Cyprus,Casual,Active,Sports Betting,Bank Transfer,2024-12-31,Yes
+P00816,2023-11-30,India,Regular,Active,Live Casino,Credit Card,2024-12-18,Yes
+P00817,2023-07-24,Germany,Casual,Inactive,Sports Betting,Crypto,2023-11-13,Yes
+P00818,2023-08-10,Malta,Casual,Dormant,Sports Betting,Bank Transfer,2024-03-29,Yes
+P00819,2024-10-09,Cyprus,Regular,Inactive,Table Games,E-Wallet,2024-10-26,Yes
+P00820,2023-10-15,Sweden,Regular,Active,Sports Betting,Crypto,2024-12-30,Yes
+P00821,2023-10-30,Nigeria,Casual,Inactive,Live Casino,E-Wallet,2024-09-20,Yes
+P00822,2024-05-15,Nigeria,VIP,Dormant,Sports Betting,Crypto,2024-07-09,Yes
+P00823,2023-09-10,Nigeria,Regular,Active,Live Casino,E-Wallet,2024-12-23,No
+P00824,2024-03-03,Sweden,VIP,Dormant,Poker,Credit Card,2024-03-13,Yes
+P00825,2024-12-14,Sweden,Casual,Dormant,Sports Betting,E-Wallet,2024-12-14,Yes
+P00826,2024-12-10,Cyprus,Regular,Self-Excluded,Live Casino,Bank Transfer,2024-12-10,Yes
+P00827,2023-04-03,Brazil,Regular,Active,Live Casino,Crypto,2024-12-27,No
+P00828,2023-01-25,Malta,Regular,Dormant,Sports Betting,E-Wallet,2024-05-13,No
+P00829,2024-04-20,Germany,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-04-20,Yes
+P00830,2023-10-04,Finland,Casual,Self-Excluded,Poker,E-Wallet,2024-08-12,No
+P00831,2023-12-10,Finland,Casual,Self-Excluded,Table Games,Credit Card,2024-01-07,Yes
+P00832,2024-09-25,Malta,Casual,Active,Poker,Credit Card,2024-12-22,Yes
+P00833,2023-05-22,Finland,Regular,Dormant,Slots,Crypto,2023-09-21,Yes
+P00834,2024-12-20,Cyprus,Regular,Active,Table Games,Bank Transfer,2024-12-28,No
+P00835,2024-03-09,India,Regular,Active,Table Games,Crypto,2024-12-18,Yes
+P00836,2023-05-06,Finland,Regular,Inactive,Table Games,Crypto,2024-10-31,Yes
+P00837,2024-12-10,Germany,Regular,Dormant,Live Casino,Crypto,2024-12-10,Yes
+P00838,2023-07-03,Germany,Casual,Active,Live Casino,Bank Transfer,2024-12-18,Yes
+P00839,2023-06-04,UK,Casual,Dormant,Table Games,Crypto,2024-02-25,No
+P00840,2023-05-16,Sweden,Regular,Inactive,Slots,Bank Transfer,2024-07-19,Yes
+P00841,2023-08-26,India,Casual,Dormant,Sports Betting,Bank Transfer,2024-05-18,Yes
+P00842,2024-05-12,Finland,Regular,Inactive,Poker,Crypto,2024-11-06,Yes
+P00843,2023-11-10,Cyprus,Regular,Active,Sports Betting,Bank Transfer,2024-12-21,No
+P00844,2023-02-18,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-21,Yes
+P00845,2023-06-29,Malta,Casual,Dormant,Live Casino,E-Wallet,2024-06-17,Yes
+P00846,2024-08-11,India,Whale,Active,Live Casino,E-Wallet,2024-12-21,Yes
+P00847,2023-11-21,India,Casual,Dormant,Sports Betting,E-Wallet,2024-02-04,Yes
+P00848,2023-01-26,Malta,Casual,Inactive,Sports Betting,Bank Transfer,2024-06-20,Yes
+P00849,2024-07-13,Brazil,Whale,Dormant,Sports Betting,Bank Transfer,2024-08-24,No
+P00850,2024-08-10,Nigeria,Regular,Self-Excluded,Sports Betting,Bank Transfer,2024-11-20,Yes
+P00851,2023-02-11,Germany,Regular,Active,Table Games,Credit Card,2024-12-25,Yes
+P00852,2024-04-01,UK,VIP,Active,Poker,E-Wallet,2024-12-22,Yes
+P00853,2023-10-12,Finland,Casual,Active,Sports Betting,Credit Card,2024-12-18,No
+P00854,2024-05-17,Finland,Casual,Active,Slots,Bank Transfer,2024-12-26,Yes
+P00855,2024-03-13,UK,Regular,Inactive,Table Games,Bank Transfer,2024-09-19,Yes
+P00856,2024-07-28,Sweden,Whale,Active,Sports Betting,Crypto,2024-12-28,Yes
+P00857,2024-03-10,Malta,VIP,Inactive,Poker,Credit Card,2024-10-08,Yes
+P00858,2024-06-21,Nigeria,Casual,Dormant,Sports Betting,Credit Card,2024-06-29,Yes
+P00859,2023-10-07,Sweden,Regular,Inactive,Poker,E-Wallet,2024-07-17,Yes
+P00860,2023-10-24,Brazil,VIP,Active,Poker,Bank Transfer,2024-12-17,Yes
+P00861,2023-08-18,Malta,Regular,Active,Table Games,Bank Transfer,2024-12-17,No
+P00862,2024-04-28,Brazil,VIP,Active,Sports Betting,E-Wallet,2024-12-27,Yes
+P00863,2023-09-08,Brazil,Regular,Active,Sports Betting,Credit Card,2024-12-29,Yes
+P00864,2024-05-07,Sweden,Casual,Inactive,Slots,Bank Transfer,2024-07-12,Yes
+P00865,2023-09-23,Malta,Regular,Active,Table Games,Crypto,2024-12-17,No
+P00866,2023-06-17,Canada,Casual,Active,Table Games,Credit Card,2024-12-22,Yes
+P00867,2023-03-20,Germany,Regular,Inactive,Poker,E-Wallet,2023-09-23,Yes
+P00868,2024-12-02,Brazil,VIP,Inactive,Table Games,Credit Card,2024-12-02,Yes
+P00869,2023-05-28,Brazil,Casual,Active,Table Games,Crypto,2024-12-25,Yes
+P00870,2023-06-16,Finland,VIP,Active,Live Casino,E-Wallet,2024-12-19,No
+P00871,2024-12-07,Finland,Regular,Dormant,Poker,Credit Card,2024-12-07,Yes
+P00872,2023-04-30,Sweden,VIP,Self-Excluded,Table Games,Bank Transfer,2023-05-17,Yes
+P00873,2024-03-28,Finland,Casual,Dormant,Table Games,E-Wallet,2024-08-27,Yes
+P00874,2023-05-02,Malta,Casual,Active,Live Casino,Bank Transfer,2024-12-30,Yes
+P00875,2023-03-22,Germany,Casual,Inactive,Slots,Crypto,2023-07-14,No
+P00876,2023-04-21,Finland,Casual,Active,Poker,Credit Card,2024-12-27,Yes
+P00877,2023-02-14,UK,VIP,Active,Slots,Credit Card,2024-12-27,No
+P00878,2023-07-24,UK,Casual,Active,Slots,E-Wallet,2024-12-22,No
+P00879,2024-08-16,Finland,VIP,Active,Poker,E-Wallet,2024-12-19,Yes
+P00880,2024-08-15,Cyprus,Casual,Dormant,Live Casino,Bank Transfer,2024-09-17,Yes
+P00881,2023-01-05,Cyprus,Regular,Dormant,Poker,Crypto,2023-04-16,Yes
+P00882,2024-03-26,Malta,Regular,Self-Excluded,Table Games,Crypto,2024-04-22,Yes
+P00883,2024-02-22,Germany,Regular,Active,Sports Betting,Credit Card,2024-12-22,Yes
+P00884,2024-01-05,UK,Casual,Self-Excluded,Slots,Bank Transfer,2024-10-16,Yes
+P00885,2024-04-12,Sweden,Casual,Inactive,Live Casino,Crypto,2024-06-30,Yes
+P00886,2023-07-13,Sweden,VIP,Dormant,Table Games,E-Wallet,2024-09-15,Yes
+P00887,2024-11-19,Finland,Regular,Active,Slots,Credit Card,2024-12-24,Yes
+P00888,2024-08-27,Germany,Casual,Dormant,Table Games,E-Wallet,2024-09-06,Yes
+P00889,2024-02-18,Canada,Regular,Active,Sports Betting,Bank Transfer,2024-12-30,No
+P00890,2024-08-30,Canada,Regular,Active,Table Games,Crypto,2024-12-29,Yes
+P00891,2024-05-11,Sweden,Whale,Active,Slots,Credit Card,2024-12-19,Yes
+P00892,2024-10-05,UK,Casual,Dormant,Slots,Credit Card,2024-10-05,No
+P00893,2023-01-28,Nigeria,Casual,Dormant,Table Games,E-Wallet,2024-02-23,Yes
+P00894,2023-03-20,Sweden,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-09-02,Yes
+P00895,2024-05-31,Finland,Casual,Active,Poker,Credit Card,2024-12-22,No
+P00896,2024-03-16,Canada,Casual,Dormant,Sports Betting,Bank Transfer,2024-04-15,No
+P00897,2023-02-06,Brazil,Casual,Active,Live Casino,Crypto,2024-12-25,Yes
+P00898,2024-02-03,Nigeria,Casual,Inactive,Sports Betting,Crypto,2024-03-30,Yes
+P00899,2024-06-02,Sweden,VIP,Active,Poker,Crypto,2024-12-21,Yes
+P00900,2023-10-19,Nigeria,Casual,Active,Slots,E-Wallet,2024-12-17,No
+P00901,2024-08-20,India,Casual,Active,Sports Betting,Credit Card,2024-12-31,Yes
+P00902,2024-02-26,Cyprus,Whale,Active,Live Casino,E-Wallet,2024-12-27,Yes
+P00903,2024-12-05,Germany,Regular,Active,Table Games,E-Wallet,2024-12-21,Yes
+P00904,2024-04-16,Nigeria,Casual,Self-Excluded,Poker,Crypto,2024-08-02,Yes
+P00905,2024-08-25,Canada,Regular,Active,Poker,Crypto,2024-12-22,Yes
+P00906,2024-05-15,Cyprus,Casual,Active,Table Games,Crypto,2024-12-27,Yes
+P00907,2023-12-14,India,Regular,Active,Sports Betting,E-Wallet,2024-12-21,Yes
+P00908,2023-03-19,Cyprus,VIP,Self-Excluded,Table Games,Bank Transfer,2024-09-17,Yes
+P00909,2024-02-16,Nigeria,Whale,Self-Excluded,Slots,Bank Transfer,2024-04-03,Yes
+P00910,2024-06-27,India,Regular,Inactive,Slots,Bank Transfer,2024-08-19,Yes
+P00911,2024-11-10,Canada,Casual,Inactive,Sports Betting,Bank Transfer,2024-11-16,Yes
+P00912,2024-07-14,Finland,Casual,Active,Live Casino,Crypto,2024-12-17,Yes
+P00913,2024-04-23,Finland,Whale,Active,Poker,Crypto,2024-12-27,No
+P00914,2023-03-03,Sweden,Regular,Inactive,Live Casino,E-Wallet,2024-03-10,Yes
+P00915,2023-11-04,India,Regular,Dormant,Slots,E-Wallet,2024-06-01,No
+P00916,2023-10-21,Nigeria,Casual,Inactive,Live Casino,Crypto,2024-02-29,Yes
+P00917,2023-01-29,Brazil,Casual,Active,Sports Betting,Crypto,2024-12-30,Yes
+P00918,2024-10-24,Cyprus,Casual,Dormant,Live Casino,Bank Transfer,2024-10-24,Yes
+P00919,2023-10-12,UK,Casual,Self-Excluded,Sports Betting,Credit Card,2024-01-10,Yes
+P00920,2023-11-18,Canada,VIP,Inactive,Table Games,Credit Card,2023-12-20,Yes
+P00921,2023-05-24,Finland,VIP,Active,Slots,Bank Transfer,2024-12-26,Yes
+P00922,2024-09-06,India,Casual,Active,Table Games,Crypto,2024-12-29,No
+P00923,2024-03-09,Malta,Regular,Active,Live Casino,Bank Transfer,2024-12-18,Yes
+P00924,2024-08-26,India,Casual,Active,Slots,Bank Transfer,2024-12-25,Yes
+P00925,2023-09-10,India,Casual,Dormant,Sports Betting,Bank Transfer,2023-11-23,No
+P00926,2024-09-12,UK,Casual,Active,Live Casino,Bank Transfer,2024-12-28,Yes
+P00927,2024-12-18,Germany,Casual,Inactive,Poker,E-Wallet,2024-12-18,No
+P00928,2024-02-07,Brazil,Casual,Dormant,Table Games,Credit Card,2024-09-28,No
+P00929,2023-11-01,Malta,Regular,Active,Sports Betting,Bank Transfer,2024-12-31,No
+P00930,2024-02-21,Germany,Regular,Dormant,Sports Betting,Crypto,2024-05-01,Yes
+P00931,2023-12-07,Malta,VIP,Inactive,Table Games,Credit Card,2024-01-27,Yes
+P00932,2024-07-14,UK,Regular,Self-Excluded,Slots,E-Wallet,2024-11-07,Yes
+P00933,2023-05-20,Brazil,Regular,Active,Table Games,Credit Card,2024-12-20,Yes
+P00934,2024-12-31,Malta,Casual,Dormant,Poker,Crypto,2024-12-31,No
+P00935,2024-05-04,Brazil,Casual,Dormant,Live Casino,Bank Transfer,2024-06-07,No
+P00936,2024-02-29,Canada,Casual,Inactive,Poker,E-Wallet,2024-09-17,Yes
+P00937,2024-07-25,Germany,Casual,Inactive,Sports Betting,E-Wallet,2024-09-21,Yes
+P00938,2023-02-20,Nigeria,VIP,Active,Table Games,E-Wallet,2024-12-23,Yes
+P00939,2024-08-03,Finland,Casual,Active,Sports Betting,Crypto,2024-12-28,No
+P00940,2023-08-18,Brazil,Casual,Self-Excluded,Table Games,Crypto,2023-11-23,Yes
+P00941,2023-07-31,Brazil,Casual,Inactive,Live Casino,Crypto,2024-09-24,Yes
+P00942,2023-01-30,Cyprus,Regular,Active,Poker,Crypto,2024-12-21,No
+P00943,2024-12-01,Germany,Casual,Inactive,Slots,Crypto,2024-12-01,Yes
+P00944,2024-12-10,Cyprus,Casual,Inactive,Sports Betting,Crypto,2024-12-10,Yes
+P00945,2023-04-08,India,Casual,Inactive,Live Casino,Crypto,2023-05-31,No
+P00946,2024-11-17,Nigeria,Whale,Dormant,Slots,Credit Card,2024-11-17,Yes
+P00947,2023-11-06,Malta,Regular,Dormant,Poker,Credit Card,2024-05-13,Yes
+P00948,2024-05-30,Sweden,Casual,Inactive,Live Casino,Credit Card,2024-08-24,Yes
+P00949,2023-05-26,UK,Regular,Active,Live Casino,Crypto,2024-12-22,No
+P00950,2024-01-05,Brazil,VIP,Dormant,Poker,Bank Transfer,2024-05-28,Yes
+P00951,2023-06-18,Malta,Casual,Active,Poker,Crypto,2024-12-24,Yes
+P00952,2023-08-24,Brazil,Casual,Active,Live Casino,Crypto,2024-12-24,Yes
+P00953,2024-05-21,Finland,Whale,Active,Sports Betting,Crypto,2024-12-22,Yes
+P00954,2023-06-01,Cyprus,VIP,Active,Table Games,E-Wallet,2024-12-18,No
+P00955,2023-10-07,Nigeria,Regular,Inactive,Live Casino,Credit Card,2024-09-10,Yes
+P00956,2024-03-02,Sweden,Regular,Dormant,Slots,Bank Transfer,2024-05-04,Yes
+P00957,2024-11-27,Nigeria,Regular,Active,Slots,Bank Transfer,2024-12-22,Yes
+P00958,2024-12-25,Sweden,Casual,Self-Excluded,Table Games,Credit Card,2024-12-25,Yes
+P00959,2024-09-29,Nigeria,Casual,Dormant,Live Casino,E-Wallet,2024-10-01,No
+P00960,2023-10-17,Germany,VIP,Active,Poker,Crypto,2024-12-17,Yes
+P00961,2023-09-03,Germany,Casual,Dormant,Slots,E-Wallet,2024-03-25,Yes
+P00962,2023-10-19,Malta,Regular,Inactive,Slots,Bank Transfer,2024-09-17,Yes
+P00963,2023-11-14,Malta,Casual,Dormant,Table Games,Credit Card,2024-09-17,No
+P00964,2024-05-16,Sweden,Regular,Inactive,Table Games,Crypto,2024-08-23,Yes
+P00965,2024-01-13,Canada,Casual,Inactive,Slots,Credit Card,2024-08-22,Yes
+P00966,2024-11-23,Malta,Whale,Active,Sports Betting,Credit Card,2024-12-27,Yes
+P00967,2024-05-04,Brazil,Casual,Active,Live Casino,Crypto,2024-12-19,Yes
+P00968,2023-03-20,Germany,Casual,Dormant,Poker,Crypto,2024-08-26,Yes
+P00969,2024-08-05,Brazil,Casual,Dormant,Poker,Credit Card,2024-08-27,No
+P00970,2024-11-08,Canada,Casual,Inactive,Slots,Credit Card,2024-11-13,Yes
+P00971,2023-11-18,Sweden,Regular,Inactive,Poker,Bank Transfer,2024-07-07,Yes
+P00972,2023-07-11,Nigeria,VIP,Active,Table Games,Credit Card,2024-12-18,Yes
+P00973,2024-02-09,Sweden,Casual,Active,Sports Betting,Crypto,2024-12-19,No
+P00974,2024-09-08,Nigeria,Whale,Inactive,Poker,Bank Transfer,2024-10-16,Yes
+P00975,2024-11-22,Germany,Whale,Active,Live Casino,E-Wallet,2024-12-21,Yes
+P00976,2023-01-17,UK,Casual,Self-Excluded,Live Casino,Crypto,2023-07-28,Yes
+P00977,2024-03-22,Cyprus,Regular,Dormant,Slots,Bank Transfer,2024-08-06,No
+P00978,2024-03-08,Malta,Casual,Active,Sports Betting,Crypto,2024-12-19,Yes
+P00979,2024-08-22,Nigeria,VIP,Active,Sports Betting,Credit Card,2024-12-21,Yes
+P00980,2024-12-31,Canada,Casual,Inactive,Sports Betting,Bank Transfer,2024-12-31,Yes
+P00981,2024-06-09,Sweden,Casual,Inactive,Live Casino,Credit Card,2024-11-12,Yes
+P00982,2023-11-20,Canada,Casual,Inactive,Sports Betting,Credit Card,2024-04-05,Yes
+P00983,2023-12-22,UK,VIP,Active,Live Casino,Bank Transfer,2024-12-23,Yes
+P00984,2024-03-24,Nigeria,Casual,Active,Table Games,Crypto,2024-12-20,Yes
+P00985,2024-12-29,Canada,Casual,Inactive,Table Games,Crypto,2024-12-29,No
+P00986,2024-09-28,Germany,VIP,Active,Sports Betting,E-Wallet,2024-12-28,Yes
+P00987,2024-05-18,Sweden,Casual,Active,Table Games,E-Wallet,2024-12-23,Yes
+P00988,2023-01-19,India,Casual,Inactive,Live Casino,E-Wallet,2023-10-13,No
+P00989,2023-02-02,Canada,VIP,Self-Excluded,Slots,E-Wallet,2024-01-13,Yes
+P00990,2023-09-22,UK,Casual,Dormant,Poker,Bank Transfer,2024-03-21,No
+P00991,2024-06-11,UK,VIP,Inactive,Sports Betting,Crypto,2024-07-07,No
+P00992,2023-04-19,Finland,Regular,Dormant,Slots,Credit Card,2023-08-01,Yes
+P00993,2023-07-30,Brazil,Casual,Dormant,Sports Betting,Crypto,2023-10-18,Yes
+P00994,2024-10-24,Germany,Casual,Inactive,Live Casino,Crypto,2024-11-01,No
+P00995,2023-01-07,Sweden,Regular,Active,Table Games,Bank Transfer,2024-12-29,Yes
+P00996,2024-01-17,India,Casual,Self-Excluded,Live Casino,E-Wallet,2024-08-16,No
+P00997,2023-08-22,Canada,Regular,Active,Sports Betting,Crypto,2024-12-23,No
+P00998,2024-11-29,Sweden,Regular,Inactive,Live Casino,Credit Card,2024-11-29,Yes
+P00999,2023-03-13,Canada,Regular,Active,Live Casino,Crypto,2024-12-22,Yes
+P01000,2024-11-07,Malta,Regular,Dormant,Poker,Credit Card,2024-11-07,No
+P01001,2024-11-07,Brazil,Whale,Dormant,Sports Betting,Crypto,2024-11-07,No
+P01002,2023-11-08,India,Regular,Self-Excluded,Slots,Bank Transfer,2024-04-16,No
+P01003,2023-05-31,Cyprus,Regular,Self-Excluded,Poker,Crypto,2024-08-29,Yes
+P01004,2024-10-26,Brazil,VIP,Active,Slots,Credit Card,2024-12-20,Yes
+P01005,2023-05-10,Brazil,Casual,Inactive,Live Casino,Credit Card,2024-11-13,Yes
+P01006,2023-12-15,UK,Casual,Dormant,Slots,Bank Transfer,2024-03-05,Yes
+P01007,2024-03-08,UK,Regular,Dormant,Table Games,Bank Transfer,2024-04-05,Yes
+P01008,2023-02-18,Sweden,Casual,Dormant,Table Games,Credit Card,2023-06-25,Yes
+P01009,2024-08-18,Finland,Whale,Active,Poker,E-Wallet,2024-12-31,Yes
+P01010,2024-08-09,Canada,Casual,Self-Excluded,Poker,E-Wallet,2024-11-08,Yes
+P01011,2023-07-17,Sweden,Regular,Dormant,Slots,E-Wallet,2024-01-17,Yes
+P01012,2023-03-25,Malta,VIP,Active,Sports Betting,E-Wallet,2024-12-23,Yes
+P01013,2024-06-22,Finland,Casual,Inactive,Sports Betting,Bank Transfer,2024-11-12,Yes
+P01014,2024-03-26,Sweden,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-11-23,Yes
+P01015,2024-12-29,Finland,Casual,Inactive,Poker,Credit Card,2024-12-29,Yes
+P01016,2023-02-03,India,Casual,Self-Excluded,Slots,Crypto,2024-08-28,Yes
+P01017,2023-10-24,Germany,Casual,Active,Table Games,Bank Transfer,2024-12-19,No
+P01018,2024-05-12,Malta,Casual,Active,Poker,Crypto,2024-12-19,Yes
+P01019,2023-10-18,Sweden,VIP,Active,Slots,Credit Card,2024-12-30,Yes
+P01020,2023-02-15,Brazil,Casual,Inactive,Poker,Crypto,2024-09-23,No
+P01021,2024-05-01,Malta,Regular,Dormant,Poker,Crypto,2024-06-03,No
+P01022,2023-06-02,Germany,Regular,Dormant,Poker,Crypto,2023-11-15,Yes
+P01023,2023-12-14,Sweden,VIP,Active,Table Games,Credit Card,2024-12-27,No
+P01024,2024-08-08,Brazil,Regular,Inactive,Poker,Credit Card,2024-11-14,Yes
+P01025,2024-09-25,Nigeria,Casual,Inactive,Poker,E-Wallet,2024-10-01,No
+P01026,2023-01-20,Finland,Regular,Active,Live Casino,Credit Card,2024-12-31,Yes
+P01027,2024-12-23,Nigeria,Casual,Dormant,Sports Betting,Credit Card,2024-12-23,No
+P01028,2024-02-16,UK,Regular,Inactive,Table Games,Crypto,2024-10-24,Yes
+P01029,2024-06-24,Germany,Casual,Active,Slots,Credit Card,2024-12-21,Yes
+P01030,2023-07-07,Malta,Casual,Active,Table Games,Crypto,2024-12-18,Yes
+P01031,2023-11-30,UK,Casual,Active,Table Games,Crypto,2024-12-28,Yes
+P01032,2023-11-28,Germany,Casual,Active,Slots,E-Wallet,2024-12-30,Yes
+P01033,2023-08-31,Finland,Regular,Inactive,Sports Betting,Credit Card,2024-09-19,Yes
+P01034,2024-07-20,UK,Casual,Inactive,Sports Betting,E-Wallet,2024-11-20,No
+P01035,2024-07-21,Cyprus,Casual,Dormant,Poker,E-Wallet,2024-08-02,Yes
+P01036,2023-03-27,Cyprus,Casual,Dormant,Live Casino,Bank Transfer,2024-08-20,Yes
+P01037,2023-09-09,Finland,Casual,Inactive,Sports Betting,Credit Card,2024-04-12,Yes
+P01038,2024-09-27,UK,Casual,Active,Slots,Crypto,2024-12-19,Yes
+P01039,2024-11-27,Cyprus,Casual,Inactive,Poker,Bank Transfer,2024-11-29,Yes
+P01040,2024-07-30,Canada,Regular,Active,Slots,E-Wallet,2024-12-18,Yes
+P01041,2024-03-18,India,Whale,Active,Table Games,Bank Transfer,2024-12-25,No
+P01042,2023-10-07,India,Regular,Active,Live Casino,Crypto,2024-12-22,No
+P01043,2024-12-09,UK,Casual,Active,Poker,Crypto,2024-12-31,Yes
+P01044,2023-06-27,Canada,Casual,Inactive,Poker,Credit Card,2024-11-08,No
+P01045,2023-03-21,Germany,Regular,Inactive,Table Games,Crypto,2024-06-18,No
+P01046,2023-07-01,UK,Casual,Dormant,Slots,Crypto,2024-08-19,Yes
+P01047,2023-01-10,Brazil,Casual,Active,Table Games,E-Wallet,2024-12-17,Yes
+P01048,2023-11-07,Cyprus,Regular,Dormant,Sports Betting,Bank Transfer,2024-02-28,Yes
+P01049,2024-12-21,Cyprus,Casual,Self-Excluded,Slots,E-Wallet,2024-12-21,No
+P01050,2023-04-24,Sweden,Regular,Dormant,Live Casino,E-Wallet,2024-09-17,Yes
+P01051,2024-11-29,Germany,Regular,Inactive,Poker,E-Wallet,2024-11-29,Yes
+P01052,2024-08-06,Finland,Casual,Dormant,Table Games,E-Wallet,2024-10-01,No
+P01053,2024-12-10,Nigeria,Casual,Self-Excluded,Table Games,Crypto,2024-12-10,Yes
+P01054,2024-11-20,UK,Casual,Dormant,Table Games,Crypto,2024-11-20,No
+P01055,2023-05-05,Sweden,Casual,Self-Excluded,Table Games,Credit Card,2024-08-24,No
+P01056,2023-10-12,Sweden,Casual,Dormant,Table Games,Credit Card,2024-07-10,Yes
+P01057,2024-08-08,Cyprus,Casual,Dormant,Sports Betting,Credit Card,2024-09-24,No
+P01058,2023-12-04,Germany,Casual,Active,Slots,Crypto,2024-12-27,Yes
+P01059,2024-10-03,Brazil,Casual,Dormant,Live Casino,Credit Card,2024-10-03,Yes
+P01060,2023-02-25,Cyprus,Whale,Self-Excluded,Slots,Crypto,2024-08-10,No
+P01061,2024-08-15,UK,Regular,Active,Sports Betting,Bank Transfer,2024-12-17,No
+P01062,2023-05-11,Sweden,Regular,Active,Slots,Bank Transfer,2024-12-29,Yes
+P01063,2023-04-15,UK,Casual,Self-Excluded,Table Games,Crypto,2024-11-07,Yes
+P01064,2024-02-25,Nigeria,Regular,Active,Slots,Crypto,2024-12-26,Yes
+P01065,2024-09-27,UK,Regular,Inactive,Sports Betting,Bank Transfer,2024-11-09,Yes
+P01066,2023-01-13,Nigeria,Casual,Inactive,Live Casino,E-Wallet,2023-03-23,Yes
+P01067,2024-03-07,Malta,Casual,Inactive,Live Casino,E-Wallet,2024-10-20,No
+P01068,2023-11-16,India,Casual,Inactive,Table Games,E-Wallet,2024-08-04,Yes
+P01069,2023-12-18,Finland,Casual,Active,Poker,E-Wallet,2024-12-17,Yes
+P01070,2024-07-26,India,Regular,Dormant,Live Casino,E-Wallet,2024-09-18,Yes
+P01071,2023-03-12,Sweden,Casual,Active,Sports Betting,Bank Transfer,2024-12-27,No
+P01072,2023-12-10,India,Regular,Inactive,Live Casino,Credit Card,2024-07-11,Yes
+P01073,2023-02-13,Cyprus,Regular,Inactive,Live Casino,Crypto,2023-02-16,Yes
+P01074,2023-12-06,Cyprus,Casual,Dormant,Sports Betting,E-Wallet,2024-06-15,No
+P01075,2023-01-11,Finland,Casual,Active,Slots,E-Wallet,2024-12-17,Yes
+P01076,2024-08-22,UK,Casual,Dormant,Slots,E-Wallet,2024-09-14,Yes
+P01077,2023-09-26,Finland,Casual,Self-Excluded,Live Casino,E-Wallet,2024-03-17,Yes
+P01078,2023-09-26,Malta,Casual,Dormant,Sports Betting,Credit Card,2023-10-06,Yes
+P01079,2024-04-12,India,Casual,Active,Live Casino,Crypto,2024-12-29,No
+P01080,2023-05-28,Cyprus,Casual,Dormant,Live Casino,Crypto,2023-08-02,Yes
+P01081,2024-03-15,UK,Casual,Dormant,Poker,E-Wallet,2024-05-16,No
+P01082,2023-06-02,Brazil,Casual,Active,Live Casino,Crypto,2024-12-17,Yes
+P01083,2024-04-26,Germany,Casual,Dormant,Live Casino,Crypto,2024-09-30,No
+P01084,2024-06-05,Sweden,Regular,Inactive,Live Casino,Bank Transfer,2024-10-15,Yes
+P01085,2024-05-09,Sweden,Regular,Self-Excluded,Table Games,Crypto,2024-09-12,Yes
+P01086,2024-10-27,Cyprus,Regular,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P01087,2024-01-22,Brazil,Casual,Inactive,Poker,Credit Card,2024-07-31,Yes
+P01088,2024-03-31,Nigeria,Casual,Inactive,Slots,Crypto,2024-05-28,Yes
+P01089,2024-04-06,India,Casual,Inactive,Sports Betting,Bank Transfer,2024-07-19,Yes
+P01090,2024-03-28,Germany,Casual,Active,Table Games,Credit Card,2024-12-27,Yes
+P01091,2024-07-13,Cyprus,Regular,Inactive,Slots,Credit Card,2024-09-21,Yes
+P01092,2023-07-25,India,Casual,Active,Table Games,Bank Transfer,2024-12-27,Yes
+P01093,2023-10-09,Malta,Regular,Active,Poker,Bank Transfer,2024-12-26,Yes
+P01094,2023-12-21,Canada,Casual,Dormant,Poker,Credit Card,2024-07-14,Yes
+P01095,2023-06-02,Cyprus,Regular,Dormant,Live Casino,Crypto,2023-09-26,Yes
+P01096,2024-07-19,India,Regular,Dormant,Slots,Bank Transfer,2024-09-16,No
+P01097,2024-12-15,Sweden,Casual,Inactive,Sports Betting,Credit Card,2024-12-15,Yes
+P01098,2023-05-12,UK,Regular,Active,Sports Betting,Bank Transfer,2024-12-28,Yes
+P01099,2024-12-03,Finland,Casual,Dormant,Table Games,Bank Transfer,2024-12-03,Yes
+P01100,2023-02-02,India,Regular,Dormant,Poker,Crypto,2023-07-09,No
+P01101,2024-02-05,Cyprus,Casual,Active,Sports Betting,Credit Card,2024-12-23,Yes
+P01102,2024-10-16,Germany,Whale,Dormant,Live Casino,Credit Card,2024-10-16,Yes
+P01103,2024-12-06,UK,Casual,Inactive,Live Casino,E-Wallet,2024-12-06,Yes
+P01104,2023-10-18,Finland,Whale,Active,Slots,Crypto,2024-12-21,Yes
+P01105,2023-06-25,Canada,Regular,Active,Sports Betting,E-Wallet,2024-12-31,No
+P01106,2024-03-04,Canada,Casual,Inactive,Live Casino,E-Wallet,2024-04-08,No
+P01107,2024-12-27,Malta,Casual,Self-Excluded,Poker,Bank Transfer,2024-12-27,Yes
+P01108,2024-12-02,Cyprus,Regular,Inactive,Slots,E-Wallet,2024-12-02,Yes
+P01109,2024-09-11,India,VIP,Self-Excluded,Poker,Crypto,2024-11-17,Yes
+P01110,2023-04-04,Sweden,Regular,Active,Table Games,Bank Transfer,2024-12-31,Yes
+P01111,2023-06-29,Nigeria,VIP,Active,Sports Betting,Crypto,2024-12-19,Yes
+P01112,2024-12-16,Canada,Regular,Inactive,Slots,E-Wallet,2024-12-16,No
+P01113,2024-10-05,Germany,Casual,Inactive,Live Casino,Crypto,2024-11-16,Yes
+P01114,2023-05-05,Germany,Regular,Dormant,Poker,Bank Transfer,2023-07-22,Yes
+P01115,2023-08-01,UK,Casual,Inactive,Slots,Crypto,2024-03-24,Yes
+P01116,2023-07-19,Brazil,Regular,Inactive,Slots,E-Wallet,2023-07-24,Yes
+P01117,2024-05-11,Finland,Regular,Inactive,Live Casino,Crypto,2024-06-01,Yes
+P01118,2023-06-15,Nigeria,VIP,Active,Slots,E-Wallet,2024-12-17,Yes
+P01119,2024-02-05,UK,Regular,Active,Table Games,E-Wallet,2024-12-27,Yes
+P01120,2023-02-05,Cyprus,Casual,Dormant,Sports Betting,Credit Card,2024-08-03,No
+P01121,2024-10-18,Germany,VIP,Inactive,Sports Betting,Bank Transfer,2024-11-29,Yes
+P01122,2023-02-19,Cyprus,Regular,Dormant,Table Games,E-Wallet,2023-09-13,Yes
+P01123,2023-01-29,Cyprus,Casual,Dormant,Slots,E-Wallet,2024-01-09,No
+P01124,2024-11-11,UK,Casual,Active,Sports Betting,Credit Card,2024-12-19,No
+P01125,2024-10-03,Finland,Casual,Active,Sports Betting,Crypto,2024-12-20,Yes
+P01126,2024-01-01,Canada,Casual,Active,Table Games,Credit Card,2024-12-17,Yes
+P01127,2023-03-09,Nigeria,Casual,Self-Excluded,Table Games,Credit Card,2023-12-19,Yes
+P01128,2023-11-05,Germany,Casual,Dormant,Poker,E-Wallet,2024-07-17,Yes
+P01129,2023-11-29,Malta,Casual,Dormant,Table Games,E-Wallet,2024-06-14,Yes
+P01130,2023-11-22,Germany,VIP,Dormant,Table Games,Credit Card,2024-07-25,Yes
+P01131,2024-01-27,Finland,Regular,Inactive,Poker,Credit Card,2024-05-25,Yes
+P01132,2023-05-08,Canada,Regular,Active,Live Casino,Credit Card,2024-12-28,Yes
+P01133,2023-10-31,Cyprus,Casual,Active,Slots,E-Wallet,2024-12-23,No
+P01134,2024-03-30,Malta,Regular,Self-Excluded,Table Games,Bank Transfer,2024-06-22,Yes
+P01135,2024-06-17,Brazil,Regular,Dormant,Slots,E-Wallet,2024-08-09,No
+P01136,2023-09-06,Cyprus,Casual,Active,Live Casino,Crypto,2024-12-17,Yes
+P01137,2024-10-06,Sweden,Casual,Active,Slots,E-Wallet,2024-12-30,Yes
+P01138,2023-07-29,Nigeria,Whale,Active,Poker,E-Wallet,2024-12-19,Yes
+P01139,2024-04-23,Cyprus,Casual,Active,Live Casino,Crypto,2024-12-28,Yes
+P01140,2023-10-20,Cyprus,Casual,Inactive,Table Games,Crypto,2024-09-09,Yes
+P01141,2024-02-12,Sweden,Whale,Active,Sports Betting,Crypto,2024-12-24,No
+P01142,2024-05-08,Canada,VIP,Active,Slots,Bank Transfer,2024-12-23,Yes
+P01143,2023-06-29,Brazil,Casual,Active,Sports Betting,Bank Transfer,2024-12-24,Yes
+P01144,2023-03-15,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-28,No
+P01145,2024-05-27,Sweden,Casual,Self-Excluded,Sports Betting,Crypto,2024-08-30,No
+P01146,2024-01-18,Nigeria,Whale,Active,Slots,Crypto,2024-12-21,No
+P01147,2023-05-08,Malta,Whale,Active,Live Casino,Crypto,2024-12-26,No
+P01148,2023-12-23,India,Regular,Inactive,Slots,Crypto,2024-08-29,No
+P01149,2023-09-06,India,Regular,Inactive,Slots,E-Wallet,2024-10-26,Yes
+P01150,2024-11-28,Nigeria,Casual,Active,Poker,E-Wallet,2024-12-20,Yes
+P01151,2024-10-21,Canada,Regular,Self-Excluded,Poker,Credit Card,2024-11-14,Yes
+P01152,2024-03-09,Brazil,Casual,Active,Table Games,Crypto,2024-12-23,Yes
+P01153,2023-04-02,India,Regular,Active,Live Casino,Bank Transfer,2024-12-26,Yes
+P01154,2024-02-12,Malta,VIP,Inactive,Sports Betting,Credit Card,2024-02-15,Yes
+P01155,2024-03-03,Canada,Regular,Inactive,Live Casino,E-Wallet,2024-07-28,Yes
+P01156,2023-07-22,Germany,Regular,Inactive,Sports Betting,E-Wallet,2024-04-04,Yes
+P01157,2023-07-07,Brazil,Casual,Dormant,Sports Betting,Crypto,2023-10-13,Yes
+P01158,2024-10-13,Germany,Regular,Active,Sports Betting,Credit Card,2024-12-21,Yes
+P01159,2024-08-22,Germany,Casual,Active,Slots,Credit Card,2024-12-24,Yes
+P01160,2024-11-12,Germany,Whale,Active,Live Casino,Credit Card,2024-12-17,Yes
+P01161,2023-09-30,India,Regular,Dormant,Poker,Crypto,2024-05-29,Yes
+P01162,2023-12-18,India,Regular,Dormant,Sports Betting,Crypto,2024-04-18,Yes
+P01163,2023-12-05,Sweden,Whale,Self-Excluded,Sports Betting,E-Wallet,2023-12-06,Yes
+P01164,2024-06-27,Cyprus,Casual,Active,Table Games,Crypto,2024-12-28,Yes
+P01165,2024-05-01,Cyprus,Regular,Inactive,Slots,Bank Transfer,2024-10-17,Yes
+P01166,2023-02-16,Sweden,Casual,Dormant,Live Casino,Crypto,2024-01-15,Yes
+P01167,2023-03-25,Sweden,Regular,Active,Slots,Crypto,2024-12-31,Yes
+P01168,2023-05-27,Nigeria,Casual,Dormant,Poker,Credit Card,2024-08-17,Yes
+P01169,2023-11-05,Sweden,Regular,Dormant,Live Casino,Crypto,2024-08-11,No
+P01170,2024-07-07,Malta,Casual,Active,Slots,Credit Card,2024-12-20,Yes
+P01171,2023-06-14,Canada,Regular,Dormant,Table Games,E-Wallet,2023-11-28,Yes
+P01172,2024-11-17,Finland,Regular,Active,Sports Betting,Credit Card,2024-12-19,No
+P01173,2023-08-18,Nigeria,Casual,Dormant,Slots,Bank Transfer,2024-09-13,Yes
+P01174,2024-01-26,Canada,Regular,Self-Excluded,Live Casino,E-Wallet,2024-11-08,Yes
+P01175,2023-04-25,Nigeria,Casual,Active,Live Casino,Credit Card,2024-12-28,Yes
+P01176,2023-11-17,UK,Casual,Dormant,Table Games,Credit Card,2024-09-07,Yes
+P01177,2024-02-02,India,Casual,Dormant,Live Casino,E-Wallet,2024-04-23,Yes
+P01178,2024-04-16,Brazil,Casual,Active,Live Casino,Crypto,2024-12-30,Yes
+P01179,2023-10-18,UK,Casual,Active,Poker,Bank Transfer,2024-12-27,Yes
+P01180,2023-05-07,Nigeria,Whale,Active,Sports Betting,E-Wallet,2024-12-30,Yes
+P01181,2024-01-21,India,Regular,Active,Live Casino,E-Wallet,2024-12-29,No
+P01182,2023-08-19,Malta,VIP,Inactive,Sports Betting,Crypto,2023-09-14,Yes
+P01183,2023-06-13,Canada,VIP,Dormant,Table Games,Crypto,2024-03-19,Yes
+P01184,2024-02-05,Brazil,Whale,Active,Table Games,E-Wallet,2024-12-25,Yes
+P01185,2023-04-10,Nigeria,Regular,Active,Slots,Bank Transfer,2024-12-29,Yes
+P01186,2023-05-21,Brazil,Casual,Inactive,Live Casino,E-Wallet,2024-09-26,Yes
+P01187,2024-10-28,Nigeria,Regular,Active,Slots,E-Wallet,2024-12-28,Yes
+P01188,2024-11-26,Germany,Whale,Self-Excluded,Table Games,Crypto,2024-11-26,Yes
+P01189,2024-06-11,Canada,Casual,Self-Excluded,Live Casino,Crypto,2024-11-09,Yes
+P01190,2024-02-11,Canada,Casual,Inactive,Slots,Crypto,2024-05-09,No
+P01191,2023-10-09,India,Regular,Inactive,Slots,Credit Card,2024-05-23,Yes
+P01192,2024-10-18,Cyprus,Casual,Self-Excluded,Slots,Crypto,2024-11-19,Yes
+P01193,2024-08-30,Canada,Regular,Active,Table Games,E-Wallet,2024-12-24,Yes
+P01194,2024-07-04,UK,Casual,Active,Sports Betting,Crypto,2024-12-30,Yes
+P01195,2024-07-05,Cyprus,VIP,Inactive,Slots,E-Wallet,2024-08-05,No
+P01196,2023-01-06,Germany,Regular,Inactive,Slots,E-Wallet,2023-11-23,Yes
+P01197,2023-03-31,Germany,Regular,Inactive,Slots,Bank Transfer,2023-05-05,Yes
+P01198,2024-03-09,UK,Regular,Dormant,Live Casino,Bank Transfer,2024-08-24,Yes
+P01199,2023-10-28,Malta,VIP,Inactive,Poker,Crypto,2024-06-11,Yes
+P01200,2023-12-27,Cyprus,Regular,Inactive,Slots,Credit Card,2024-09-13,Yes
+P01201,2023-11-03,Malta,Casual,Dormant,Poker,E-Wallet,2024-02-21,Yes
+P01202,2024-09-29,Brazil,Casual,Inactive,Sports Betting,E-Wallet,2024-10-31,Yes
+P01203,2023-09-18,Malta,Casual,Self-Excluded,Poker,E-Wallet,2024-09-07,Yes
+P01204,2024-10-10,India,Regular,Self-Excluded,Poker,E-Wallet,2024-10-22,Yes
+P01205,2024-03-20,Germany,Casual,Inactive,Table Games,Credit Card,2024-07-24,Yes
+P01206,2024-02-21,Germany,Regular,Active,Table Games,Bank Transfer,2024-12-27,No
+P01207,2023-08-20,Canada,Casual,Active,Live Casino,Crypto,2024-12-18,No
+P01208,2023-05-07,Brazil,Regular,Active,Poker,Crypto,2024-12-28,Yes
+P01209,2024-08-08,Brazil,Casual,Dormant,Poker,Credit Card,2024-09-12,No
+P01210,2024-02-03,Finland,Casual,Active,Poker,Crypto,2024-12-29,Yes
+P01211,2023-01-10,Malta,Casual,Self-Excluded,Live Casino,Crypto,2023-06-18,Yes
+P01212,2024-10-16,Cyprus,Casual,Dormant,Poker,Crypto,2024-10-16,Yes
+P01213,2023-12-29,Brazil,Casual,Dormant,Table Games,Crypto,2024-09-11,Yes
+P01214,2023-08-23,Germany,Regular,Active,Table Games,Crypto,2024-12-30,No
+P01215,2024-10-11,Cyprus,VIP,Active,Slots,E-Wallet,2024-12-28,Yes
+P01216,2023-10-20,UK,Casual,Inactive,Sports Betting,E-Wallet,2024-06-28,Yes
+P01217,2024-11-24,Germany,Regular,Dormant,Sports Betting,Credit Card,2024-11-24,Yes
+P01218,2023-01-08,India,VIP,Inactive,Live Casino,Credit Card,2024-07-08,Yes
+P01219,2024-11-21,Finland,Whale,Dormant,Live Casino,E-Wallet,2024-11-21,Yes
+P01220,2024-06-10,Canada,VIP,Active,Sports Betting,Crypto,2024-12-17,Yes
+P01221,2023-12-13,Finland,Whale,Dormant,Slots,Bank Transfer,2024-04-18,Yes
+P01222,2023-08-07,Nigeria,Casual,Active,Sports Betting,E-Wallet,2024-12-27,No
+P01223,2024-10-20,UK,VIP,Active,Sports Betting,Crypto,2024-12-31,Yes
+P01224,2024-04-16,Germany,Casual,Active,Slots,Bank Transfer,2024-12-22,No
+P01225,2023-12-30,Sweden,Casual,Active,Live Casino,Credit Card,2024-12-23,Yes
+P01226,2024-02-25,UK,VIP,Active,Live Casino,Bank Transfer,2024-12-24,Yes
+P01227,2023-11-03,Finland,Casual,Inactive,Table Games,Credit Card,2024-02-04,No
+P01228,2024-03-25,Canada,Regular,Active,Slots,Bank Transfer,2024-12-22,No
+P01229,2023-04-24,Malta,Regular,Active,Sports Betting,Crypto,2024-12-17,Yes
+P01230,2023-06-14,Brazil,VIP,Inactive,Slots,Crypto,2024-10-16,Yes
+P01231,2024-11-29,Canada,Casual,Self-Excluded,Poker,Crypto,2024-11-30,Yes
+P01232,2023-01-22,Finland,Whale,Active,Slots,E-Wallet,2024-12-22,Yes
+P01233,2024-03-15,UK,VIP,Dormant,Sports Betting,Crypto,2024-09-19,Yes
+P01234,2024-03-15,Finland,Casual,Active,Live Casino,E-Wallet,2024-12-19,Yes
+P01235,2023-09-27,Canada,Casual,Dormant,Live Casino,Crypto,2024-01-31,Yes
+P01236,2024-12-18,Nigeria,VIP,Inactive,Live Casino,E-Wallet,2024-12-18,No
+P01237,2024-10-11,Malta,Regular,Active,Sports Betting,Credit Card,2024-12-18,Yes
+P01238,2023-05-30,Germany,Casual,Inactive,Slots,Crypto,2023-12-20,Yes
+P01239,2024-10-10,Cyprus,Casual,Dormant,Table Games,Crypto,2024-10-10,Yes
+P01240,2024-10-21,Brazil,Regular,Active,Table Games,Bank Transfer,2024-12-18,No
+P01241,2023-09-10,Malta,Regular,Active,Slots,Credit Card,2024-12-17,Yes
+P01242,2023-08-06,Nigeria,Regular,Active,Slots,Crypto,2024-12-21,Yes
+P01243,2024-01-08,Germany,VIP,Active,Slots,E-Wallet,2024-12-18,Yes
+P01244,2024-01-06,Finland,Regular,Self-Excluded,Poker,Bank Transfer,2024-11-02,Yes
+P01245,2024-08-21,Malta,Casual,Inactive,Poker,Credit Card,2024-09-03,Yes
+P01246,2024-11-01,Sweden,Whale,Self-Excluded,Slots,Credit Card,2024-11-07,No
+P01247,2023-11-05,Cyprus,Regular,Self-Excluded,Poker,E-Wallet,2024-11-28,Yes
+P01248,2024-07-17,India,Casual,Self-Excluded,Sports Betting,Credit Card,2024-10-13,No
+P01249,2024-03-05,UK,Casual,Inactive,Live Casino,Bank Transfer,2024-11-17,Yes
+P01250,2023-02-16,Cyprus,Casual,Dormant,Sports Betting,Crypto,2023-04-19,Yes
+P01251,2023-03-18,Finland,VIP,Active,Sports Betting,Crypto,2024-12-29,Yes
+P01252,2023-07-08,Cyprus,Casual,Active,Poker,Credit Card,2024-12-26,No
+P01253,2024-04-11,Finland,Regular,Inactive,Table Games,Bank Transfer,2024-10-12,No
+P01254,2023-10-02,Cyprus,Casual,Inactive,Slots,E-Wallet,2023-12-28,Yes
+P01255,2023-10-12,UK,Regular,Dormant,Live Casino,E-Wallet,2024-02-27,Yes
+P01256,2023-12-22,India,Casual,Inactive,Slots,Bank Transfer,2024-06-27,Yes
+P01257,2024-09-18,UK,Casual,Active,Table Games,E-Wallet,2024-12-17,Yes
+P01258,2023-09-20,Nigeria,Casual,Dormant,Slots,Crypto,2024-06-21,No
+P01259,2024-10-03,Cyprus,Casual,Inactive,Sports Betting,E-Wallet,2024-11-07,Yes
+P01260,2024-10-06,Canada,Casual,Dormant,Live Casino,Crypto,2024-10-06,Yes
+P01261,2024-01-13,Germany,Regular,Active,Sports Betting,E-Wallet,2024-12-24,Yes
+P01262,2023-06-30,Malta,VIP,Active,Table Games,Credit Card,2024-12-24,Yes
+P01263,2024-02-08,Germany,VIP,Inactive,Live Casino,Credit Card,2024-05-14,Yes
+P01264,2024-10-22,Germany,Casual,Dormant,Poker,E-Wallet,2024-10-22,Yes
+P01265,2024-09-09,UK,VIP,Active,Slots,Credit Card,2024-12-23,No
+P01266,2023-02-14,Germany,Regular,Active,Table Games,E-Wallet,2024-12-29,No
+P01267,2023-01-10,Finland,Regular,Dormant,Table Games,Credit Card,2023-04-28,Yes
+P01268,2024-07-30,Brazil,Casual,Dormant,Table Games,Crypto,2024-08-19,Yes
+P01269,2024-12-09,Germany,Casual,Active,Slots,Credit Card,2024-12-25,Yes
+P01270,2024-06-07,Malta,Casual,Dormant,Slots,E-Wallet,2024-07-30,Yes
+P01271,2023-05-31,Cyprus,Casual,Inactive,Sports Betting,Credit Card,2024-03-19,Yes
+P01272,2023-08-18,India,Whale,Active,Slots,Bank Transfer,2024-12-21,Yes
+P01273,2023-03-28,Malta,VIP,Dormant,Sports Betting,Bank Transfer,2023-08-29,Yes
+P01274,2023-06-03,Brazil,Regular,Dormant,Poker,Bank Transfer,2024-05-19,Yes
+P01275,2024-05-26,Germany,Casual,Self-Excluded,Slots,E-Wallet,2024-08-01,No
+P01276,2023-06-01,Germany,Casual,Inactive,Slots,Crypto,2024-10-02,No
+P01277,2023-04-03,Malta,Casual,Active,Sports Betting,Bank Transfer,2024-12-19,Yes
+P01278,2024-12-11,Nigeria,Casual,Dormant,Table Games,E-Wallet,2024-12-11,No
+P01279,2023-09-09,Sweden,Regular,Inactive,Poker,Crypto,2024-06-16,Yes
+P01280,2024-01-29,Canada,VIP,Active,Poker,E-Wallet,2024-12-28,Yes
+P01281,2023-01-03,UK,Casual,Active,Table Games,Crypto,2024-12-30,No
+P01282,2023-03-03,Malta,VIP,Dormant,Table Games,Crypto,2024-03-06,Yes
+P01283,2024-03-07,Cyprus,VIP,Active,Slots,E-Wallet,2024-12-30,Yes
+P01284,2023-05-27,Canada,Regular,Inactive,Table Games,Credit Card,2023-06-22,Yes
+P01285,2023-03-17,Malta,Regular,Inactive,Slots,E-Wallet,2024-11-14,Yes
+P01286,2023-03-20,Canada,Casual,Active,Live Casino,E-Wallet,2024-12-30,Yes
+P01287,2024-06-24,Sweden,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-09-08,Yes
+P01288,2023-01-14,UK,Regular,Active,Slots,E-Wallet,2024-12-19,Yes
+P01289,2024-03-09,Finland,Casual,Self-Excluded,Table Games,Bank Transfer,2024-10-27,Yes
+P01290,2023-06-10,Finland,Casual,Active,Sports Betting,E-Wallet,2024-12-18,Yes
+P01291,2023-02-27,Finland,Casual,Active,Poker,Credit Card,2024-12-19,No
+P01292,2023-11-17,Canada,Casual,Self-Excluded,Live Casino,Credit Card,2024-06-11,No
+P01293,2023-07-19,Germany,Regular,Active,Table Games,Bank Transfer,2024-12-18,Yes
+P01294,2024-07-08,Nigeria,Casual,Active,Slots,Bank Transfer,2024-12-20,Yes
+P01295,2023-02-03,Nigeria,Casual,Active,Poker,Credit Card,2024-12-18,Yes
+P01296,2023-02-16,Brazil,Regular,Active,Slots,Bank Transfer,2024-12-18,No
+P01297,2024-05-27,Canada,Whale,Active,Table Games,E-Wallet,2024-12-29,Yes
+P01298,2024-02-22,Germany,Casual,Dormant,Poker,E-Wallet,2024-06-29,Yes
+P01299,2024-05-03,Brazil,Regular,Inactive,Live Casino,E-Wallet,2024-05-12,Yes
+P01300,2024-10-02,Cyprus,Casual,Active,Live Casino,E-Wallet,2024-12-28,No
+P01301,2024-05-28,Nigeria,Casual,Inactive,Poker,Bank Transfer,2024-11-30,Yes
+P01302,2023-10-25,UK,Casual,Inactive,Sports Betting,E-Wallet,2024-06-01,Yes
+P01303,2023-03-18,Germany,Regular,Dormant,Slots,E-Wallet,2024-08-08,No
+P01304,2023-03-31,India,Casual,Inactive,Live Casino,Bank Transfer,2024-07-08,Yes
+P01305,2024-01-08,Malta,Casual,Inactive,Sports Betting,Bank Transfer,2024-02-13,No
+P01306,2024-03-28,Germany,Whale,Inactive,Poker,Crypto,2024-05-02,Yes
+P01307,2024-02-15,Malta,VIP,Active,Sports Betting,Bank Transfer,2024-12-26,Yes
+P01308,2023-11-18,Canada,Regular,Inactive,Poker,Crypto,2024-11-01,Yes
+P01309,2024-11-29,UK,VIP,Active,Live Casino,Credit Card,2024-12-27,Yes
+P01310,2024-01-20,Germany,Casual,Active,Live Casino,Crypto,2024-12-23,No
+P01311,2023-12-24,Finland,Regular,Inactive,Sports Betting,Credit Card,2024-11-16,Yes
+P01312,2024-02-11,Canada,Regular,Dormant,Table Games,Credit Card,2024-04-02,Yes
+P01313,2024-05-12,Sweden,Whale,Active,Slots,Bank Transfer,2024-12-28,Yes
+P01314,2024-04-26,India,Regular,Active,Poker,Credit Card,2024-12-20,No
+P01315,2023-03-05,Canada,Regular,Dormant,Sports Betting,E-Wallet,2024-03-09,Yes
+P01316,2024-12-01,Malta,VIP,Active,Slots,E-Wallet,2024-12-21,Yes
+P01317,2023-11-02,Canada,Casual,Dormant,Poker,E-Wallet,2024-06-20,Yes
+P01318,2023-02-25,Canada,Casual,Active,Table Games,Bank Transfer,2024-12-31,Yes
+P01319,2024-03-05,Canada,Casual,Inactive,Table Games,Crypto,2024-05-26,No
+P01320,2024-09-03,Nigeria,Regular,Active,Poker,E-Wallet,2024-12-28,Yes
+P01321,2023-11-21,Sweden,Whale,Active,Live Casino,Crypto,2024-12-31,No
+P01322,2024-11-21,UK,Casual,Inactive,Sports Betting,E-Wallet,2024-11-29,Yes
+P01323,2024-08-15,Cyprus,Regular,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P01324,2023-08-03,Nigeria,Casual,Dormant,Slots,Bank Transfer,2024-07-15,No
+P01325,2023-11-11,Sweden,Casual,Inactive,Sports Betting,Crypto,2024-01-13,Yes
+P01326,2024-07-09,Germany,Casual,Inactive,Live Casino,Crypto,2024-10-02,Yes
+P01327,2024-09-01,Canada,Casual,Active,Table Games,Crypto,2024-12-23,Yes
+P01328,2023-04-12,Germany,Regular,Dormant,Slots,Crypto,2023-07-27,Yes
+P01329,2024-09-30,Sweden,Regular,Dormant,Poker,Credit Card,2024-09-30,Yes
+P01330,2023-08-05,Finland,VIP,Active,Sports Betting,Credit Card,2024-12-24,Yes
+P01331,2023-05-08,Canada,Casual,Inactive,Sports Betting,Credit Card,2024-08-25,No
+P01332,2024-06-03,Brazil,Regular,Active,Table Games,Crypto,2024-12-31,Yes
+P01333,2024-02-29,Malta,Casual,Active,Table Games,Bank Transfer,2024-12-17,Yes
+P01334,2024-03-16,Cyprus,Whale,Active,Poker,Crypto,2024-12-23,No
+P01335,2024-08-14,Canada,VIP,Active,Live Casino,Crypto,2024-12-27,No
+P01336,2024-03-23,Malta,Regular,Active,Poker,Credit Card,2024-12-28,Yes
+P01337,2024-10-04,Finland,Regular,Dormant,Live Casino,Bank Transfer,2024-10-04,Yes
+P01338,2024-03-23,Nigeria,Casual,Active,Live Casino,Credit Card,2024-12-29,Yes
+P01339,2023-03-22,Malta,Regular,Inactive,Sports Betting,Bank Transfer,2023-04-16,Yes
+P01340,2023-08-16,Cyprus,Regular,Active,Sports Betting,Bank Transfer,2024-12-25,Yes
+P01341,2023-05-28,Germany,Casual,Inactive,Sports Betting,Credit Card,2023-09-10,Yes
+P01342,2023-07-04,India,Casual,Active,Live Casino,Crypto,2024-12-24,Yes
+P01343,2024-02-28,Germany,Regular,Active,Live Casino,Crypto,2024-12-27,Yes
+P01344,2024-04-06,Brazil,Casual,Dormant,Slots,E-Wallet,2024-05-22,Yes
+P01345,2023-02-02,India,Regular,Active,Sports Betting,Credit Card,2024-12-22,Yes
+P01346,2023-05-05,Finland,Regular,Active,Slots,E-Wallet,2024-12-17,Yes
+P01347,2023-08-11,Cyprus,Casual,Active,Slots,E-Wallet,2024-12-19,Yes
+P01348,2023-04-05,Brazil,Casual,Active,Sports Betting,Crypto,2024-12-25,Yes
+P01349,2023-07-17,Brazil,VIP,Active,Sports Betting,Credit Card,2024-12-20,Yes
+P01350,2023-11-16,Sweden,Regular,Active,Sports Betting,Crypto,2024-12-20,Yes
+P01351,2023-11-23,Canada,Regular,Inactive,Sports Betting,E-Wallet,2024-09-28,Yes
+P01352,2024-10-09,Sweden,Casual,Dormant,Live Casino,Credit Card,2024-10-09,No
+P01353,2024-02-24,Finland,Casual,Active,Table Games,Crypto,2024-12-30,Yes
+P01354,2023-11-27,India,Casual,Inactive,Live Casino,Credit Card,2024-03-01,Yes
+P01355,2023-05-29,UK,Casual,Dormant,Table Games,Credit Card,2023-07-30,Yes
+P01356,2024-08-04,Cyprus,Casual,Dormant,Poker,Credit Card,2024-09-30,Yes
+P01357,2024-06-23,Brazil,Regular,Active,Poker,Credit Card,2024-12-25,Yes
+P01358,2024-11-29,India,Regular,Dormant,Table Games,E-Wallet,2024-11-29,Yes
+P01359,2024-05-25,Canada,VIP,Active,Slots,Credit Card,2024-12-21,Yes
+P01360,2024-08-28,UK,Regular,Inactive,Table Games,Credit Card,2024-11-09,Yes
+P01361,2023-01-05,Malta,VIP,Dormant,Sports Betting,Credit Card,2023-10-23,No
+P01362,2023-02-10,Germany,VIP,Active,Sports Betting,Credit Card,2024-12-17,No
+P01363,2023-11-05,India,Casual,Active,Sports Betting,Credit Card,2024-12-29,Yes
+P01364,2024-09-19,Sweden,Casual,Active,Sports Betting,Credit Card,2024-12-21,No
+P01365,2023-04-16,UK,VIP,Active,Live Casino,Credit Card,2024-12-17,No
+P01366,2024-03-22,Cyprus,VIP,Active,Table Games,Credit Card,2024-12-18,No
+P01367,2023-09-23,Germany,VIP,Dormant,Slots,Bank Transfer,2023-10-15,Yes
+P01368,2024-09-19,Brazil,Casual,Dormant,Live Casino,E-Wallet,2024-09-25,Yes
+P01369,2023-11-23,Canada,Casual,Dormant,Sports Betting,Credit Card,2024-09-17,Yes
+P01370,2024-05-04,India,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-07-14,Yes
+P01371,2024-12-29,Cyprus,Regular,Active,Live Casino,Credit Card,2024-12-25,Yes
+P01372,2023-08-06,Sweden,Casual,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P01373,2024-08-27,India,Casual,Dormant,Table Games,Crypto,2024-09-28,Yes
+P01374,2023-04-19,India,VIP,Dormant,Sports Betting,Crypto,2023-11-29,No
+P01375,2024-02-14,Canada,Regular,Active,Live Casino,Bank Transfer,2024-12-21,No
+P01376,2023-04-15,Germany,Regular,Active,Slots,E-Wallet,2024-12-31,Yes
+P01377,2023-10-01,Finland,Casual,Active,Sports Betting,Bank Transfer,2024-12-27,Yes
+P01378,2023-03-28,Malta,VIP,Active,Sports Betting,Crypto,2024-12-20,Yes
+P01379,2023-10-07,Canada,Casual,Inactive,Sports Betting,E-Wallet,2023-11-01,Yes
+P01380,2024-08-31,Sweden,Casual,Active,Poker,Crypto,2024-12-26,Yes
+P01381,2023-09-12,Germany,Casual,Dormant,Slots,Credit Card,2024-01-02,Yes
+P01382,2024-06-28,Nigeria,Casual,Active,Sports Betting,Crypto,2024-12-20,Yes
+P01383,2024-12-09,Malta,Casual,Active,Live Casino,Bank Transfer,2024-12-20,Yes
+P01384,2023-10-22,Malta,Regular,Self-Excluded,Poker,Crypto,2023-12-09,Yes
+P01385,2024-12-05,Germany,VIP,Active,Live Casino,E-Wallet,2024-12-22,Yes
+P01386,2023-01-14,India,Casual,Self-Excluded,Slots,E-Wallet,2024-03-27,No
+P01387,2023-06-24,Nigeria,VIP,Inactive,Table Games,Crypto,2023-07-03,Yes
+P01388,2023-09-11,UK,Casual,Inactive,Poker,Bank Transfer,2023-10-04,No
+P01389,2023-06-21,Germany,Regular,Dormant,Slots,Bank Transfer,2024-07-21,No
+P01390,2024-05-17,Brazil,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-10-03,Yes
+P01391,2023-12-28,Finland,Casual,Active,Poker,Crypto,2024-12-22,Yes
+P01392,2024-10-17,Cyprus,Regular,Active,Live Casino,Bank Transfer,2024-12-23,Yes
+P01393,2024-12-13,India,Casual,Dormant,Live Casino,Credit Card,2024-12-13,Yes
+P01394,2024-10-16,Finland,Whale,Active,Sports Betting,E-Wallet,2024-12-21,Yes
+P01395,2023-12-06,Brazil,Regular,Inactive,Table Games,E-Wallet,2024-07-06,Yes
+P01396,2023-12-18,Canada,Regular,Dormant,Sports Betting,Bank Transfer,2024-02-18,Yes
+P01397,2024-05-25,Sweden,Whale,Dormant,Live Casino,Bank Transfer,2024-07-01,Yes
+P01398,2023-11-07,Brazil,Regular,Inactive,Slots,Crypto,2023-12-10,Yes
+P01399,2024-08-30,Brazil,Casual,Active,Slots,Crypto,2024-12-24,Yes
+P01400,2023-02-21,Brazil,VIP,Active,Poker,E-Wallet,2024-12-22,No
+P01401,2023-05-27,Canada,Regular,Dormant,Poker,Credit Card,2023-09-04,Yes
+P01402,2023-12-30,Canada,Casual,Active,Sports Betting,Crypto,2024-12-27,No
+P01403,2023-09-25,Brazil,Casual,Dormant,Live Casino,Crypto,2024-07-26,Yes
+P01404,2024-08-15,Cyprus,Casual,Active,Table Games,E-Wallet,2024-12-29,Yes
+P01405,2023-11-09,Sweden,Casual,Active,Poker,E-Wallet,2024-12-26,Yes
+P01406,2024-03-23,Sweden,VIP,Active,Table Games,Bank Transfer,2024-12-25,Yes
+P01407,2024-03-06,UK,Casual,Dormant,Poker,Credit Card,2024-07-02,No
+P01408,2023-05-24,Cyprus,Casual,Inactive,Poker,Bank Transfer,2024-03-28,Yes
+P01409,2024-08-02,Canada,Regular,Dormant,Live Casino,Crypto,2024-08-05,Yes
+P01410,2024-06-14,Germany,Casual,Inactive,Slots,Bank Transfer,2024-06-27,No
+P01411,2023-12-08,Nigeria,Regular,Inactive,Sports Betting,Bank Transfer,2024-05-04,No
+P01412,2024-08-21,UK,Casual,Self-Excluded,Live Casino,E-Wallet,2024-11-23,Yes
+P01413,2023-05-20,Malta,Whale,Active,Table Games,Bank Transfer,2024-12-27,Yes
+P01414,2024-05-11,Germany,VIP,Inactive,Slots,Credit Card,2024-07-01,Yes
+P01415,2024-06-16,Germany,VIP,Active,Sports Betting,Credit Card,2024-12-20,No
+P01416,2023-02-26,Canada,Casual,Dormant,Sports Betting,E-Wallet,2023-12-30,No
+P01417,2024-07-13,Sweden,VIP,Active,Poker,Credit Card,2024-12-26,Yes
+P01418,2023-07-09,Cyprus,Regular,Active,Live Casino,E-Wallet,2024-12-28,Yes
+P01419,2024-11-14,Sweden,Casual,Active,Table Games,Bank Transfer,2024-12-26,Yes
+P01420,2023-04-20,Malta,Regular,Inactive,Slots,Bank Transfer,2024-06-28,Yes
+P01421,2023-01-12,Nigeria,Regular,Inactive,Sports Betting,Credit Card,2023-02-15,No
+P01422,2023-05-23,Brazil,Casual,Inactive,Slots,E-Wallet,2024-09-03,Yes
+P01423,2024-05-30,Finland,VIP,Active,Sports Betting,Credit Card,2024-12-31,Yes
+P01424,2024-11-02,Sweden,Casual,Self-Excluded,Live Casino,Bank Transfer,2024-11-12,No
+P01425,2024-02-08,Sweden,Regular,Active,Sports Betting,Crypto,2024-12-30,Yes
+P01426,2024-12-26,Finland,Casual,Dormant,Table Games,E-Wallet,2024-12-26,Yes
+P01427,2024-08-17,Canada,Regular,Active,Slots,Credit Card,2024-12-26,Yes
+P01428,2023-08-26,Sweden,Regular,Active,Sports Betting,Bank Transfer,2024-12-18,No
+P01429,2023-08-31,Malta,Whale,Active,Sports Betting,Crypto,2024-12-31,No
+P01430,2023-09-14,Germany,Casual,Active,Sports Betting,Bank Transfer,2024-12-30,Yes
+P01431,2023-06-28,Sweden,VIP,Active,Sports Betting,E-Wallet,2024-12-28,No
+P01432,2023-07-24,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-24,Yes
+P01433,2024-06-25,Germany,Casual,Dormant,Poker,Credit Card,2024-07-19,Yes
+P01434,2023-07-28,UK,Regular,Active,Table Games,Crypto,2024-12-19,Yes
+P01435,2023-12-15,Finland,VIP,Active,Sports Betting,E-Wallet,2024-12-28,No
+P01436,2024-04-30,Nigeria,Regular,Inactive,Poker,E-Wallet,2024-07-30,No
+P01437,2024-10-02,Nigeria,Casual,Inactive,Slots,E-Wallet,2024-10-06,No
+P01438,2023-05-01,Nigeria,Casual,Inactive,Poker,Bank Transfer,2023-06-22,Yes
+P01439,2023-10-24,Canada,VIP,Dormant,Table Games,Credit Card,2024-02-29,No
+P01440,2023-10-22,Cyprus,Casual,Active,Poker,Bank Transfer,2024-12-26,Yes
+P01441,2024-12-15,Nigeria,Casual,Dormant,Sports Betting,Bank Transfer,2024-12-15,Yes
+P01442,2024-03-07,UK,Casual,Active,Live Casino,E-Wallet,2024-12-22,Yes
+P01443,2024-11-10,UK,Regular,Dormant,Live Casino,Crypto,2024-11-10,Yes
+P01444,2024-09-16,India,VIP,Inactive,Slots,Crypto,2024-09-20,Yes
+P01445,2023-03-24,Malta,Regular,Dormant,Table Games,Credit Card,2024-07-26,Yes
+P01446,2023-08-19,Sweden,Casual,Self-Excluded,Table Games,E-Wallet,2024-03-26,Yes
+P01447,2023-07-20,Canada,Casual,Inactive,Slots,Crypto,2024-10-02,Yes
+P01448,2024-12-13,Canada,Regular,Active,Poker,E-Wallet,2024-12-28,Yes
+P01449,2024-09-22,India,Casual,Dormant,Live Casino,Bank Transfer,2024-09-27,Yes
+P01450,2023-08-26,Cyprus,Casual,Active,Sports Betting,Credit Card,2024-12-17,No
+P01451,2023-09-13,UK,Casual,Dormant,Live Casino,Crypto,2023-10-22,Yes
+P01452,2023-12-25,Brazil,Casual,Inactive,Live Casino,Crypto,2024-04-28,Yes
+P01453,2023-03-20,Cyprus,Casual,Active,Sports Betting,Bank Transfer,2024-12-25,No
+P01454,2024-03-30,India,VIP,Inactive,Poker,Bank Transfer,2024-11-26,No
+P01455,2023-10-01,Finland,Casual,Active,Slots,Credit Card,2024-12-25,Yes
+P01456,2024-09-28,Cyprus,Casual,Inactive,Live Casino,E-Wallet,2024-10-08,Yes
+P01457,2023-05-06,UK,Regular,Inactive,Live Casino,Crypto,2023-09-28,Yes
+P01458,2023-04-27,UK,Casual,Active,Table Games,Bank Transfer,2024-12-30,Yes
+P01459,2023-03-28,Nigeria,Casual,Active,Sports Betting,Crypto,2024-12-30,Yes
+P01460,2024-03-30,Canada,Casual,Active,Live Casino,Crypto,2024-12-20,Yes
+P01461,2023-02-02,UK,Regular,Inactive,Poker,Bank Transfer,2024-01-24,No
+P01462,2024-08-28,India,VIP,Active,Poker,Crypto,2024-12-17,No
+P01463,2023-02-28,Canada,Regular,Dormant,Table Games,Crypto,2024-09-16,Yes
+P01464,2024-06-15,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-23,No
+P01465,2024-11-29,Germany,Casual,Dormant,Live Casino,Bank Transfer,2024-11-29,Yes
+P01466,2024-09-22,Brazil,Casual,Active,Poker,Credit Card,2024-12-21,Yes
+P01467,2023-11-25,Sweden,Regular,Dormant,Sports Betting,Credit Card,2024-02-24,Yes
+P01468,2024-01-03,Cyprus,Casual,Inactive,Sports Betting,Credit Card,2024-10-13,Yes
+P01469,2024-09-16,Sweden,Casual,Inactive,Live Casino,Bank Transfer,2024-09-24,No
+P01470,2024-05-21,Malta,Casual,Active,Live Casino,Credit Card,2024-12-27,Yes
+P01471,2023-07-08,Nigeria,Regular,Self-Excluded,Table Games,Credit Card,2024-09-30,Yes
+P01472,2023-09-23,India,Casual,Dormant,Poker,Credit Card,2023-10-01,Yes
+P01473,2023-03-21,Finland,Casual,Inactive,Slots,E-Wallet,2023-07-14,Yes
+P01474,2024-11-28,Brazil,Regular,Inactive,Live Casino,Credit Card,2024-12-01,Yes
+P01475,2023-12-10,Sweden,Regular,Dormant,Table Games,Credit Card,2024-06-18,Yes
+P01476,2023-06-03,Germany,Casual,Dormant,Poker,E-Wallet,2023-06-16,No
+P01477,2024-06-04,India,Regular,Dormant,Live Casino,Crypto,2024-09-03,No
+P01478,2023-06-03,Germany,Casual,Inactive,Live Casino,Crypto,2023-08-22,Yes
+P01479,2024-06-24,Sweden,Casual,Dormant,Poker,Crypto,2024-09-09,Yes
+P01480,2024-08-12,India,Casual,Active,Live Casino,Bank Transfer,2024-12-20,Yes
+P01481,2023-04-29,Canada,Casual,Self-Excluded,Table Games,Credit Card,2024-07-27,Yes
+P01482,2024-01-06,Cyprus,Regular,Self-Excluded,Sports Betting,Crypto,2024-11-10,Yes
+P01483,2023-05-09,Canada,VIP,Dormant,Poker,E-Wallet,2024-01-14,Yes
+P01484,2023-12-16,Canada,Regular,Active,Sports Betting,E-Wallet,2024-12-18,Yes
+P01485,2023-07-22,UK,Regular,Dormant,Live Casino,Credit Card,2024-03-10,Yes
+P01486,2024-12-29,Germany,Regular,Dormant,Live Casino,Credit Card,2024-12-29,No
+P01487,2023-06-20,Finland,Casual,Dormant,Poker,Crypto,2023-08-26,No
+P01488,2024-02-16,Brazil,Casual,Self-Excluded,Slots,Bank Transfer,2024-06-18,No
+P01489,2024-08-28,UK,VIP,Inactive,Slots,Bank Transfer,2024-09-10,No
+P01490,2024-10-07,Canada,VIP,Active,Table Games,Crypto,2024-12-30,Yes
+P01491,2024-08-26,Germany,Regular,Dormant,Live Casino,Credit Card,2024-09-27,Yes
+P01492,2024-10-26,Sweden,Casual,Inactive,Live Casino,Bank Transfer,2024-11-15,No
+P01493,2023-11-01,Nigeria,Casual,Inactive,Poker,Crypto,2023-11-25,Yes
+P01494,2023-07-02,Cyprus,Casual,Dormant,Sports Betting,Bank Transfer,2023-07-23,Yes
+P01495,2023-04-12,Germany,Regular,Active,Table Games,Bank Transfer,2024-12-19,Yes
+P01496,2023-06-23,Brazil,Casual,Active,Poker,Credit Card,2024-12-31,No
+P01497,2023-05-25,Finland,Regular,Active,Live Casino,Credit Card,2024-12-25,Yes
+P01498,2024-07-06,UK,Casual,Inactive,Sports Betting,Credit Card,2024-08-24,Yes
+P01499,2024-08-07,Finland,Casual,Inactive,Live Casino,Crypto,2024-10-02,Yes
+P01500,2024-12-24,Germany,Casual,Dormant,Sports Betting,Crypto,2024-12-24,Yes
+P01501,2023-05-21,Germany,Casual,Dormant,Table Games,Credit Card,2024-05-29,Yes
+P01502,2023-03-18,India,Casual,Active,Table Games,Crypto,2024-12-25,Yes
+P01503,2023-03-17,UK,Regular,Self-Excluded,Sports Betting,Credit Card,2024-02-02,No
+P01504,2023-11-22,UK,Regular,Active,Slots,E-Wallet,2024-12-25,Yes
+P01505,2023-08-14,Sweden,Casual,Self-Excluded,Live Casino,Crypto,2023-12-27,No
+P01506,2023-10-17,Germany,Regular,Active,Poker,E-Wallet,2024-12-27,Yes
+P01507,2024-07-25,UK,Casual,Inactive,Sports Betting,Bank Transfer,2024-09-08,Yes
+P01508,2023-08-29,Finland,Regular,Inactive,Live Casino,Bank Transfer,2024-05-02,No
+P01509,2024-11-15,Canada,VIP,Active,Poker,Bank Transfer,2024-12-29,Yes
+P01510,2023-08-13,Brazil,Casual,Active,Sports Betting,Crypto,2024-12-31,Yes
+P01511,2023-04-29,Germany,Regular,Active,Table Games,Crypto,2024-12-22,Yes
+P01512,2024-05-10,Nigeria,Regular,Dormant,Sports Betting,E-Wallet,2024-09-12,Yes
+P01513,2023-08-09,Canada,Casual,Dormant,Slots,Bank Transfer,2024-09-12,Yes
+P01514,2024-02-05,Canada,Casual,Dormant,Table Games,Credit Card,2024-05-23,Yes
+P01515,2023-12-14,Brazil,Regular,Inactive,Sports Betting,Crypto,2024-01-06,Yes
+P01516,2024-07-02,Germany,VIP,Active,Poker,Bank Transfer,2024-12-27,Yes
+P01517,2023-01-22,India,Regular,Dormant,Table Games,Credit Card,2023-04-24,Yes
+P01518,2024-01-06,Finland,Regular,Inactive,Sports Betting,E-Wallet,2024-03-26,Yes
+P01519,2024-01-18,Finland,Casual,Active,Live Casino,Credit Card,2024-12-20,Yes
+P01520,2024-06-23,Sweden,Casual,Active,Slots,E-Wallet,2024-12-23,Yes
+P01521,2024-10-08,Cyprus,Casual,Dormant,Slots,Bank Transfer,2024-10-08,Yes
+P01522,2024-01-22,Brazil,VIP,Inactive,Slots,Credit Card,2024-03-29,Yes
+P01523,2024-03-01,Finland,Regular,Active,Poker,E-Wallet,2024-12-28,Yes
+P01524,2024-02-05,Brazil,Regular,Active,Table Games,Crypto,2024-12-26,Yes
+P01525,2023-10-08,Brazil,Casual,Inactive,Poker,Crypto,2023-11-28,Yes
+P01526,2023-08-16,Brazil,Casual,Dormant,Sports Betting,Bank Transfer,2024-05-29,No
+P01527,2023-09-08,Canada,Regular,Inactive,Table Games,Credit Card,2024-05-19,Yes
+P01528,2023-01-26,Sweden,Regular,Inactive,Table Games,Crypto,2023-09-20,Yes
+P01529,2023-12-07,Germany,Regular,Active,Slots,E-Wallet,2024-12-27,Yes
+P01530,2024-08-30,Canada,VIP,Active,Poker,Crypto,2024-12-19,Yes
+P01531,2023-08-27,Brazil,VIP,Active,Sports Betting,Bank Transfer,2024-12-24,Yes
+P01532,2023-02-07,Nigeria,VIP,Active,Sports Betting,Credit Card,2024-12-26,Yes
+P01533,2024-07-29,India,Casual,Dormant,Live Casino,Bank Transfer,2024-09-30,Yes
+P01534,2024-07-22,Germany,Casual,Dormant,Sports Betting,Credit Card,2024-08-01,Yes
+P01535,2023-06-15,Malta,Regular,Inactive,Live Casino,Crypto,2023-10-17,No
+P01536,2024-03-10,Malta,Casual,Inactive,Poker,Crypto,2024-11-14,Yes
+P01537,2024-03-21,Brazil,Casual,Dormant,Poker,Bank Transfer,2024-09-21,Yes
+P01538,2024-10-27,Finland,Casual,Active,Live Casino,Bank Transfer,2024-12-21,Yes
+P01539,2024-04-18,Malta,Casual,Active,Live Casino,Crypto,2024-12-22,Yes
+P01540,2023-06-03,Brazil,Casual,Inactive,Live Casino,E-Wallet,2023-06-08,Yes
+P01541,2023-12-05,Sweden,Regular,Active,Poker,E-Wallet,2024-12-26,Yes
+P01542,2023-08-20,Cyprus,Regular,Active,Table Games,Bank Transfer,2024-12-17,No
+P01543,2024-08-21,Nigeria,VIP,Inactive,Sports Betting,Bank Transfer,2024-10-07,Yes
+P01544,2023-07-27,Germany,Regular,Active,Live Casino,Bank Transfer,2024-12-19,Yes
+P01545,2023-05-10,India,Regular,Dormant,Poker,Bank Transfer,2024-06-05,No
+P01546,2024-09-22,Cyprus,Regular,Self-Excluded,Live Casino,Credit Card,2024-11-21,No
+P01547,2023-04-04,Malta,Whale,Dormant,Live Casino,Crypto,2023-09-01,No
+P01548,2023-02-23,Sweden,Casual,Active,Sports Betting,Crypto,2024-12-29,Yes
+P01549,2023-05-01,Canada,Regular,Active,Sports Betting,Crypto,2024-12-23,Yes
+P01550,2023-11-21,Nigeria,VIP,Active,Live Casino,E-Wallet,2024-12-31,No
+P01551,2024-12-29,Finland,VIP,Active,Sports Betting,Crypto,2024-12-23,Yes
+P01552,2023-05-04,India,Casual,Inactive,Live Casino,Credit Card,2024-07-22,No
+P01553,2024-11-17,Cyprus,VIP,Active,Poker,E-Wallet,2024-12-23,Yes
+P01554,2023-01-11,Finland,Casual,Active,Live Casino,Credit Card,2024-12-22,Yes
+P01555,2024-01-13,UK,Casual,Dormant,Poker,Bank Transfer,2024-09-26,Yes
+P01556,2024-05-05,Brazil,Casual,Inactive,Table Games,Credit Card,2024-10-30,No
+P01557,2024-04-27,Sweden,VIP,Dormant,Live Casino,Crypto,2024-08-21,Yes
+P01558,2024-07-12,India,Regular,Dormant,Slots,E-Wallet,2024-07-16,Yes
+P01559,2023-05-15,Germany,Casual,Active,Slots,Crypto,2024-12-30,Yes
+P01560,2023-04-10,Cyprus,Casual,Dormant,Poker,Credit Card,2024-01-19,Yes
+P01561,2023-11-21,Nigeria,Regular,Dormant,Table Games,Credit Card,2024-02-15,No
+P01562,2024-11-14,Cyprus,Casual,Self-Excluded,Poker,E-Wallet,2024-11-16,Yes
+P01563,2024-03-30,Cyprus,Casual,Active,Poker,Crypto,2024-12-26,Yes
+P01564,2023-01-04,India,Regular,Active,Slots,Bank Transfer,2024-12-25,Yes
+P01565,2023-03-30,Germany,VIP,Active,Slots,Credit Card,2024-12-24,Yes
+P01566,2023-11-22,Malta,Casual,Inactive,Slots,E-Wallet,2023-12-02,Yes
+P01567,2023-09-10,Cyprus,Casual,Active,Live Casino,Bank Transfer,2024-12-27,Yes
+P01568,2023-07-02,India,Regular,Active,Sports Betting,E-Wallet,2024-12-26,No
+P01569,2023-07-24,Brazil,Casual,Active,Sports Betting,Bank Transfer,2024-12-21,Yes
+P01570,2024-01-08,Finland,Casual,Active,Sports Betting,E-Wallet,2024-12-27,Yes
+P01571,2024-01-30,Cyprus,VIP,Active,Sports Betting,Bank Transfer,2024-12-26,Yes
+P01572,2023-10-23,Finland,Regular,Active,Poker,Bank Transfer,2024-12-28,Yes
+P01573,2023-09-22,UK,Regular,Active,Slots,E-Wallet,2024-12-21,Yes
+P01574,2023-11-27,Nigeria,Casual,Inactive,Slots,Bank Transfer,2024-06-07,Yes
+P01575,2023-01-09,India,Regular,Active,Table Games,Credit Card,2024-12-24,Yes
+P01576,2023-06-16,UK,Casual,Inactive,Sports Betting,Crypto,2023-12-23,Yes
+P01577,2024-02-13,Brazil,Regular,Inactive,Table Games,Bank Transfer,2024-06-16,Yes
+P01578,2023-02-11,Finland,Casual,Dormant,Slots,Crypto,2023-10-08,Yes
+P01579,2024-08-14,Malta,Casual,Inactive,Poker,E-Wallet,2024-08-17,No
+P01580,2024-12-15,Cyprus,VIP,Dormant,Poker,E-Wallet,2024-12-15,Yes
+P01581,2023-02-25,Malta,Casual,Dormant,Table Games,Crypto,2024-01-07,Yes
+P01582,2024-11-05,Malta,Casual,Active,Table Games,Bank Transfer,2024-12-31,Yes
+P01583,2023-07-28,Cyprus,Casual,Inactive,Live Casino,Bank Transfer,2024-08-01,Yes
+P01584,2023-04-13,Cyprus,Casual,Inactive,Sports Betting,Crypto,2024-05-20,No
+P01585,2023-04-09,Malta,Regular,Inactive,Sports Betting,Bank Transfer,2024-02-28,No
+P01586,2024-03-10,Germany,VIP,Active,Table Games,Crypto,2024-12-25,Yes
+P01587,2023-01-28,Malta,Whale,Active,Live Casino,Bank Transfer,2024-12-26,Yes
+P01588,2023-01-02,Germany,Regular,Inactive,Live Casino,E-Wallet,2024-02-13,Yes
+P01589,2023-11-06,Canada,Casual,Inactive,Live Casino,Crypto,2024-04-27,Yes
+P01590,2024-11-22,UK,Casual,Dormant,Table Games,Crypto,2024-11-22,Yes
+P01591,2024-06-13,Germany,Casual,Dormant,Table Games,Credit Card,2024-08-11,Yes
+P01592,2023-01-13,Nigeria,Casual,Active,Poker,Crypto,2024-12-19,Yes
+P01593,2024-10-31,Canada,Casual,Dormant,Sports Betting,Credit Card,2024-10-31,Yes
+P01594,2024-10-11,Sweden,Casual,Active,Poker,Bank Transfer,2024-12-29,No
+P01595,2024-07-01,Malta,Regular,Dormant,Sports Betting,Crypto,2024-07-15,No
+P01596,2023-01-08,Nigeria,Casual,Active,Table Games,E-Wallet,2024-12-31,Yes
+P01597,2024-04-10,Brazil,Regular,Inactive,Slots,Credit Card,2024-08-06,No
+P01598,2023-02-21,Brazil,Casual,Dormant,Sports Betting,Bank Transfer,2024-03-05,Yes
+P01599,2023-01-25,Brazil,Regular,Inactive,Table Games,Crypto,2023-07-27,Yes
+P01600,2024-10-13,India,Casual,Active,Slots,Crypto,2024-12-18,Yes
+P01601,2023-04-07,Sweden,Casual,Active,Sports Betting,Bank Transfer,2024-12-19,Yes
+P01602,2024-09-24,Finland,Casual,Active,Poker,Crypto,2024-12-30,Yes
+P01603,2023-02-09,Germany,Casual,Active,Sports Betting,Credit Card,2024-12-28,Yes
+P01604,2023-11-06,Malta,Regular,Inactive,Table Games,Credit Card,2023-11-17,No
+P01605,2023-04-30,Brazil,Casual,Dormant,Poker,E-Wallet,2024-01-22,Yes
+P01606,2024-08-10,Canada,Casual,Inactive,Table Games,E-Wallet,2024-11-15,Yes
+P01607,2024-09-11,Brazil,Regular,Inactive,Table Games,Credit Card,2024-10-04,Yes
+P01608,2024-02-29,Brazil,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-07-18,Yes
+P01609,2024-12-27,Nigeria,Casual,Active,Table Games,Crypto,2024-12-18,Yes
+P01610,2023-12-03,Finland,Regular,Inactive,Slots,Bank Transfer,2024-08-02,Yes
+P01611,2024-03-31,Sweden,Casual,Active,Live Casino,E-Wallet,2024-12-30,Yes
+P01612,2023-02-03,Germany,Casual,Self-Excluded,Sports Betting,Bank Transfer,2024-09-10,Yes
+P01613,2024-06-26,India,Regular,Inactive,Sports Betting,Crypto,2024-09-08,Yes
+P01614,2023-06-20,Canada,Regular,Inactive,Slots,Bank Transfer,2024-09-03,Yes
+P01615,2023-08-29,Malta,Casual,Inactive,Sports Betting,Credit Card,2024-05-30,Yes
+P01616,2023-04-24,Malta,Casual,Inactive,Sports Betting,Crypto,2023-10-23,Yes
+P01617,2024-09-05,India,Casual,Active,Slots,Bank Transfer,2024-12-29,Yes
+P01618,2023-08-19,Sweden,Regular,Dormant,Table Games,Crypto,2024-04-28,Yes
+P01619,2024-02-14,India,VIP,Active,Sports Betting,E-Wallet,2024-12-25,Yes
+P01620,2024-08-17,Canada,Casual,Self-Excluded,Live Casino,Credit Card,2024-10-09,Yes
+P01621,2024-09-26,Nigeria,Casual,Inactive,Poker,Crypto,2024-10-06,No
+P01622,2023-09-13,Sweden,Casual,Active,Slots,Bank Transfer,2024-12-27,Yes
+P01623,2024-10-31,Malta,Regular,Inactive,Sports Betting,Bank Transfer,2024-11-12,Yes
+P01624,2024-04-28,India,Casual,Dormant,Live Casino,Bank Transfer,2024-06-18,Yes
+P01625,2024-08-14,Nigeria,Casual,Inactive,Sports Betting,E-Wallet,2024-09-14,No
+P01626,2024-05-27,India,Whale,Inactive,Live Casino,E-Wallet,2024-10-28,Yes
+P01627,2023-01-08,Canada,Whale,Inactive,Poker,Crypto,2024-12-01,No
+P01628,2024-03-03,Finland,Casual,Dormant,Slots,Credit Card,2024-09-02,Yes
+P01629,2023-03-03,UK,VIP,Active,Table Games,Crypto,2024-12-23,Yes
+P01630,2024-10-27,Germany,Regular,Inactive,Live Casino,Bank Transfer,2024-11-03,No
+P01631,2023-04-25,Canada,Regular,Self-Excluded,Table Games,E-Wallet,2024-05-04,No
+P01632,2023-08-04,Germany,Regular,Active,Sports Betting,Crypto,2024-12-22,No
+P01633,2023-12-17,India,Regular,Active,Sports Betting,Bank Transfer,2024-12-24,Yes
+P01634,2023-05-24,UK,Regular,Active,Live Casino,Bank Transfer,2024-12-21,Yes
+P01635,2023-11-11,Nigeria,Regular,Dormant,Table Games,Crypto,2024-01-31,Yes
+P01636,2023-06-08,Malta,Regular,Self-Excluded,Poker,Bank Transfer,2023-10-17,No
+P01637,2023-08-22,Nigeria,Casual,Active,Table Games,E-Wallet,2024-12-20,Yes
+P01638,2024-06-04,Canada,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-10-14,No
+P01639,2024-08-24,Finland,Regular,Dormant,Table Games,Crypto,2024-09-13,No
+P01640,2023-06-23,Malta,Casual,Dormant,Sports Betting,Crypto,2024-02-24,Yes
+P01641,2023-12-17,Cyprus,VIP,Active,Live Casino,Bank Transfer,2024-12-20,Yes
+P01642,2023-05-03,Sweden,Regular,Inactive,Sports Betting,Credit Card,2024-05-02,No
+P01643,2024-06-20,Cyprus,VIP,Dormant,Table Games,Credit Card,2024-09-22,Yes
+P01644,2023-12-04,Finland,Casual,Inactive,Poker,Credit Card,2024-04-20,No
+P01645,2024-08-03,Brazil,Casual,Inactive,Live Casino,E-Wallet,2024-09-03,Yes
+P01646,2023-07-01,Brazil,Regular,Active,Poker,Bank Transfer,2024-12-26,Yes
+P01647,2023-03-07,Finland,Casual,Dormant,Table Games,Credit Card,2023-07-20,Yes
+P01648,2024-08-18,Finland,Casual,Inactive,Slots,Bank Transfer,2024-08-30,No
+P01649,2024-05-04,Sweden,Casual,Active,Live Casino,Credit Card,2024-12-18,Yes
+P01650,2024-05-13,Nigeria,Casual,Active,Sports Betting,Credit Card,2024-12-17,Yes
+P01651,2024-10-20,Nigeria,Casual,Active,Sports Betting,Credit Card,2024-12-29,Yes
+P01652,2023-10-05,India,Casual,Inactive,Poker,Crypto,2024-01-03,Yes
+P01653,2023-11-03,Cyprus,Whale,Active,Table Games,Bank Transfer,2024-12-25,Yes
+P01654,2024-10-02,Malta,Regular,Inactive,Sports Betting,Credit Card,2024-11-19,Yes
+P01655,2024-04-26,Germany,Whale,Active,Sports Betting,Bank Transfer,2024-12-19,Yes
+P01656,2023-12-17,Malta,VIP,Inactive,Live Casino,Credit Card,2024-09-17,No
+P01657,2024-05-28,Finland,Casual,Active,Sports Betting,Credit Card,2024-12-29,Yes
+P01658,2023-08-04,India,VIP,Active,Live Casino,E-Wallet,2024-12-19,No
+P01659,2023-06-11,India,Regular,Inactive,Poker,Crypto,2023-11-18,Yes
+P01660,2023-10-03,Sweden,Regular,Active,Table Games,Bank Transfer,2024-12-21,Yes
+P01661,2023-12-29,Sweden,Casual,Dormant,Table Games,Crypto,2024-06-07,Yes
+P01662,2023-01-06,UK,Regular,Dormant,Sports Betting,Bank Transfer,2024-02-23,Yes
+P01663,2024-04-12,Cyprus,Casual,Dormant,Live Casino,Bank Transfer,2024-04-16,Yes
+P01664,2023-11-26,India,Casual,Inactive,Poker,E-Wallet,2024-06-08,No
+P01665,2024-03-26,Germany,Regular,Dormant,Live Casino,E-Wallet,2024-04-22,Yes
+P01666,2024-08-30,Canada,Casual,Inactive,Sports Betting,E-Wallet,2024-09-04,Yes
+P01667,2024-01-20,India,Regular,Active,Table Games,Bank Transfer,2024-12-17,Yes
+P01668,2024-04-28,Germany,Casual,Active,Table Games,Crypto,2024-12-28,No
+P01669,2024-08-26,Finland,VIP,Active,Slots,Crypto,2024-12-20,Yes
+P01670,2024-11-07,Brazil,Regular,Active,Slots,E-Wallet,2024-12-25,No
+P01671,2024-12-17,India,Casual,Self-Excluded,Table Games,Crypto,2024-12-17,Yes
+P01672,2023-11-25,India,Casual,Inactive,Table Games,E-Wallet,2024-07-17,Yes
+P01673,2023-09-19,Malta,Regular,Inactive,Slots,Crypto,2023-09-30,Yes
+P01674,2023-02-19,Finland,VIP,Self-Excluded,Table Games,Credit Card,2023-04-21,Yes
+P01675,2024-05-31,Finland,Whale,Dormant,Sports Betting,Bank Transfer,2024-07-11,Yes
+P01676,2023-03-19,Germany,Regular,Inactive,Poker,E-Wallet,2024-10-10,No
+P01677,2023-03-31,Nigeria,VIP,Active,Live Casino,Credit Card,2024-12-24,No
+P01678,2023-10-11,Malta,Casual,Inactive,Table Games,Credit Card,2024-10-23,Yes
+P01679,2024-04-09,Canada,Regular,Inactive,Slots,Crypto,2024-10-03,Yes
+P01680,2024-02-04,India,Casual,Active,Sports Betting,E-Wallet,2024-12-20,Yes
+P01681,2024-11-21,Finland,Casual,Dormant,Sports Betting,E-Wallet,2024-11-21,No
+P01682,2023-12-30,Cyprus,Regular,Dormant,Live Casino,E-Wallet,2024-03-17,Yes
+P01683,2024-06-30,Malta,Casual,Inactive,Poker,Bank Transfer,2024-07-10,No
+P01684,2023-11-19,Cyprus,Casual,Dormant,Table Games,E-Wallet,2024-03-04,Yes
+P01685,2023-08-11,Malta,Casual,Dormant,Sports Betting,Credit Card,2023-08-24,No
+P01686,2024-03-30,Canada,Casual,Dormant,Slots,Crypto,2024-05-22,Yes
+P01687,2024-01-25,Germany,Casual,Inactive,Live Casino,Credit Card,2024-03-28,Yes
+P01688,2024-05-15,India,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-08-14,Yes
+P01689,2024-06-03,Finland,Casual,Inactive,Slots,Crypto,2024-08-07,Yes
+P01690,2024-03-06,India,Casual,Inactive,Table Games,Bank Transfer,2024-04-26,No
+P01691,2024-10-29,Germany,Casual,Active,Sports Betting,Crypto,2024-12-28,Yes
+P01692,2024-10-24,UK,Whale,Dormant,Live Casino,E-Wallet,2024-10-24,Yes
+P01693,2024-06-15,Sweden,Casual,Active,Slots,Credit Card,2024-12-28,Yes
+P01694,2024-11-07,Canada,Casual,Active,Live Casino,Crypto,2024-12-26,Yes
+P01695,2023-06-05,India,VIP,Inactive,Slots,E-Wallet,2023-12-07,Yes
+P01696,2024-02-18,Nigeria,Casual,Inactive,Table Games,Credit Card,2024-07-02,No
+P01697,2024-04-26,Malta,Casual,Active,Sports Betting,Credit Card,2024-12-30,Yes
+P01698,2024-06-21,UK,Regular,Active,Table Games,E-Wallet,2024-12-18,Yes
+P01699,2023-04-26,Canada,Whale,Dormant,Poker,Crypto,2024-08-13,Yes
+P01700,2024-10-14,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-24,Yes
+P01701,2024-09-20,Sweden,Regular,Self-Excluded,Sports Betting,E-Wallet,2024-10-02,Yes
+P01702,2023-05-27,Germany,Regular,Active,Sports Betting,Bank Transfer,2024-12-18,No
+P01703,2023-08-20,Brazil,Casual,Active,Table Games,Crypto,2024-12-28,Yes
+P01704,2024-08-14,Malta,Regular,Dormant,Table Games,Crypto,2024-08-31,Yes
+P01705,2023-02-05,UK,Casual,Self-Excluded,Live Casino,E-Wallet,2024-03-05,Yes
+P01706,2023-09-01,UK,Regular,Active,Poker,Crypto,2024-12-22,Yes
+P01707,2024-10-05,Nigeria,Casual,Dormant,Sports Betting,Crypto,2024-10-05,No
+P01708,2023-09-27,Brazil,Casual,Inactive,Poker,Bank Transfer,2023-11-26,Yes
+P01709,2023-09-19,Sweden,VIP,Active,Poker,Crypto,2024-12-30,Yes
+P01710,2023-12-17,Germany,Regular,Dormant,Table Games,Crypto,2024-04-29,Yes
+P01711,2023-05-10,Germany,Whale,Active,Slots,Bank Transfer,2024-12-24,Yes
+P01712,2024-04-08,Finland,Casual,Inactive,Live Casino,Crypto,2024-04-29,No
+P01713,2024-06-07,Cyprus,VIP,Active,Slots,E-Wallet,2024-12-30,Yes
+P01714,2024-09-07,Finland,Casual,Dormant,Poker,Credit Card,2024-09-25,No
+P01715,2023-08-24,Malta,Casual,Self-Excluded,Table Games,E-Wallet,2024-05-21,Yes
+P01716,2024-10-11,Cyprus,Casual,Dormant,Live Casino,Crypto,2024-10-11,No
+P01717,2024-02-15,Finland,Casual,Active,Sports Betting,Crypto,2024-12-31,Yes
+P01718,2023-11-04,Finland,Casual,Active,Table Games,E-Wallet,2024-12-21,No
+P01719,2023-03-10,Malta,Regular,Active,Live Casino,Crypto,2024-12-23,No
+P01720,2023-09-06,Canada,Regular,Inactive,Sports Betting,E-Wallet,2023-11-26,Yes
+P01721,2023-08-20,Malta,Casual,Dormant,Sports Betting,Credit Card,2024-01-08,Yes
+P01722,2024-11-19,Malta,Regular,Active,Table Games,Bank Transfer,2024-12-24,Yes
+P01723,2023-11-15,Nigeria,Casual,Inactive,Sports Betting,E-Wallet,2024-10-01,Yes
+P01724,2023-05-08,Malta,Casual,Inactive,Slots,Bank Transfer,2024-08-15,No
+P01725,2023-02-11,Brazil,VIP,Active,Slots,Crypto,2024-12-31,Yes
+P01726,2024-12-27,Sweden,Casual,Self-Excluded,Table Games,E-Wallet,2024-12-27,Yes
+P01727,2024-09-09,Cyprus,Casual,Dormant,Sports Betting,Crypto,2024-09-20,Yes
+P01728,2023-10-14,Brazil,Regular,Dormant,Poker,Bank Transfer,2024-03-03,Yes
+P01729,2024-01-01,Sweden,VIP,Active,Live Casino,Crypto,2024-12-18,Yes
+P01730,2023-09-30,Sweden,Casual,Active,Poker,Crypto,2024-12-29,Yes
+P01731,2024-11-14,Germany,VIP,Active,Poker,Credit Card,2024-12-26,Yes
+P01732,2023-09-02,Nigeria,Casual,Inactive,Sports Betting,Crypto,2024-08-11,Yes
+P01733,2024-10-24,Sweden,Casual,Dormant,Poker,Credit Card,2024-10-24,No
+P01734,2024-10-05,UK,VIP,Inactive,Live Casino,E-Wallet,2024-11-01,Yes
+P01735,2023-04-12,UK,VIP,Active,Sports Betting,Bank Transfer,2024-12-23,Yes
+P01736,2023-12-27,Brazil,Regular,Dormant,Sports Betting,Credit Card,2024-05-02,Yes
+P01737,2024-10-12,Malta,Regular,Active,Live Casino,Bank Transfer,2024-12-29,Yes
+P01738,2023-06-26,Germany,Regular,Dormant,Table Games,Bank Transfer,2024-09-06,Yes
+P01739,2023-08-22,Germany,Regular,Active,Slots,Crypto,2024-12-21,Yes
+P01740,2023-07-10,Brazil,Casual,Dormant,Sports Betting,Bank Transfer,2023-10-21,Yes
+P01741,2024-01-06,India,Casual,Dormant,Slots,Credit Card,2024-04-01,Yes
+P01742,2024-06-02,Brazil,Casual,Self-Excluded,Poker,E-Wallet,2024-10-23,Yes
+P01743,2023-07-23,Nigeria,Regular,Active,Sports Betting,Bank Transfer,2024-12-28,Yes
+P01744,2023-12-29,Germany,Casual,Inactive,Table Games,Credit Card,2024-07-13,Yes
+P01745,2023-02-11,Brazil,Casual,Active,Slots,Crypto,2024-12-19,Yes
+P01746,2023-08-13,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-20,Yes
+P01747,2023-01-22,Sweden,Casual,Dormant,Sports Betting,E-Wallet,2024-05-30,Yes
+P01748,2024-08-17,Canada,VIP,Active,Table Games,Bank Transfer,2024-12-26,No
+P01749,2024-01-15,India,Casual,Inactive,Poker,Bank Transfer,2024-05-14,Yes
+P01750,2023-11-26,Finland,Regular,Dormant,Poker,E-Wallet,2024-03-31,Yes
+P01751,2024-06-03,India,VIP,Inactive,Slots,E-Wallet,2024-10-18,Yes
+P01752,2024-10-22,Cyprus,Regular,Dormant,Sports Betting,Bank Transfer,2024-10-22,Yes
+P01753,2024-09-25,Germany,Casual,Inactive,Live Casino,Credit Card,2024-11-19,Yes
+P01754,2023-02-28,Malta,Regular,Dormant,Slots,Bank Transfer,2024-06-30,Yes
+P01755,2024-08-06,UK,Regular,Active,Poker,Crypto,2024-12-31,Yes
+P01756,2023-05-17,Sweden,Regular,Dormant,Table Games,Bank Transfer,2023-09-04,Yes
+P01757,2024-06-04,Finland,Regular,Dormant,Poker,Bank Transfer,2024-06-22,No
+P01758,2023-02-24,Nigeria,Whale,Inactive,Slots,Credit Card,2024-02-25,Yes
+P01759,2023-06-15,Nigeria,Regular,Self-Excluded,Live Casino,E-Wallet,2024-02-24,Yes
+P01760,2023-05-03,Canada,VIP,Active,Poker,Crypto,2024-12-18,No
+P01761,2024-04-30,Malta,Casual,Active,Slots,Bank Transfer,2024-12-22,Yes
+P01762,2023-09-16,Brazil,Regular,Inactive,Sports Betting,E-Wallet,2023-12-19,Yes
+P01763,2024-10-10,Germany,Whale,Active,Poker,Bank Transfer,2024-12-24,Yes
+P01764,2024-07-24,Germany,Regular,Active,Live Casino,Credit Card,2024-12-22,No
+P01765,2023-01-05,UK,Regular,Active,Poker,Bank Transfer,2024-12-21,No
+P01766,2023-07-13,Malta,Whale,Inactive,Poker,E-Wallet,2024-03-24,No
+P01767,2024-11-30,Nigeria,Casual,Dormant,Table Games,E-Wallet,2024-11-30,No
+P01768,2023-07-01,UK,Regular,Inactive,Poker,Credit Card,2024-09-28,No
+P01769,2023-05-04,Brazil,VIP,Self-Excluded,Slots,Bank Transfer,2024-03-18,Yes
+P01770,2023-06-21,Cyprus,Regular,Dormant,Poker,E-Wallet,2024-03-01,No
+P01771,2024-04-10,Canada,VIP,Dormant,Sports Betting,Credit Card,2024-08-28,Yes
+P01772,2023-09-10,Sweden,Casual,Inactive,Live Casino,Crypto,2024-01-10,Yes
+P01773,2024-05-06,Finland,Casual,Dormant,Slots,Bank Transfer,2024-05-31,No
+P01774,2024-12-20,Canada,Regular,Inactive,Poker,E-Wallet,2024-12-20,Yes
+P01775,2023-07-22,Canada,Casual,Active,Sports Betting,Crypto,2024-12-27,Yes
+P01776,2024-05-18,Sweden,Casual,Active,Poker,Crypto,2024-12-25,Yes
+P01777,2023-10-22,UK,Whale,Inactive,Poker,Credit Card,2024-10-13,Yes
+P01778,2024-08-24,Finland,Casual,Self-Excluded,Live Casino,Bank Transfer,2024-11-05,Yes
+P01779,2023-02-18,Cyprus,Regular,Dormant,Table Games,Credit Card,2024-03-18,No
+P01780,2024-03-20,Finland,Regular,Self-Excluded,Table Games,Credit Card,2024-06-19,No
+P01781,2023-07-10,India,Casual,Dormant,Slots,E-Wallet,2024-07-08,Yes
+P01782,2024-09-19,Canada,Regular,Active,Live Casino,Credit Card,2024-12-31,No
+P01783,2023-09-04,India,Casual,Self-Excluded,Live Casino,Crypto,2024-11-02,No
+P01784,2024-02-16,Nigeria,Casual,Active,Live Casino,Bank Transfer,2024-12-19,No
+P01785,2024-08-07,Brazil,Casual,Self-Excluded,Live Casino,Bank Transfer,2024-11-30,Yes
+P01786,2024-02-28,Sweden,Casual,Inactive,Table Games,Credit Card,2024-06-04,Yes
+P01787,2024-12-13,Malta,Casual,Dormant,Live Casino,Credit Card,2024-12-13,Yes
+P01788,2024-05-15,India,Casual,Active,Live Casino,Bank Transfer,2024-12-25,No
+P01789,2024-12-12,Finland,Regular,Inactive,Table Games,Bank Transfer,2024-12-12,No
+P01790,2023-05-03,Germany,Casual,Inactive,Poker,Crypto,2023-11-25,Yes
+P01791,2023-02-06,Germany,Regular,Inactive,Live Casino,Credit Card,2023-05-28,No
+P01792,2024-12-11,Cyprus,Casual,Dormant,Sports Betting,Bank Transfer,2024-12-11,Yes
+P01793,2024-09-03,Finland,Casual,Dormant,Live Casino,E-Wallet,2024-09-24,Yes
+P01794,2023-01-15,Brazil,Casual,Dormant,Live Casino,Bank Transfer,2023-12-30,Yes
+P01795,2023-02-27,Brazil,VIP,Active,Poker,Credit Card,2024-12-19,Yes
+P01796,2023-12-10,UK,Regular,Self-Excluded,Sports Betting,Credit Card,2024-07-21,No
+P01797,2023-10-22,Finland,Regular,Inactive,Table Games,Credit Card,2024-01-03,Yes
+P01798,2024-06-14,Malta,Casual,Inactive,Table Games,Bank Transfer,2024-11-19,Yes
+P01799,2024-12-01,UK,VIP,Active,Poker,Credit Card,2024-12-23,No
+P01800,2023-05-03,Nigeria,Regular,Dormant,Poker,Credit Card,2023-06-08,Yes
+P01801,2024-05-02,Brazil,VIP,Dormant,Poker,Crypto,2024-08-08,Yes
+P01802,2024-11-30,India,Regular,Inactive,Sports Betting,Crypto,2024-12-01,No
+P01803,2024-07-03,Malta,Casual,Dormant,Table Games,E-Wallet,2024-07-31,No
+P01804,2023-09-21,UK,Casual,Dormant,Sports Betting,Bank Transfer,2024-03-27,Yes
+P01805,2024-12-28,Cyprus,Casual,Dormant,Sports Betting,E-Wallet,2024-12-28,No
+P01806,2024-02-20,Sweden,Casual,Inactive,Sports Betting,Crypto,2024-09-20,No
+P01807,2023-12-12,Malta,Casual,Active,Poker,E-Wallet,2024-12-23,Yes
+P01808,2024-08-05,Nigeria,Regular,Active,Table Games,Crypto,2024-12-30,Yes
+P01809,2024-02-23,Cyprus,Regular,Inactive,Sports Betting,E-Wallet,2024-07-29,Yes
+P01810,2024-04-08,Nigeria,Regular,Active,Sports Betting,Credit Card,2024-12-30,Yes
+P01811,2023-06-10,Canada,Casual,Self-Excluded,Live Casino,Crypto,2024-11-20,Yes
+P01812,2024-08-04,Nigeria,Casual,Self-Excluded,Live Casino,Crypto,2024-09-07,Yes
+P01813,2023-06-04,Cyprus,VIP,Active,Live Casino,Crypto,2024-12-24,Yes
+P01814,2024-09-19,UK,VIP,Active,Slots,Credit Card,2024-12-27,Yes
+P01815,2023-02-24,India,Casual,Active,Table Games,E-Wallet,2024-12-18,Yes
+P01816,2023-11-11,Nigeria,Whale,Self-Excluded,Table Games,Crypto,2024-05-14,Yes
+P01817,2023-10-24,Finland,Regular,Active,Live Casino,E-Wallet,2024-12-29,Yes
+P01818,2024-09-25,Brazil,Casual,Inactive,Live Casino,Credit Card,2024-11-24,Yes
+P01819,2024-03-31,Malta,Casual,Active,Sports Betting,Crypto,2024-12-17,Yes
+P01820,2023-01-21,Sweden,Casual,Inactive,Poker,E-Wallet,2024-01-27,Yes
+P01821,2024-05-18,India,Casual,Dormant,Slots,Bank Transfer,2024-08-14,Yes
+P01822,2023-11-04,Germany,Casual,Self-Excluded,Live Casino,Bank Transfer,2024-01-19,Yes
+P01823,2023-03-27,UK,Regular,Inactive,Poker,Crypto,2024-08-14,No
+P01824,2023-09-16,Finland,Casual,Active,Slots,Crypto,2024-12-21,Yes
+P01825,2024-10-26,Brazil,Casual,Active,Sports Betting,Crypto,2024-12-21,Yes
+P01826,2024-11-03,India,Casual,Inactive,Poker,Credit Card,2024-11-05,Yes
+P01827,2024-10-01,UK,Whale,Active,Table Games,Crypto,2024-12-26,Yes
+P01828,2024-02-02,Brazil,Casual,Active,Sports Betting,Bank Transfer,2024-12-27,Yes
+P01829,2024-03-10,Malta,Regular,Inactive,Table Games,Bank Transfer,2024-09-01,Yes
+P01830,2023-10-01,Germany,Casual,Active,Table Games,Credit Card,2024-12-24,Yes
+P01831,2023-04-20,India,Casual,Active,Slots,E-Wallet,2024-12-19,Yes
+P01832,2023-03-31,UK,Casual,Dormant,Table Games,Credit Card,2023-04-09,Yes
+P01833,2024-04-16,Germany,Regular,Inactive,Poker,Credit Card,2024-07-09,Yes
+P01834,2023-03-25,Germany,Casual,Active,Slots,Crypto,2024-12-28,No
+P01835,2023-02-21,India,Casual,Self-Excluded,Poker,E-Wallet,2024-03-23,Yes
+P01836,2024-05-22,Sweden,Casual,Inactive,Table Games,Credit Card,2024-07-08,Yes
+P01837,2023-03-23,Brazil,Regular,Active,Live Casino,E-Wallet,2024-12-20,Yes
+P01838,2023-03-19,India,Regular,Active,Live Casino,E-Wallet,2024-12-30,Yes
+P01839,2023-10-31,Brazil,VIP,Inactive,Live Casino,Crypto,2024-07-16,Yes
+P01840,2023-09-04,Brazil,Casual,Inactive,Table Games,E-Wallet,2024-08-04,Yes
+P01841,2023-12-19,Nigeria,Casual,Dormant,Sports Betting,Credit Card,2024-01-18,Yes
+P01842,2024-04-01,Germany,VIP,Active,Table Games,Bank Transfer,2024-12-28,Yes
+P01843,2023-03-09,Sweden,Regular,Inactive,Table Games,Crypto,2024-01-29,Yes
+P01844,2024-05-15,Cyprus,Casual,Active,Live Casino,E-Wallet,2024-12-28,Yes
+P01845,2024-04-21,Canada,Casual,Dormant,Sports Betting,Crypto,2024-07-13,Yes
+P01846,2024-01-30,Malta,Casual,Inactive,Table Games,Crypto,2024-02-11,No
+P01847,2024-02-14,Malta,Regular,Inactive,Live Casino,E-Wallet,2024-09-23,Yes
+P01848,2024-04-28,Cyprus,Casual,Active,Slots,Crypto,2024-12-22,Yes
+P01849,2024-07-16,Sweden,Casual,Active,Poker,Crypto,2024-12-20,Yes
+P01850,2023-06-13,UK,VIP,Active,Table Games,Credit Card,2024-12-27,Yes
+P01851,2024-05-03,Cyprus,Casual,Inactive,Poker,Crypto,2024-06-08,No
+P01852,2023-01-14,India,Casual,Dormant,Table Games,Crypto,2023-06-25,Yes
+P01853,2024-06-26,India,Regular,Active,Live Casino,Bank Transfer,2024-12-28,Yes
+P01854,2023-01-19,Cyprus,Casual,Inactive,Live Casino,Bank Transfer,2024-03-21,Yes
+P01855,2023-11-17,Brazil,VIP,Inactive,Poker,Bank Transfer,2024-07-17,Yes
+P01856,2023-07-19,Nigeria,Casual,Dormant,Live Casino,E-Wallet,2023-12-30,No
+P01857,2024-07-30,India,Casual,Inactive,Poker,Credit Card,2024-08-01,Yes
+P01858,2023-11-26,Sweden,Casual,Active,Poker,Bank Transfer,2024-12-24,Yes
+P01859,2023-07-17,Malta,Casual,Dormant,Table Games,Credit Card,2023-12-05,Yes
+P01860,2023-01-04,Nigeria,Casual,Active,Sports Betting,E-Wallet,2024-12-30,No
+P01861,2024-05-11,Cyprus,Whale,Dormant,Live Casino,Credit Card,2024-09-25,Yes
+P01862,2023-07-19,Brazil,Casual,Inactive,Live Casino,Crypto,2024-04-02,Yes
+P01863,2023-01-12,Malta,VIP,Active,Table Games,Credit Card,2024-12-20,Yes
+P01864,2024-03-07,Malta,Regular,Active,Sports Betting,Crypto,2024-12-24,Yes
+P01865,2023-11-18,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-21,Yes
+P01866,2023-06-16,UK,Casual,Inactive,Slots,Credit Card,2024-05-11,No
+P01867,2024-01-13,Canada,Regular,Active,Poker,Credit Card,2024-12-30,Yes
+P01868,2024-02-10,UK,Regular,Active,Table Games,Bank Transfer,2024-12-26,Yes
+P01869,2024-06-07,Malta,Regular,Active,Sports Betting,Credit Card,2024-12-28,No
+P01870,2023-04-15,Germany,Casual,Inactive,Table Games,Bank Transfer,2023-12-11,Yes
+P01871,2023-03-13,UK,Casual,Inactive,Poker,Crypto,2024-09-21,Yes
+P01872,2023-06-08,Cyprus,Casual,Inactive,Sports Betting,E-Wallet,2023-09-07,Yes
+P01873,2023-09-25,Finland,VIP,Active,Slots,Credit Card,2024-12-17,Yes
+P01874,2024-05-05,Cyprus,Regular,Active,Live Casino,E-Wallet,2024-12-20,Yes
+P01875,2024-10-11,Finland,Casual,Self-Excluded,Table Games,Crypto,2024-10-12,Yes
+P01876,2024-02-29,Cyprus,Regular,Inactive,Poker,Credit Card,2024-03-20,Yes
+P01877,2023-01-08,Nigeria,Regular,Active,Table Games,E-Wallet,2024-12-18,Yes
+P01878,2023-01-08,Brazil,Casual,Dormant,Poker,Bank Transfer,2023-10-23,Yes
+P01879,2023-07-26,India,Casual,Dormant,Live Casino,Bank Transfer,2023-12-04,No
+P01880,2024-10-28,Sweden,Casual,Active,Poker,Crypto,2024-12-17,Yes
+P01881,2024-02-01,Cyprus,Casual,Dormant,Live Casino,Bank Transfer,2024-08-09,No
+P01882,2024-08-30,Sweden,Regular,Dormant,Slots,E-Wallet,2024-09-22,Yes
+P01883,2023-09-16,Brazil,VIP,Active,Slots,E-Wallet,2024-12-17,No
+P01884,2023-07-31,Canada,VIP,Active,Table Games,Crypto,2024-12-28,No
+P01885,2023-06-19,Finland,Regular,Dormant,Poker,Bank Transfer,2024-02-19,No
+P01886,2023-09-12,UK,Regular,Active,Slots,Credit Card,2024-12-18,No
+P01887,2023-01-01,Nigeria,VIP,Active,Live Casino,Credit Card,2024-12-23,Yes
+P01888,2023-07-15,India,Casual,Dormant,Slots,Bank Transfer,2024-07-28,Yes
+P01889,2023-02-05,Malta,Casual,Dormant,Table Games,Crypto,2023-12-11,No
+P01890,2023-07-29,UK,VIP,Active,Sports Betting,E-Wallet,2024-12-27,Yes
+P01891,2023-08-29,Nigeria,Casual,Inactive,Poker,Bank Transfer,2024-11-24,Yes
+P01892,2024-05-06,Malta,Regular,Active,Live Casino,Credit Card,2024-12-28,Yes
+P01893,2023-02-08,Canada,Casual,Inactive,Live Casino,Credit Card,2024-05-29,Yes
+P01894,2023-03-06,Brazil,Casual,Dormant,Sports Betting,E-Wallet,2023-12-18,No
+P01895,2023-10-06,Cyprus,Casual,Dormant,Sports Betting,Credit Card,2024-01-10,No
+P01896,2024-07-30,Finland,Casual,Dormant,Sports Betting,E-Wallet,2024-09-23,Yes
+P01897,2023-10-21,India,Regular,Inactive,Sports Betting,Crypto,2024-08-22,Yes
+P01898,2024-01-16,Malta,Casual,Self-Excluded,Table Games,Bank Transfer,2024-10-18,Yes
+P01899,2024-01-17,Brazil,Regular,Inactive,Live Casino,Crypto,2024-07-12,Yes
+P01900,2024-03-18,Malta,Casual,Active,Table Games,Bank Transfer,2024-12-21,Yes
+P01901,2024-07-06,UK,Casual,Dormant,Table Games,E-Wallet,2024-07-27,Yes
+P01902,2023-06-13,Malta,Regular,Dormant,Live Casino,Crypto,2024-04-01,Yes
+P01903,2023-04-25,Finland,Casual,Dormant,Slots,Credit Card,2023-06-06,Yes
+P01904,2023-06-18,Sweden,Regular,Self-Excluded,Slots,Bank Transfer,2024-05-25,Yes
+P01905,2024-07-15,Canada,Regular,Dormant,Live Casino,Bank Transfer,2024-09-19,Yes
+P01906,2023-04-19,Sweden,Regular,Active,Live Casino,E-Wallet,2024-12-27,Yes
+P01907,2024-05-31,Malta,VIP,Inactive,Slots,Bank Transfer,2024-10-04,Yes
+P01908,2023-08-03,Cyprus,Casual,Inactive,Slots,Credit Card,2023-09-21,Yes
+P01909,2023-07-10,Germany,Casual,Dormant,Slots,Bank Transfer,2024-06-22,Yes
+P01910,2024-01-02,Nigeria,Casual,Self-Excluded,Table Games,Bank Transfer,2024-01-07,Yes
+P01911,2024-03-14,Nigeria,Casual,Inactive,Poker,Credit Card,2024-11-13,Yes
+P01912,2024-05-26,Brazil,Whale,Active,Sports Betting,Crypto,2024-12-17,No
+P01913,2024-03-08,Sweden,Regular,Self-Excluded,Slots,Crypto,2024-09-03,Yes
+P01914,2023-03-30,Germany,Casual,Inactive,Slots,E-Wallet,2024-10-06,Yes
+P01915,2023-04-07,Cyprus,Regular,Inactive,Poker,Crypto,2024-03-17,Yes
+P01916,2024-12-21,Cyprus,Casual,Dormant,Poker,Crypto,2024-12-21,Yes
+P01917,2024-08-30,Finland,Regular,Dormant,Sports Betting,Credit Card,2024-08-31,Yes
+P01918,2024-12-14,Finland,Casual,Inactive,Slots,Bank Transfer,2024-12-14,Yes
+P01919,2024-05-17,Brazil,Regular,Active,Live Casino,Credit Card,2024-12-24,Yes
+P01920,2023-04-23,Cyprus,Casual,Self-Excluded,Sports Betting,Crypto,2023-07-10,Yes
+P01921,2024-10-31,Canada,Casual,Dormant,Slots,Bank Transfer,2024-10-31,Yes
+P01922,2024-11-30,Cyprus,Casual,Inactive,Sports Betting,Credit Card,2024-12-01,Yes
+P01923,2024-09-11,Sweden,Casual,Inactive,Table Games,Crypto,2024-11-06,Yes
+P01924,2024-12-11,Finland,Regular,Inactive,Slots,Crypto,2024-12-11,Yes
+P01925,2024-07-24,Germany,Casual,Self-Excluded,Slots,Bank Transfer,2024-08-10,No
+P01926,2024-05-01,Malta,Regular,Inactive,Slots,Credit Card,2024-07-02,Yes
+P01927,2024-11-11,Finland,Regular,Active,Table Games,Bank Transfer,2024-12-27,Yes
+P01928,2024-11-03,Germany,Whale,Active,Poker,Credit Card,2024-12-23,Yes
+P01929,2023-05-17,UK,Casual,Self-Excluded,Table Games,Credit Card,2024-06-20,Yes
+P01930,2024-06-21,Finland,Casual,Self-Excluded,Slots,Bank Transfer,2024-11-17,No
+P01931,2023-09-07,Cyprus,Casual,Dormant,Sports Betting,Crypto,2023-12-25,Yes
+P01932,2024-02-02,Germany,Casual,Inactive,Live Casino,E-Wallet,2024-11-05,No
+P01933,2023-03-11,Nigeria,Casual,Inactive,Live Casino,E-Wallet,2023-05-24,Yes
+P01934,2024-10-02,Brazil,Casual,Inactive,Sports Betting,Credit Card,2024-10-16,No
+P01935,2023-11-25,Cyprus,Casual,Dormant,Table Games,Crypto,2023-12-09,Yes
+P01936,2023-08-19,Sweden,VIP,Inactive,Poker,Crypto,2023-10-23,Yes
+P01937,2023-06-11,Brazil,Regular,Active,Sports Betting,Credit Card,2024-12-25,Yes
+P01938,2023-03-09,UK,Casual,Inactive,Table Games,Bank Transfer,2023-08-05,Yes
+P01939,2023-12-16,Nigeria,Casual,Active,Table Games,Bank Transfer,2024-12-25,No
+P01940,2024-05-14,Nigeria,Casual,Inactive,Poker,E-Wallet,2024-11-06,Yes
+P01941,2024-05-16,Finland,Casual,Dormant,Poker,Credit Card,2024-09-29,Yes
+P01942,2023-10-05,Finland,Casual,Dormant,Live Casino,Bank Transfer,2024-08-04,No
+P01943,2023-09-03,Brazil,Casual,Inactive,Live Casino,Bank Transfer,2024-02-28,Yes
+P01944,2023-09-28,Cyprus,Casual,Inactive,Poker,E-Wallet,2024-09-04,No
+P01945,2023-07-14,Finland,Regular,Self-Excluded,Poker,Bank Transfer,2024-01-15,Yes
+P01946,2024-06-16,Brazil,Casual,Active,Live Casino,E-Wallet,2024-12-28,Yes
+P01947,2023-12-12,Sweden,Regular,Active,Table Games,E-Wallet,2024-12-27,Yes
+P01948,2024-08-04,Malta,Regular,Inactive,Table Games,Credit Card,2024-09-16,Yes
+P01949,2024-07-17,Germany,Whale,Dormant,Live Casino,Bank Transfer,2024-07-17,No
+P01950,2024-07-17,Finland,Casual,Inactive,Poker,Crypto,2024-09-25,Yes
+P01951,2024-03-13,Nigeria,Casual,Inactive,Slots,Crypto,2024-11-18,Yes
+P01952,2023-05-24,UK,Casual,Active,Slots,Credit Card,2024-12-22,Yes
+P01953,2023-10-02,Canada,Regular,Active,Live Casino,Credit Card,2024-12-18,No
+P01954,2023-01-11,Brazil,Regular,Active,Table Games,Crypto,2024-12-26,Yes
+P01955,2024-09-10,Finland,Casual,Inactive,Table Games,E-Wallet,2024-10-14,Yes
+P01956,2023-11-21,Canada,Regular,Dormant,Live Casino,Credit Card,2024-02-16,No
+P01957,2024-09-20,Sweden,Casual,Dormant,Slots,Credit Card,2024-09-24,Yes
+P01958,2023-09-05,Malta,Casual,Inactive,Live Casino,Bank Transfer,2023-11-28,Yes
+P01959,2023-11-12,Canada,Casual,Inactive,Sports Betting,E-Wallet,2024-09-14,Yes
+P01960,2024-02-23,Malta,VIP,Inactive,Sports Betting,Crypto,2024-10-06,Yes
+P01961,2023-07-30,Canada,Regular,Dormant,Poker,Bank Transfer,2024-04-06,Yes
+P01962,2024-09-22,Nigeria,Casual,Inactive,Live Casino,Bank Transfer,2024-11-17,Yes
+P01963,2024-12-16,Malta,Casual,Self-Excluded,Sports Betting,E-Wallet,2024-12-16,Yes
+P01964,2023-10-08,Cyprus,Casual,Active,Sports Betting,Crypto,2024-12-21,No
+P01965,2024-07-30,Germany,Regular,Active,Sports Betting,Credit Card,2024-12-28,Yes
+P01966,2024-01-26,Sweden,Casual,Active,Sports Betting,Credit Card,2024-12-23,Yes
+P01967,2023-10-03,Sweden,Casual,Inactive,Live Casino,E-Wallet,2024-02-13,Yes
+P01968,2024-06-13,UK,Regular,Inactive,Sports Betting,Bank Transfer,2024-08-02,Yes
+P01969,2024-12-25,Germany,Casual,Dormant,Poker,Credit Card,2024-12-25,Yes
+P01970,2023-09-19,Malta,Regular,Inactive,Sports Betting,Bank Transfer,2024-02-16,No
+P01971,2024-02-24,Germany,Casual,Active,Live Casino,Credit Card,2024-12-25,Yes
+P01972,2023-06-30,Canada,Regular,Active,Live Casino,E-Wallet,2024-12-24,Yes
+P01973,2024-09-09,Germany,Whale,Inactive,Table Games,E-Wallet,2024-09-17,Yes
+P01974,2024-07-20,Malta,Regular,Dormant,Poker,E-Wallet,2024-08-11,Yes
+P01975,2023-06-25,UK,Casual,Dormant,Poker,Credit Card,2024-03-13,Yes
+P01976,2024-04-25,Cyprus,Casual,Active,Poker,Bank Transfer,2024-12-19,Yes
+P01977,2023-09-09,Germany,Casual,Inactive,Live Casino,E-Wallet,2024-09-06,Yes
+P01978,2023-03-10,UK,Regular,Dormant,Table Games,Crypto,2023-07-27,Yes
+P01979,2024-02-09,Finland,Casual,Inactive,Sports Betting,Bank Transfer,2024-09-02,No
+P01980,2024-02-19,Canada,Regular,Dormant,Live Casino,Crypto,2024-07-02,Yes
+P01981,2023-03-17,Brazil,Casual,Inactive,Slots,Crypto,2024-03-27,Yes
+P01982,2023-01-25,UK,Casual,Active,Live Casino,Crypto,2024-12-20,No
+P01983,2024-04-05,Brazil,Regular,Dormant,Sports Betting,E-Wallet,2024-05-10,Yes
+P01984,2024-03-25,Sweden,VIP,Active,Sports Betting,Bank Transfer,2024-12-23,No
+P01985,2024-03-01,Malta,Casual,Dormant,Slots,Bank Transfer,2024-05-02,Yes
+P01986,2024-01-31,Canada,Casual,Dormant,Slots,Bank Transfer,2024-09-10,Yes
+P01987,2024-05-03,Sweden,Regular,Active,Slots,Bank Transfer,2024-12-30,Yes
+P01988,2024-06-02,Malta,Casual,Active,Poker,Bank Transfer,2024-12-18,Yes
+P01989,2024-10-07,Sweden,Regular,Inactive,Sports Betting,Bank Transfer,2024-10-08,No
+P01990,2024-09-28,UK,Casual,Active,Poker,Credit Card,2024-12-22,No
+P01991,2024-03-19,Finland,Regular,Dormant,Poker,Credit Card,2024-03-28,No
+P01992,2024-01-22,Sweden,Casual,Active,Table Games,E-Wallet,2024-12-28,Yes
+P01993,2023-04-06,Canada,VIP,Inactive,Live Casino,Credit Card,2024-01-13,Yes
+P01994,2023-05-17,Cyprus,Casual,Active,Sports Betting,E-Wallet,2024-12-26,Yes
+P01995,2023-08-04,Malta,Regular,Active,Slots,Bank Transfer,2024-12-18,Yes
+P01996,2023-08-13,Sweden,Regular,Inactive,Slots,Credit Card,2023-11-05,Yes
+P01997,2023-12-17,Sweden,VIP,Inactive,Table Games,Bank Transfer,2024-06-24,Yes
+P01998,2023-06-09,Brazil,Casual,Self-Excluded,Poker,E-Wallet,2024-11-22,Yes
+P01999,2024-05-09,Brazil,Casual,Active,Sports Betting,Crypto,2024-12-25,Yes
+P02000,2023-09-21,Finland,Regular,Active,Live Casino,E-Wallet,2024-12-19,No
